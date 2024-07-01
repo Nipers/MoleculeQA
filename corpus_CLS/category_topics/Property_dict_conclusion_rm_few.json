@@ -1,0 +1,2785 @@
+[
+    [
+        "role",
+        {
+            "metabolite": 2,
+            "ec 3.5.5.1 (nitrilase) inhibitor": 1,
+            "mitochondrial cytochrome-bc1 complex inhibitor": 1,
+            "fumigant, carcinogenic agent, marine metabolite, algal metabolite, mouse metabolite, mutagen": 1,
+            "metabolite and radical scavenger": 15,
+            "metabolite, ec 3.1.1.7 (acetylcholinesterase) inhibitor, mutagen, antioxidant, radical scavenger": 1,
+            "reagent, protic solvent, base, catalyst, plant metabolite, human metabolite, non-polar solvent": 1,
+            "cyanotoxin, protein synthesis inhibitor, hepatotoxic agent, genotoxin": 1,
+            "bacterial metabolite, ec 3.1.3.16 (phosphoprotein phosphatase) inhibitor, xenobiotic, environmental contaminant": 1,
+            "bacterial metabolite and ionophore": 1,
+            "plant metabolite, volatile oil component, non-polar solvent": 1,
+            "ec 6.4.1.2 (acetyl-coa carboxylase) inhibitor and phenoxy herbicide": 2,
+            "ec 3.6.3.8 (ca(2+)-transporting atpase) inhibitor": 1,
+            "calcium channel blocker": 3,
+            "inhibits succinate dehydrogenase (quinone)": 2,
+            "inhibits ec 1.14.13.97 (taurochenodeoxycholate 6alpha-hydroxylase)": 1,
+            "ec 1.14.13.70 (sterol 14alpha-demethylase) inhibitor and antifungal agrochemical": 7,
+            "ec 1.3.5.1 [succinate dehydrogenase (quinone)] inhibitor and antifungal agrochemical": 10,
+            "inhibits ec 3.4.24.83 (anthrax lethal factor endopeptidase)": 1,
+            "coenzyme": 2,
+            "xenobiotic and environmental contaminant": 8,
+            "polar aprotic solvent": 1,
+            "environmental contaminant and xenobiotic": 9,
+            "apoptosis inducer": 4,
+            "ec 5.99.1.2 (dna topoisomerase) inhibitor": 3,
+            "antineoplastic agent": 4,
+            "prodrug": 3,
+            "buffer and surfactant": 1,
+            "buffer substance": 2,
+            "allergen and hapten": 2,
+            "human xenobiotic metabolite and environmental contaminant": 1,
+            "inhibits ec 1.3.3.4 (protoporphyrinogen oxidase)": 1,
+            "oxidative phosphorylation inhibitor": 1,
+            "human metabolite": 1,
+            "nicotinic acetylcholine receptor agonist, neonicotinoid insectide, xenobiotic, environmental contaminant, genotoxin": 1,
+            "ec 1.14.14.14 (aromatase) inhibitor, antineoplastic agent, environmental contaminant, xenobiotic": 1,
+            "cyclooxygenase 2 inhibitor, ec 1.13.11.34 (arachidonate 5-lipoxygenase) inhibitor, apoptosis inducer": 1,
+            "radioopaque medium and non-polar solvent": 1,
+            "ec 6.4.1.2 (acetyl-coa carboxylase) inhibitor, pparalpha agonist, antineoplastic agent, apoptosis inducer": 1,
+            "metabolite of the widespread carcinogen benzo[a]pyrene": 1,
+            "signalling molecule": 2,
+            "alkylating agent, mutagen, carcinogenic agent, genotoxin": 1,
+            "allergen": 1,
+            "ec 3.5.1.98 (histone deacetylase) inhibitor": 1,
+            "proteasome inhibitor and antimalarial": 1,
+            "gaba-gated chloride channel antagonist": 1,
+            "p450 inhibitor, environmental contaminant, xenobiotic": 1,
+            "hepatoprotective agent and prodrug": 1,
+            "surfactant, emulsifier, buffer": 1,
+            "prohormone": 1,
+            "xenobiotic, environmental contaminant, agrochemical, ec 6.4.1.2 (acetyl-coa carboxylase) inhibitor, proherbicide": 1,
+            "persistent organic pollutant, xenobiotic, surfactant": 1,
+            "epitope and mycotoxin": 1,
+            "restores axonal conduction after spinal cord injury": 1,
+            "apoptosis inducer, serotonin uptake inhibitor, impurity": 1,
+            "mutagen": 1,
+            "sodium channel blocker": 1,
+            "environmental contaminant, xenobiotic, carcinogenic agent, surfactant, endocrine disruptor": 1,
+            "bacterial metabolite and biological pigment": 1,
+            "neurotoxin, ec 1.3.5.1 [succinate dehydrogenase (quinone)] inhibitor, antimycobacterial drug, mycotoxin": 1,
+            "bacterial metabolite, cofactor, antioxidant": 1,
+            "bacterial metabolite, reducing agent, cofactor": 1,
+            "ec 1.17.3.2 (xanthine oxidase) inhibitor and reactive oxygen species generator": 1,
+            "ec 2.5.1.58 (protein farnesyltransferase) inhibitor": 4,
+            "metabolite and calcium ionophore": 1,
+            "fundamental metabolite and cofactor": 1,
+            "potassium channel blocker": 6,
+            "antihypertensive agent, sodium channel blocker, vasodilator agent, k-atp channel agonist, beta-adrenergic agonist, cardiotonic drug, bronchodilator agent, sympathomimetic agent, diuretic": 1,
+            "metabolite, ec 1.14.13.39 (nitric oxide synthase) inhibitor, uremic toxin": 1,
+            "hepatoprotective agent, antioxidant, antidote": 1,
+            "ec 3.5.1.98 (histone deacetylase) inhibitor, antineoplastic agent, apoptosis inducer, antimalarial": 1,
+            "allergen and xenobiotic": 1,
+            "fungal metabolite, hallucinogen, prodrug, serotonergic agonist": 1,
+            "protic solvent and reagent": 1,
+            "alkylating agent, carcinogenic agent, antineoplastic agent, immunosuppressive agent, drug allergen": 1,
+            "buffer": 1,
+            "water-soluble vitamin and cofactor": 1,
+            "reducing agent": 1,
+            "diuretic and sodium channel blocker": 3,
+            "ec 3.1.1.7 (acetylcholinesterase) inhibitor and neurotoxin": 2,
+            "ec 2.7.10.1 (receptor protein-tyrosine kinase) inhibitor, angiogenesis inhibitor, antineoplastic agent, apoptosis inducer": 1,
+            "ec 3.1.3.1 (alkaline phosphatase) inhibitor": 1,
+            "vasoconstrictor agent, alpha-adrenergic agonist, sympathomimetic agent, mouse metabolite, neurotransmitter": 1,
+            "xenobiotic, environmental contaminant, radioopaque medium": 2,
+            "neurotoxin and apoptosis inducer": 1,
+            "xenobiotic metabolite, xenobiotic, environmental contaminant, allergen": 1,
+            "microtubule-destabilising agent, antineoplastic agent, ec 2.7.11.21 (polo kinase) inhibitor, apoptosis inducer": 1,
+            "cofactor, ec 2.1.1.79 (cyclopropane-fatty-acyl-phospholipid synthase) inhibitor, ec 2.1.1.72 [site-specific dna-methyltransferase (adenine-specific)] inhibitor, fundamental metabolite, epitope": 1,
+            "neurotoxin and solvent": 1,
+            "oxidative phosphorylation inhibitor, bacterial xenobiotic metabolite, antiseptic drug, allergen": 1,
+            "immunomodulator and signalling molecule": 1,
+            "iron chelator and siderophore": 1,
+            "inhibits ec 2.5.1.18 (glutathione transferase)": 1,
+            "environmental contaminant, xenobiotic, antifungal agrochemical": 2,
+            "cyanotoxin": 1,
+            "fundamental metabolite, antioxidant": 1,
+            "ec 3.1.1.8 (cholinesterase) inhibitor": 1,
+            "hiv-1 reverse transcriptase inhibitor and antiviral agent": 1,
+            "antitubercular agent": 1,
+            "astringent": 1,
+            "poison": 2,
+            "serotonergic antagonist": 1,
+            "mitochondrial cytochrome-bc1 complex inhibitor, antifungal agrochemical": 1,
+            "bacterial metabolite and iron chelator": 1,
+            "carcinogenic agent, neurotoxin, nephrotoxin": 1,
+            "beta-adrenergic antagonist, antihypertensive agent, xenobiotic, environmental contaminant": 1,
+            "dopaminergic antagonist": 1,
+            "xenobiotic and persistent organic pollutant": 2,
+            "central nervous system depressant": 1,
+            "inhibits ec 3.6.3.14 (h(+)-transporting two-sector atpase)": 1,
+            "neurotransmitter": 1,
+            "xenobiotic metabolite and fragrance": 1,
+            "critical role of the rare aminosugar 2-acetamido-4-amino-2,4-dideoxy-d-fucose (2-acetamido-4-amino-2,4,6-trideoxy-d-galactose; d-aat) for serotype 1 immune recognition": 4,
+            "vasodilator agent and nitric oxide donor": 1,
+            "hapten and tolerogen": 1,
+            "lewis base and electron donor": 1,
+            "inhibits ec 1.14.13.70 (sterol 14alpha-demethylase)": 1,
+            "non-polar solvent and refrigerant": 1,
+            "ec 2.7.11.1 (non-specific serine/threonine protein kinase) inhibitor, antineoplastic agent, apoptosis inducer": 1,
+            "alkylating agent, antineoplastic agent, carcinogenic agent, poison": 1,
+            "inhibits ec 2.7.11.26 (tau-protein kinase)": 1,
+            "mitochondrial cytochrome-bc1 complex inhibitor and antifungal agrochemical": 14,
+            "non-polar solvent": 2,
+            "radical scavenger and antioxidant": 1,
+            "non-steroidal anti-inflammatory drug, ec 2.7.11.10 (ikappab kinase) inhibitor, ec 3.1.3.48 (protein-tyrosine-phosphatase) inhibitor, platelet aggregation inhibitor, apoptosis inducer": 1,
+            "ec 1.5.1.3 (dihydrofolate reductase) inhibitor, xenobiotic, environmental contaminant, drug allergen, antibacterial drug, diuretic": 1,
+            "environmental food contaminant and xenoestrogen": 1,
+            "calcium channel blocker and hapten": 1,
+            "ec 4.2.1.1 (carbonic anhydrase) inhibitor, antibacterial agent, drug allergen": 1,
+            "ec 1.1.1.21 (aldehyde reductase) inhibitor and antioxidant": 1,
+            "erythropoietin inhibitor and sensitiser": 1,
+            "vasodilator agent, muscarinic agonist, hormone, human metabolite, mouse metabolite, neurotransmitter": 1,
+            "chelator and catalyst": 1,
+            "inhibits sterol 14alpha-demethylase and acts as an antifungal agrochemical": 1,
+            "ec 4.3.1.3 (histidine ammonia-lyase) inhibitor": 1,
+            "crystallization adjutant": 1,
+            "ec 1.3.3.4 (protoporphyrinogen oxidase) inhibitor and herbicide": 1,
+            "flame retardant, neurotoxin, persistent organic pollutant, xenobiotic": 1,
+            "apoptosis inducer and allergen": 1,
+            "alkylating agent, genotoxin, carcinogenic agent, mutagen, apoptosis inducer": 1,
+            "ec 3.4.15.1 (peptidyl-dipeptidase a) inhibitor, antihypertensive agent, prodrug": 1,
+            "ec 1.4.3.4 (monoamine oxidase) inhibitor and antidepressant": 1,
+            "protic solvent and cross-linking reagent": 1,
+            "mitochondrial cytochrome-bc1 complex inhibitor and acaricide": 1,
+            "thrombopoietin receptor agonist": 1,
+            "potassium channel opener": 1,
+            "macrophage migration inhibitory factor inhibitor, antineoplastic agent, apoptosis inducer": 1,
+            "inhibits sterol 14alpha-demethylase, acts as an allergen, and functions as an antifungal agrochemical": 1,
+            "hsp90 inhibitor, antineoplastic agent, apoptosis inducer": 1,
+            "ec 1.9.3.1 (cytochrome c oxidase) inhibitor, ec 1.15.1.1 (superoxide dismutase) inhibitor, neurotoxin": 1,
+            "mitochondrial cytochrome-bc1 complex inhibitor and insecticide": 1,
+            "ec 1.14.13.70 (sterol 14alpha-demethylase) inhibitor, xenobiotic metabolite, antifungal agrochemical": 1,
+            "ec 2.7.11.24 (mitogen-activated protein kinase) inhibitor, antineoplastic agent, apoptosis inducer": 1,
+            "ec 1.14.13.72 (methylsterol monooxygenase) inhibitor, sterol biosynthesis inhibitor, antifungal agrochemical": 1,
+            "mitochondrial cytochrome-bc1 complex inhibitor, environmental contaminant, xenobiotic, antifungal agrochemical": 1,
+            "dna synthesis inhibitor, ec 1.17.4.1 (ribonucleoside-diphosphate reductase) inhibitor, antineoplastic agent, genotoxin, antimetabolite, teratogenic agent, radical scavenger, immunomodulator, antimitotic": 1,
+            "carcinogenic agent and poison": 1,
+            "persistent organic pollutant": 1,
+            "inhibits uncoupling protein, is hepatotoxic, inhibits apoptosis, acts as antioxidant, anti-inflammatory, and cross-linking reagent": 1,
+            "buffer and astringent": 1
+        }
+    ],
+    [
+        "source",
+        {
+            "isolated from azadirachta indica": 1,
+            "penicillium rubrum": 4,
+            "isolated from mediterranean shallow-water sponges topsentia genetrix, and from caribbean deep-sea sponges of the halichondriidae family": 1,
+            "isolated from chaetomium globosum": 1,
+            "isolated from dalea boliviana": 2,
+            "culture broth of penicillium": 4,
+            "serjania salzmanniana": 1,
+            "isolated from penicillium commune": 2,
+            "penicillium chermesinum": 3,
+            "isolated from the cultures of a hawaiian isolate of the fungus phoma species": 2,
+            "cupressus sempervirens": 1,
+            "juniperus occidentalis": 1,
+            "roots of the madagascan plant albizia gummifera": 2,
+            "isolated from whole plants of ardisia japonica": 1,
+            "isolated from the fungus aspergillus fumigatus": 2,
+            "aerial parts of delphinium staphisagria": 4,
+            "garcinia mangostana": 1,
+            "maclura pomifera": 1,
+            "angelica dahurica": 2,
+            "angelica koreana": 2,
+            "isolated from the cultured broth of the fungus penicillium citrinum": 1,
+            "isolated from ilex oblonga": 1,
+            "released by serratia odorifera": 1,
+            "roots of breynia fruticosa": 1,
+            "isolated from the rhizomes of convallaria majalis": 1,
+            "isolated from the fungus, aspergillus fumigatus": 2,
+            "isolated from an endophytic fungus, epichloe typhina": 1,
+            "isolated from aspergillus": 1,
+            "styrax agrestis fruits": 2,
+            "outer-section (zona glomerulosa) of the adrenal cortex in the adrenal gland": 1,
+            "fungal fermentation broth of chaetomium globosum": 1,
+            "isolated from daphnia pulex": 3,
+            "isolated from the mycelia of a liquid fermentation culture of the fungus, bionectria byssicola": 1,
+            "isolated from the stems of maytenus diversifolia": 1,
+            "penicillium herquei": 1,
+            "isolated from the stems of gordonia chrysandra": 6,
+            "isolated from zanthoxylum piperitum": 1,
+            "isolated from the fruits of styrax agrestis": 1,
+            "isolated from ligustrum lucidum": 1,
+            "isolated from centaurium erythraea and swertia chirayita": 1,
+            "metabolite of the nematode caenorhabditis elegans": 1,
+            "isolated from penicillium species": 1,
+            "isolated from morus nigra": 1,
+            "isolated from serjania salzmanniana": 1,
+            "tulip anthers": 1,
+            "celastrus orbiculatus": 1,
+            "olea europaea": 1,
+            "gordonia chrysandra": 2,
+            "isolated from salvia santolinifolia": 1,
+            "isolated from ganoderma lucidum and ganoderma pfeifferi": 1,
+            "isolated from acacia mearnsii": 3,
+            "whole plants of haloxylon recurvum": 2,
+            "isolated from the roots of sophora flavescens": 2,
+            "hypericum oblongifolium": 2,
+            "hypericum roeperianum (roots) and hypericum styphelioides (leaves)": 1,
+            "isolated from sedum sarmentosum": 1,
+            "isolated from brunfelsia grandiflora": 1,
+            "ganoderma lucidum": 1,
+            "cordyceps sinensis": 1,
+            "isolated from piper methysticum and piper rusbyi": 1,
+            "isolated from the young leaves of calycolpus warscewiczianus": 1,
+            "eurycoma longifolia": 1,
+            "simaba multiflora": 1,
+            "isolated from the whole plant of indigofera heterantha": 1,
+            "chaetomium globosum": 1,
+            "sweat of schizophrenics": 1,
+            "isolated from delphinium staphisagria": 1,
+            "salacia macrosperma": 1,
+            "tripterygium wilfordii": 1,
+            "isolated from prunella vulgaris and isodon japonicus": 1,
+            "cassia torosa": 1,
+            "isolated from the wood of xanthoceras sorbifolium": 1,
+            "pogostemon cablin": 1,
+            "epimedium sagittatum": 1,
+            "isolated from humulus lupulus": 4,
+            "isolated from the roots of dorstenia psilurus": 4,
+            "guaianolide isolated from chrysanthemum boreale": 1,
+            "isolated from salvia miltiorrhiza": 1,
+            "stem of the fruiting bodies of the basidiomycete strain laccaria amethystea": 1,
+            "laurus nobilis leaves": 1,
+            "isolated from spongia": 1,
+            "stem wood of erythrina latissima": 1,
+            "erythrina glauca": 1,
+            "erythrina stricta": 1,
+            "dorstenia psilurus": 2,
+            "isolated from maclura tinctoria and cudrania tricuspidata": 1,
+            "marine sponge pseudaxinyssa digitata": 1,
+            "marine sponge dysidea": 1,
+            "endophytic fungus microdiplodia species": 1,
+            "aerial parts of aster spathulifolius": 1,
+            "cratoxylum celebicum and cratoxylum cochinchinense": 1,
+            "isolated from the fermentation broth of pseudomonas fluorescens and pseudomonas putida": 1,
+            "culture broth of talaromyces trachyspermus": 1,
+            "isolated from lonchocarpus utilis and lonchocarpus urucu": 2,
+            "stachybotrys bisbyi sank 17777": 1,
+            "isolated from schizolaena hystrix": 2,
+            "myrcia multiflora leaves": 1,
+            "aspergillus ochraceus culture broth": 1,
+            "endophytic fungus stemphylium botryosum": 1,
+            "salix matsudana leaves": 1,
+            "zaluzania triloba": 1,
+            "laurus nobilis": 1,
+            "isolated from plakortis angulospiculatus": 1,
+            "cooked meat and fish": 1,
+            "isolated from lycopodium hamiltonii": 1,
+            "snuff tobacco": 1,
+            "black tea": 1,
+            "isolated from symplocos racemosa": 1,
+            "marine fungus scytalidium sp.": 2,
+            "produced in the digestive system of sperm whales": 1,
+            "isolated from fungi": 1,
+            "isolated from brucea antidysenterica": 1,
+            "marine sponge aka coralliphaga": 1,
+            "cyanobacterium, lyngbya sp.": 1,
+            "produced by the gram-negative insect pathogens xenorhabdus nematophila and photorhabdus luminescens": 1,
+            "isolated from a fungus phoma sp.": 1,
+            "disinfection by-product found in drinking water": 1
+        }
+    ],
+    [
+        "inhibitor",
+        {
+            "selective inhibitor of acetylcholinesterase": 4,
+            "histone deacetylase (hdac)": 1,
+            "reversible inhibitor of eukaryotic nuclear dna replication": 1,
+            "ca(2+)-transporting atpase mediated uptake of calcium ions into sarcoplasmic reticulum": 1,
+            "ec 2.4.1.231 [alpha,alpha-trehalose phosphorylase (configuration-retaining)]": 1,
+            "ec 2.4.1.64 (alpha,alpha-trehalose phosphorylase)": 1,
+            "ec 3.2.1.28 (alpha,alpha-trehalase)": 1,
+            "aldehyde dehydrogenase 1a2 (aldh1a2)": 1,
+            "tubulin acetylation mediated by trichostatin a": 1,
+            "atp-competitive inhibitor of fibroblast growth factor receptor 1": 1,
+            "ec 6.4.1.1 (pyruvate carboxylase)": 1,
+            "histone deacetylase isoform 1 (hdac1)": 1,
+            "histone deacetylase isoform 3 (hdac3)": 1,
+            "mek (mitogen activated protein kinase kinase)": 1,
+            "heat shock protein 90 (hsp90)": 1,
+            "acetylcholinesterase (ache)": 1,
+            "nadp(+)-dependent enzyme 6-phosphogluconate dehydrogenase": 1,
+            "ec 3.5.1.23 (ceramidase)": 1,
+            "selective 5-lipoxygenase inhibitor": 1,
+            "glutathione s-transferase (ec 2.5.1.18)": 1,
+            "c-terminal boronic acid peptide": 1,
+            "hiv-1 protease": 2,
+            "egf-r protein tyrosine kinase": 2,
+            "c-jun n-terminal kinase (ic50 = 0.7um)": 1,
+            "potent and selective inhibitor of polybromo 1 (kd = 48 nm), smarca2 and smarca4 (kd = 89 nm) bromodomains": 1,
+            "tyrosine kinases flt3, pdgfr and kit": 1,
+            "dual inhibitor of 5-lipoxygenase and thromboxane a2 synthetase": 1,
+            "selective inhibitor of cgmp-stimulated phosphodiesterase (pde2) (ic50 = 0.8 - 4 mm)": 2,
+            "hedgehog signalling pathway": 1,
+            "thrombin (factor iia) inhibitor": 2,
+            "dehydropeptidase i (membrane dipeptidase, 3.4.13.19)": 1,
+            "atpase activity of non-muscle myosin ii": 1,
+            "3c-like protease inhibitor": 2,
+            "hiv-1 integrase": 1,
+            "acetylcholinesterase and pseudocholinesterase": 1,
+            "ec 3.1.3.11 (fructose-bisphosphatase)": 1,
+            "ec 3.1.3.1 (alkaline phosphatase)": 1,
+            "tyrosine kinases flt3, pdgfr, and kit": 1,
+            "suicide inhibitor of bacterial beta-lactamase enzymes": 1,
+            "ec 3.4.21.5 (thrombin)": 2,
+            "ec 3.4.21.26 (prolyl oligopeptidase)": 1,
+            "acyl-coa:cholesterol acyltransferase": 1,
+            "pancreatic elastase": 1,
+            "5-ht2-serotonin receptors": 1,
+            "mu-opioid receptors": 1,
+            "delta-opioid receptors": 1,
+            "potent, reversible inhibitor of the insulin-like growth factor 1 receptor/insulin receptor family kinases": 1,
+            "nad(p)h oxidase (h2o2-forming) inhibitor": 1,
+            "atp-competitive inhibitor of rho kinase (rock)": 1,
+            "matrix metalloproteinases": 1,
+            "non-atp-competitive inhibitor of plk1": 1,
+            "selective inhibitor of matrix metalloproteinases (mmps) 2, 3, 9, 13, and 14": 1,
+            "cell-permeable inhibitor of actin assembly mediated by arp2/3 complex": 1,
+            "3c-like protease inhibitor of mers-cov and sars-cov": 1,
+            "amidase": 1,
+            "insulin growth factor 1 receptor (igf-1 receptor, igfr1r) tyrosine kinase": 1,
+            "survivin-ran protein complex": 1,
+            "hedgehog signaling pathway": 1,
+            "gli protein": 1,
+            "potent, cell-permeable, metabolically stable and selective inhibitor of the deacetylase sirt1": 1,
+            "phospholipase a2 (ec 3.1.1.4) of insects": 1,
+            "brsk2 kinase, pdgf-dependent receptor autophosphorylation and cell proliferation": 1,
+            "ec 6.2.1.3 (long-chain-fatty-acid--coa ligase)": 1,
+            "ec 3.1.1.64 (retinoid isomerohydrolase)": 1,
+            "bacterial metabolite": 1,
+            "jun-fos-dna complex formation": 1,
+            "cytokine-induced ikappab-alpha phosphorylation": 1,
+            "cdk7 inhibitor": 1,
+            "mitochondrial respiration": 1,
+            "matrix metallopeptidase-9 (mmp-9, ec 3.4.24.35)": 1,
+            "transforming growth factor-betari (tgf-betari) kinase inhibitor": 1,
+            "dual specificity phosphatase 6 (dusp6)": 1,
+            "potent and specific inhibitor of the breast cancer resistance protein multidrug transporter": 1,
+            "potent, selective, reversible, and atp-competitive inhibitor of ampk and selective inhibitor of bone morphogenetic protein (bmp) signaling.": 1,
+            "dual inhibitor of tyrosine and phosphoinositide kinases": 1,
+            "parkinson's disease kinase lrrk2": 2,
+            "mitochondrial f1fo atp synthase": 1,
+            "reversible inhibitor of cholinesterase": 1,
+            "ec 3.1.1.4 (phospholipase a2)": 1,
+            "ec 2.7.10.2 (non-specific protein-tyrosine kinase)": 1,
+            "stat3 inhibitor": 1,
+            "mitochondrial respiratory chain at cytochrome bc1 and photosynthetic electron flow before cytochrome b559": 1,
+            "vascular endothelial growth factor and platelet-derived growth factor receptor tyrosine kinases": 1,
+            "vascular endothelial growth factor (vegf) receptor protein tyrosine kinase 1/2": 1,
+            "platelet derived growth factor (pdgf) receptor": 1,
+            "mitochondrial cytochrome-bc1 complex": 1,
+            "potent nanomolar-level inhibitor of phenoloxidase": 1,
+            "mek1 and mek2": 1,
+            "mitogen-activated protein kinase (mapk) alpha and beta": 1,
+            "vegfr2/kdr and flt3 and ckit": 1,
+            "dual tyrosine kinase inhibitor (tki) of epithelial growth factor receptors (egfr) her2 and her3": 1,
+            "hcv polymerase": 1,
+            "atp-competitive inhibitor of cdk2, cdk7 and cdk9 kinases": 1
+        }
+    ],
+    [
+        "inhibitory activity",
+        {
+            "against caspase-1": 5,
+            "inhibits biofilm formation of the dental bacterium streptococcus mutans": 1,
+            "against tyrosinase": 4,
+            "against platelet-activating factor (paf)-induced hypertension": 2,
+            "isolated from zanthoxylum piperitum, it exhibits inhibitory activity against acyl-coa:cholesterol acyltransferase.": 1,
+            "significant inhibitory activity against acetylcholinesterase enzyme (ec 3.1.1.7)": 1,
+            "against alpha-glucosidase": 3,
+            "against lipoxygenase": 4,
+            "against chymotrypsin": 5,
+            "against cox-1 and cox-2": 2,
+            "against acyl-coa:cholesterol acyltransferase 2": 4,
+            "against protein kinase c": 1,
+            "isolated from fungi, it exhibits inhibitory activity against nf-kappab.": 1,
+            "toward the spore germination of cladosporium phlei, a pathogenic fungus of the timothy plant": 1,
+            "against hepatitis c protease": 1,
+            "against acetylcholinesterase": 3,
+            "against chemokine receptor ccr-5": 1,
+            "inhibitory activity against prostaglandin biosynthesis": 1,
+            "against topoisomerse i and ii": 1,
+            "strong inhibitory activity against alpha-glucosidase (ec 3.2.1.20)": 2,
+            "isolated from the leaves of myrcia multiflora, it exhibits inhibitory activity against aldose reductase.": 2,
+            "against platelet aggregation": 2,
+            "against topoisomerase i and ii": 2,
+            "isolated from chaetomium funicola, it exhibits inhibitory activity against metallo-beta-lactamases.": 2,
+            "against acyl-coa:cholesterol acyltransferase": 1,
+            "against nitric oxide synthase": 2,
+            "isolated from chaetomium funicola, exhibits inhibitory activity against metallo-beta-lactamases.": 1,
+            "exhibits inhibitory activity against the production of interleukin 1-beta from induced inflammasomes": 1,
+            "against hiv-1 rnase h": 1,
+            "against cholinesterase": 2,
+            "against alpha-amylase": 3,
+            "against topoisomerase i": 3,
+            "against cyclooxygenase 1 and 2": 1,
+            "against angiotensin-converting enzyme": 1,
+            "isolated from the leaves of acacia aulacocarpa, it exhibits inhibitory activity against tie2 kinase (ec 2.7.10.1) as well as modest activity against a variety of cultured mammalian cells.": 1,
+            "cox-2": 1,
+            "5-lipooxygenase": 1,
+            "against melanogenesis": 1,
+            "against glycogen synthase kinase-3 (ec 2.7.11.26)": 3,
+            "against several isoforms of the histone deacetylase complex (hdac)": 1,
+            "against topoisomerase ii": 1,
+            "isolated from the flowers of chrysanthemum indicum, it exhibits inhibitory activity for rat lens aldose reductase.": 2,
+            "towards hiv-1 protease": 1,
+            "against no production": 2,
+            "against proteases": 2,
+            "against androgen receptor": 1,
+            "against nitric oxide production": 1,
+            "broad range of inhibitory activity against various rna viruses including hcv, parainfluenza and sars-cov.": 1,
+            "exhibits inhibitory activity against poly(adp-ribose) polymerase": 1,
+            "against production of nitric oxide (no)": 5,
+            "isolated from epimedium sagittatum, it exhibits inhibitory activity against platelet aggregation.": 1,
+            "against the enzyme heparanase": 1,
+            "against mitogen-activated protein kinase-activated protein kinase 2 (ec 2.7.11.1)": 2,
+            "tyrosinase inhibitory": 1,
+            "isolated from bulbs of ornithogalum saundersiae, it exhibits inhibitory activity on proliferation of human peripheral blood lymphocytes.": 1,
+            "against aldose reductase": 1,
+            "against dna polymerase": 1,
+            "platelet aggregation": 1,
+            "potent inhibitory activity towards mitochondrial nadh oxidase": 1,
+            "against hmg-coa reductase (ec 1.1.1.34/ec 1.1.1.88)": 1,
+            "against nf-kappab": 2,
+            "isolated from pholidota yunnanensis, it exhibits inhibitory activity on nitric oxide production.": 1,
+            "inhibits acetylcholinesterase (ec 3.1.1.7)": 1,
+            "inhibits hepatitis b virus reverse transcriptase by competing with deoxyguanosine triphosphate, with no activity against hiv.": 1,
+            "against rho-associated protein kinase (rock) enzyme": 1,
+            "against phospholipase a2": 1,
+            "against activator protein 1 (ap-1)": 3,
+            "against phosphatidylinositol-3-oh kinase": 1,
+            "potent inhibitory activity against ht-29 colonic adenocarcinoma cells": 1,
+            "against cox-2": 1
+        }
+    ],
+    [
+        "function",
+        {
+            "allantoin derivative": 1,
+            "coenzyme for the synthesis of amino acids, neurotransmitters, sphingolipids, and aminolevulinic acid": 1,
+            "major component of dauer pheromone in caenorhabditis elegans": 1,
+            "endocrine regulator for water balance, osmotic homoeostasis and social/sexual behavior in non-mammalian vertebrates": 1,
+            "perfumes and flavors": 1,
+            "medical research": 1,
+            "involved in skin self-sterilisation and atopic dermatitis amelioration": 1,
+            "dauer inducing and strongly male attracting": 1,
+            "used in the synthesis of certain polymers and as a solvent and antifreeze": 1,
+            "detects moderate and potent cyp3a4 inhibition in vivo": 1,
+            "involved in the synthesis and degradation of ketone bodies, used as an energy source by the brain during hypoglycaemia, and for the synthesis of biodegradable plastics.": 1,
+            "suicide inhibitor of bacterial beta-lactamase enzymes": 1,
+            "aphid sex pheromone and cat attractant": 1,
+            "facilitates movement of acetyl-coa into the matrices of mammalian mitochondria during the oxidation of fatty acids.": 1,
+            "fruit flavour intensifier": 1,
+            "industrial solvent": 1,
+            "metabolite of cortisol": 1,
+            "dna chain terminator": 1,
+            "x-ray contrast agent for intravascular administration": 1,
+            "major component of dauer pheromone, promotes entry into dauer diapause stage, synergises with ascr#3, ascr#4, and ascr#8 in male attraction.": 1,
+            "nmda receptor antagonist": 1,
+            "carrier of dopamine into the brain": 1,
+            "camp-dependent protein kinase a (pka) activator and camp analogue": 1,
+            "porcupine inhibitor (wnt signalling inhibitor)": 1,
+            "used as an affinity label for androgen receptor in prostate and prostatic tumors": 1,
+            "major component of dauer pheromone, promotes entry into dauer diapause stage, synergises with ascr#2, ascr#4, and ascr#8 in male attraction.": 1,
+            "used as the basis of an artificial blood substitute": 1,
+            "epoxide ring opening via nucleophilic attack by h2s": 1,
+            "breakdown product of stain- and grease-proof coatings": 1,
+            "agonist of inositol 1,4,5-trisphosphate receptor": 1,
+            "oxidation of secondary amines to nitrones": 1,
+            "inflammatory mediator": 1,
+            "used in anabolic reactions": 1,
+            "antagonist for retinoic acid receptor alpha and apoptosis inducer": 1,
+            "useful red nuclear staining lake with aluminum": 1,
+            "prolongs the antibacterial effect of imipenem by preventing its renal metabolism to inactive and potentially nephrotoxic products": 1,
+            "prodrug, antiemetic, neurokinin-1 receptor antagonist": 1,
+            "prolongs the antibacterial effect of imipenem by preventing its renal metabolism to microbiologically inactive and potentially nephrotoxic products.": 1,
+            "radiographic contrast media for cholecystography and intravenous cholangiography": 1,
+            "mchr1 antagonist": 1,
+            "stimulates adenylyl cyclase (ec50 = 65 nm)": 1,
+            "used to demonstrate myelin": 1,
+            "nuclear counterstain for nissl substance and mast cell granules": 1,
+            "stimulates adenylyl cyclase (ec50 = 65 nm) but not phosphoinositide hydrolysis": 1,
+            "protects cells against reactive, toxic and potentially carcinogenic species": 2,
+            "ec 1.14.13.70 (sterol 14alpha-demethylase) inhibitor and antifungal agrochemical": 1,
+            "neurotransmitter in the brain, hormone in the gut, and neuromodulator": 1,
+            "calcium channel blocker": 1,
+            "neurotransmitter": 1,
+            "important for proper functioning of joints and tendons, helps maintain and strengthen heart muscles": 1,
+            "extended linker in solid-phase immunoassays": 1,
+            "inhibitor of ergosterol synthesis": 1,
+            "used in dye manufacturing": 1,
+            "contrast agent in magnetic resonance imaging": 1,
+            "biological dye": 1,
+            "antiseptic and disinfectant": 1,
+            "used for production of other organic chemicals, particularly solvent oxolane (tetrahydrofuran or thf)": 1,
+            "tumour necrosis factor (tnf) alpha blocker": 1,
+            "lipid-soluble prodrug for (9s)-erythromycyclamine": 1,
+            "potent phospholipid activator and mediator of leukocyte functions including platelet aggregation, inflammation, and anaphylaxis.": 1,
+            "assaying cationic surfactants": 1,
+            "antifungal agent": 1,
+            "activates hedgehog signaling pathway": 1,
+            "ec 1.14.13.70 (sterol 14alpha-demethylase) inhibitor, antifungal agrochemical": 1,
+            "carbon monoxide-releasing molecule": 1,
+            "acts as a siderophore": 1,
+            "combined intercalating and chelating reagent": 1,
+            "antiseptic and antifungal agent": 1
+        }
+    ],
+    [
+        "appearance",
+        {
+            "yellow-golden color": 1,
+            "blue fluorescence": 1,
+            "not mentioned": 2,
+            "colorless liquid": 1,
+            "red pigment (free)": 1,
+            "blue, brown, or green chromoprotein": 1,
+            "colourless odourless gas": 1,
+            "colourless": 7,
+            "colourless syrupy liquid": 1,
+            "orange-red crystals": 1,
+            "red": 1,
+            "blue-violet at ph 3.0, red at ph 5.0": 1,
+            "fruity, plum-like odor and taste": 1,
+            "purple": 1,
+            "colorless or white crystalline powder": 1,
+            "bright red lakes with calcium": 1,
+            "green note": 1,
+            "ice-like solid": 1,
+            "unknown": 1,
+            "bright blue crystalline solid": 1,
+            "orange-red": 1,
+            "flowery, citrus-like flavor": 1,
+            "not specified": 1,
+            "blue": 1,
+            "white crystalline powder": 1,
+            "soft white clay": 1,
+            "milling yellow 3g": 1,
+            "direct cotton dye": 1,
+            "dark red crystalline solid": 1,
+            "pale yellow": 1,
+            "white odorless powder": 1,
+            "pink at ph 0.0-1.6": 1,
+            "yellow at ph 0.0-1.6": 1,
+            "green at ph 6.0-7.6": 1,
+            "metachromatic dye": 1,
+            "dihydrochloride salt": 1,
+            "yellow crystalline powder": 1,
+            "flammable, colorless liquid": 1,
+            "red pigment": 1,
+            "yellow crystalline": 1,
+            "strongly-coloured red-orange": 1,
+            "colourless or pale yellow": 1,
+            "violet-colored": 1,
+            "clear to yellow liquid": 1,
+            "dense, non-flammable colorless liquid": 1,
+            "odourless, colourless": 1,
+            "pale blue": 1,
+            "white crystalline solid": 1,
+            "phosphorescence": 1,
+            "cubic crystals": 1,
+            "green-coloured": 1,
+            "acridine yellow cation": 1,
+            "black powder": 1,
+            "rhodamine 6g(1+)": 1,
+            "brilliant green line in flame spectrum": 1
+        }
+    ],
+    [
+        "cytotoxicity",
+        {
+            "mild cytotoxicity against human kb and hela tumor cells": 1,
+            "exhibits cytotoxicity against selected cancer cells": 1,
+            "isolated from the fruit bodies of chlorophyllum molybdites, it exhibits cytotoxicity against kato iii cells.": 1,
+            "exhibits cytotoxicity against human ovarian cancer cell line": 2,
+            "significant cytotoxicity against a panel of human cancer cell lines": 1,
+            "exhibits cytotoxicity activity against nsclc-n6 cell line (human non-small-cell bronchopulmonary carcinoma)": 1,
+            "exhibits cytotoxicity against human cancer cell lines": 1,
+            "exhibits cytotoxicity against kb cell line": 1,
+            "exhibits cytotoxicity against human oral epidermoid (kb), cervical epitheloid (hela) and liver (hepa59t/vgh) carcinoma cells": 2,
+            "significant cytotoxicity against human submandibular gland carcinoma (hsg) cells": 1,
+            "towards prostrate cancers": 1,
+            "exhibits cytotoxicity against human promyeloid leukemic hl-60 cells": 3,
+            "potent cytotoxicity against a-549 lung carcinoma cells": 1,
+            "isolated from the fruit bodies of the fungus chlorophyllum molybdites, it exhibits cytotoxicity against kato iii cells.": 1,
+            "isolated from the marine sponge of the genus plakortis, it exhibits cytotoxicity against human promyeloid leukemic hl-60 cells.": 1,
+            "moderate": 1,
+            "exhibits cytotoxicity against human tumor cells: a-549 (nonsmall cell lung), sk-ov-3 (ovary), sk-mel-2 (skin), xf-498 (central nervous system), and hct-15 (colon)": 1,
+            "cytotoxic against several tumor cell lines": 1,
+            "potent in vitro cytotoxic activity": 1,
+            "against murine breast cancer cell line, fm3a": 3,
+            "isolated from tabernaemontana corymbosa, it exhibits cytotoxicity against human kb cells.": 4,
+            "exhibits cytotoxicity against human myeloid leukemia hl-60 cells": 2,
+            "isolated from maytenus emarginata, it exhibits cytotoxicity against human kb cells.": 1,
+            "exhibits cytotoxicity against human oral epidermoid (kb), cervical epitheloid (hela) and liver (hepa59t/vgh) carcinoma cells.": 1,
+            "strong cytotoxicity against human epidermoid carcinoma of the nasopharynx (kb), ileocecal adenocarcinoma (hct-8), melanoma (rpmi-7951) and medulloblastoma (te-671) tumor cells, and against murine leukemia (p-388)": 1,
+            "isolated from tabernaemontana corymbosa and hazunta modesta, it exhibits cytotoxicity against human kb cells.": 1,
+            "exhibits cytotoxicity against several human cancer cell lines": 1,
+            "isolated from the bark of ochrocarpos punctatus, it exhibits cytotoxicity against the a2780 ovarian cancer cell line.": 4,
+            "isolated from the root barks of brosimum utile, it exhibits cytotoxicity against cell lines like mcf7 (human breast carcinoma), pc3 (human prostate carcinoma), ht29 (human colon cancer) and human dermis fibroblasts.": 1,
+            "isolated from the rhizomes of hedychium spicatum": 2,
+            "cytotoxicity against colo-205 (colo-cancer)": 1,
+            "cytotoxicity against a-431 (skin cancer)": 1,
+            "cytotoxicity against mcf-7 (breast cancer)": 1,
+            "cytotoxicity against a-549 (lung cancer)": 1,
+            "cytotoxicity against chinese hamster ovary cells (cho)": 1,
+            "cytotoxicity against colo-205 (colo-cancer), a-431 (skin cancer), mcf-7 (breast cancer), a-549 (lung cancer) and chinese hamster ovary cells (cho)": 1,
+            "isolated from the marine sponge stelletta globostellata, it exhibits cytotoxicity against p-388 murine leukemia cells.": 4,
+            "exhibits cytotoxicity against various cancer cell lines": 1,
+            "moderate cytotoxicity against human cancer cells": 1,
+            "exhibits cytotoxicity against ovarian cancer cell line": 2,
+            "towards kb epidermoid carcinoma cell line": 1,
+            "exhibits cytotoxicity against murine leukemia cell line": 1,
+            "towards human promyelocytic leukemia hl-60 cells": 1,
+            "exhibits cytotoxicity against human breast cancer mcf-7 cells": 1,
+            "moderate against lung (a549), breast (mdamb-231 and mcf7), and liver (hepg2) cancer cell lines": 2,
+            "isolated from santolina insularis, exhibits cytotoxicity against human colon carcinoma cell line": 1,
+            "exhibits in vitro cytotoxicity towards several human tumour cell lines": 2,
+            "significant cytotoxicity against human colon carcinoma tumour cell line hct-116": 2,
+            "strong cytotoxicity against kb human nasopharyngeal carcinoma cells": 1
+        }
+    ],
+    [
+        "toxicity",
+        {
+            "potential neurotoxicity due to blocking voltage-gated sodium channels": 1,
+            "causes extrahepatic biliary atresia in a zebrafish model": 1,
+            "low": 1,
+            "carcinogenic and nephrotoxic": 1,
+            "non-toxic": 1,
+            "less toxic": 1,
+            "toxic": 8,
+            "not mentioned": 1,
+            "considered one of the most poisonous non-protein substances known": 1,
+            "induces severe metabolic acidosis and ocular injury in human subjects": 2,
+            "potent inhibitor of specific protein phosphatases": 1,
+            "nephrotoxic agent": 1,
+            "moderately toxic to birds, aquatic organisms, honeybees, and earthworms; not highly toxic to mammals": 1,
+            "less toxic analogue of geldanamycin": 1,
+            "significant toxicity against kb (epidermoid carcinoma of the nasopharynx) and rpmi-7951 (melanoma) cell lines": 2,
+            "hepatotoxic, hypoglycemic, nephrotoxic": 1,
+            "moderately toxic to humans, mammals, birds and most aquatic organisms": 1,
+            "more toxic to non-small cell lung cancer cells": 1,
+            "potential allergenicity": 1,
+            "reports of heart valve disease and pulmonary hypertension": 2,
+            "poison": 2,
+            "carcinogenic": 1,
+            "moderately toxic to fish": 1,
+            "limited by problems with toxicity (primarily blood disorders)": 2,
+            "moderately toxic to mammals and birds, fish and aquatic invertebrates": 1,
+            "poisonous": 1,
+            "low mammalian toxicity, reproduction toxicant, moderately toxic to birds and honey bees, greater risk to aquatic species and earthworms": 1,
+            "potentially toxic": 1,
+            "exhibits toxicity against some cancer cell lines like human lung carcinoma, hormone-dependent lung carcinoma and human breast carcinoma.": 1,
+            "highly toxic to honeybees": 1,
+            "highly toxic": 2,
+            "potential toxicity and health risk unknown": 1,
+            "mutagen": 1,
+            "teratogenic agent": 1,
+            "oxidizing agent": 1,
+            "electron acceptor": 1,
+            "causes high-grade, invasive cancers in the urinary bladder": 1,
+            "neurotoxin": 2,
+            "nephrotoxic": 1,
+            "cyanide salt": 1,
+            "low mammalian toxicity, moderate toxicity to fish, daphnia, and earthworms, relatively non-toxic to honey bees, birds, and algae": 1,
+            "moderately toxic to mammals, birds, earthworms and most aquatic organisms": 1,
+            "moderately toxic to birds, aquatic organisms, honeybees, and earthworms": 1,
+            "moderate toxicity to birds, fish, and earthworms": 1,
+            "potent and toxic": 1,
+            "moderately toxic to mammals and fish, more of a risk to aquatic invertebrates": 1
+        }
+    ],
+    [
+        "roles",
+        {
+            "water-soluble vitamin": 1,
+            "vitamin c": 1,
+            "coenzyme": 1,
+            "flour treatment agent": 1,
+            "food antioxidant": 1,
+            "plant metabolite": 1,
+            "cofactor": 2,
+            "oxidizing agent": 1,
+            "disinfectant": 1,
+            "explosive": 1,
+            "antimicrobial agent": 1,
+            "human xenobiotic metabolite": 1,
+            "apoptosis inducer": 1,
+            "gaba antagonist": 1,
+            "neurotoxin": 2,
+            "genotoxin": 1,
+            "biomarker": 1,
+            "saccharomyces cerevisiae metabolite": 1,
+            "escherichia coli metabolite": 2,
+            "mouse metabolite": 1,
+            "bleaching agent": 1,
+            "emetic": 1,
+            "osmotic diuretic": 1,
+            "sweetening agent": 1,
+            "antiglaucoma drug": 1,
+            "metabolite": 1,
+            "allergen": 1,
+            "hapten": 1,
+            "food bulking agent": 1,
+            "food anticaking agent": 1,
+            "food humectant": 1,
+            "food stabilizer": 1,
+            "food thickening agent": 1,
+            "compatible osmolytes": 1,
+            "ec 4.2.1.94 (scytalone dehydratase) inhibitor": 1,
+            "xenobiotic": 1,
+            "melanin synthesis inhibitor": 1,
+            "antifungal agrochemical": 2,
+            "ec 3.1.1.7 (acetylcholinesterase) inhibitor": 1,
+            "phospholipid biosynthesis inhibitor": 1
+        }
+    ],
+    [
+        "inhibition",
+        {
+            "isolated from phellodendron amurense and commiphora africana, it exhibits inhibition of intestinal p-glycoprotein.": 1,
+            "actin polymerisation, microfilament organsation and microfilament-mediated processes": 1,
+            "interferes with protein and dna synthesis by inhibiting peptidyl transferase or the 80s ribosome system.": 1,
+            "interferes with enzyme function": 1,
+            "inhibits the rho protein of e. coli.": 1,
+            "ec 6.4.1.2 (acetyl-coa carboxylase)": 2,
+            "interferes with bacterial cell wall synthesis through competitive inhibition of l-alanine racemase and d-alanine--d-alanine ligase": 1,
+            "inhibits germination of cress and lettuce seeds": 1,
+            "significant inhibition of uvb-induced activator protein-1 (ap-1) activity in cell cultures": 1,
+            "inhibits plasma membrane na(+)/k(+)-atpase (sodium pump)": 1,
+            "ec 1.14.13.70 (sterol 14alpha-demethylase)": 7,
+            "succinate dehydrogenase (quinone)": 6,
+            "nf-kappab activation": 6,
+            "nitric oxide production": 6,
+            "atp-competitive inhibitor of the tyrosine kinase activity of fibroblast growth factor receptor 1": 1,
+            "reversibly inhibits the 26s proteasome": 1,
+            "reversible noncompetitive inhibitor of dynamin 1 and 2 and drp1 (mitochondrial)": 1,
+            "competitively inhibits p-glycoprotein (mdr-1, ec 3.6.3.44)": 2,
+            "potent and selective inhibitor of dopamine uptake": 2,
+            "antifungal": 1,
+            "dual pi3k/mtor inhibitor": 1,
+            "inhibits sitosterol-to-cholesterol conversion in caenorhabditis elegans": 1,
+            "potent, competitive inhibitor of dopamine uptake": 1,
+            "inhibits formation, growth, and dissolution of hydroxyapatite crystals": 1,
+            "inhibits both cox-1 and cox-2 enzymes": 1,
+            "non-atp competitive inhibitor of glycogen synthase kinase 3beta (gsk3beta)": 1,
+            "inhibits p450 enzymes that metabolise other medications": 1,
+            "inhibits dimerization of hiv-1 protease subunits": 1,
+            "specific, irreversible inhibition of caspase-3, caspase-6, caspase-7, caspase-8, and caspase-10": 1,
+            "selectively inhibits human synovial phospholipase a2 (ec 3.1.1.4)": 1,
+            "potent, cell permeable and selective competitive inhibitor of p300 and cbp (p300/cbp) histone acetyltransferases": 1,
+            "strongly inhibits both calpains i and ii but not papain or trypsin (cysteine and serine proteases)": 1,
+            "ec 1.3.5.1 [succinate dehydrogenase (quinone)] inhibition": 3,
+            "rhoa": 1,
+            "rhoc": 1,
+            "potent and selective inhibitor of bovine and human dopamine beta-hydroxylase": 1,
+            "potent inhibitor of mdm2-p53 interaction": 1,
+            "potent inhibitor of actin polymerisation and dna synthesis": 1
+        }
+    ],
+    [
+        "antineoplastic activity",
+        {
+            "exhibits antiplasmodial and antineoplastic activities": 1,
+            "potential inhibitory effect against multidrug resistance in human breast cancer cell line": 10,
+            "antineoplastic": 10,
+            "potent inhibition of colon cancer cell growth": 1,
+            "inhibits growth of renal cells in culture": 1,
+            "potent inhibitor of carcinogenesis against chemical- or uv-initiated, phorbol-promoted mouse skin tumours.": 1,
+            "has a role as an antineoplastic agent": 4,
+            "anti-hiv": 1,
+            "antibacterial": 1,
+            "antifungal": 1,
+            "antimalarial": 1,
+            "inhibitory efficacy against the growth of human tumour cells": 1,
+            "inhibits growth of a431 human epidermoid carcinoma and mkn-7 human stomach cancer cell lines": 1,
+            "exhibits": 5,
+            "induces apoptosis in ht-29 cells": 1,
+            "good activity against a variety of transplanted tumors": 1,
+            "inhibitory activity against breast cancer resistance protein": 3,
+            "inhibits cell growth by inducing apoptosis independently of cyclooxygenase inhibition": 1,
+            "blocks tnf-induced activation of nfkappab-luc human embryonic kidney cells": 1,
+            "modulates lipid content of cancer cell membranes and induces cell cycle arrest and apoptosis in several cancer cell lines": 1,
+            "isolated from garcinia morella and garcinia hanburyi, it exhibits antineoplastic, antibacterial and anti-hiv activity.": 1,
+            "broad spectrum activity against cultured tumor cell lines, including adriamycin-resistant hl-60 cells": 1,
+            "inhibits proliferation of human malignant tumor cells, such as goto, ost and hela cells.": 1,
+            "antiproliferative against a2780 human ovarian cancer cells": 1,
+            "exhibits anti-hiv and antineoplastic activity": 1,
+            "inhibitory effects on human cancer cell line": 2,
+            "inhibits growth of ehrlich ascites carcinoma in vitro": 1,
+            "flt3 and cdk4 dual kinase inhibitor": 1,
+            "inhibits growth phase of microtubules via tubulin-based antimitotic mechanism, which leads to g2/m cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage": 1,
+            "activity against colon adinocarcinoma cells": 1,
+            "selectively inhibits survivin (birc5) gene promoter activity and down-regulates survivin, leading to induction of apoptosis.": 1,
+            "induces apoptosis in human malignant glioblastoma cells": 1,
+            "apoptotic activity against human hepatoma hep g2 cells": 1,
+            "reduces viability of melanoma cells without being toxic to normal cells": 1,
+            "potent inhibitor of histone deacetylases": 1
+        }
+    ],
+    [
+        "effect",
+        {
+            "exhibits neurotrophic effect of ngf": 1,
+            "alleopathic effect": 2,
+            "induces morphological changes of phytoplankton scenedesmus gutwinskii": 3,
+            "inhibits polypeptide synthesis by blocking elongation step in prokaryotic and eukaryotic cells": 1,
+            "accumulation of protoporphyrins": 1,
+            "inhibits dna synthesis and causes cell death": 2,
+            "antisecretory effects that help prevent injury to the stomach lining": 2,
+            "inhibits formation of leukotrienes ltb4, ltc4, ldt4, and lte4": 1,
+            "anxiolytic following central administration in vivo": 2,
+            "stimulates release of serotonin and selectively inhibits its reuptake, no catecholamine agonist activity.": 2,
+            "generation of toxic singlet oxygen": 1,
+            "relaxative effects on isolated guinea pig tracheal spirals in vitro": 3,
+            "reduces required dose of levodopa by preventing its conversion to dopamine in the periphery": 1,
+            "modulates noradrenalin release and sympathetic activation": 2,
+            "reduces required dose of levodopa by preventing its conversion to dopamine in the periphery, has no antiparkinson actions when given alone.": 1,
+            "induces autophagy in leukaemia cells": 1,
+            "not mentioned": 1,
+            "inhibits the secretion of tnf-alpha": 1,
+            "similar to phencyclidine (pcp), but more potent.": 1,
+            "potassium channel opener": 1,
+            "interrupts neuronal communication within the reticular formation and spinal cord, resulting in sedation and alteration in pain perception.": 1,
+            "inhibits dna synthesis and growth of cancer cells": 1,
+            "causes an unpleasant hypersensitivity to alcohol (the 'disulfiram effect')": 1,
+            "causes contraction of the uterus": 1,
+            "inhibits nuclear envelope expansion and nuclear elongation during closed mitosis of fission yeast": 1,
+            "suppresses microtubule dynamics": 1,
+            "reduces intraocular pressure": 1,
+            "blocks tgf-beta-mediated tumor growth in glioblastoma": 1,
+            "reduces plant growth by inhibiting gibberellin biosynthesis": 1,
+            "inhibits serotonin uptake and release": 1,
+            "potent inhibitor of seedling growth": 1
+        }
+    ],
+    [
+        "activity",
+        {
+            "alpha-glucosidase inhibitory activity": 2,
+            "antiviral activity against acyclovir-resistant hsv-1": 1,
+            "antiviral activity against paa-resistant hsv-1": 1,
+            "antiviral activity against wild-type hsv-1": 1,
+            "natifungal activity against plant pathogenic fungi": 1,
+            "potent vasoconstrictor": 1,
+            "essential for ghrelin's activity": 1,
+            "trypanocidal activity": 8,
+            "neisseria gonorrhoeae": 1,
+            "chlamydia trachomatis": 1,
+            "ureaplasma urealyticum": 1,
+            "mycoplasma hominis": 1,
+            "activity against tmv": 1,
+            "hypoglycemic activity": 1,
+            "due to both acemetacin and its major metabolite, indometacin": 1,
+            "antileishmanial activity": 1,
+            "activity against chloroquine-resistant strain of plasmodium falciparum": 1,
+            "activates protein kinase g (pkg)": 2,
+            "lipoxygenase inhibitory activity": 1,
+            "induces apoptosis in multiple myeloma, hematological and solid tumor cell lines": 1,
+            "most active agent modulating growth and virulence of staphylococcus aureus": 1,
+            "platelet aggregation inhibitory activity": 1,
+            "calcium channel modulatory activity": 1,
+            "activity against broad range of gram-positive and gram-negative bacteria, including tetracycline-resistant organisms": 1,
+            "most active isomer (3as,4r,9br)": 1,
+            "acetylcholinesterase inhibitory activity": 1,
+            "inhibits hepatitis b virus reverse transcriptase at every stage": 1,
+            "broad spectrum against dna and rna viruses": 1
+        }
+    ],
+    [
+        "composition",
+        {
+            "phosphatidylglycerol (18:3/16:1)": 1,
+            "phosphatidylglycerol (18:1/16:1)": 1,
+            "phosphatidylglycerol (18:2/16:1)": 1,
+            "10-carbon, omega-hydroxy fatty acid": 1,
+            "hydrate of nickel chloride containing nickel (in the +2 oxidation state), chloride and water moeities in the ratio 1:2:6": 1,
+            "contains ent-diltiazem(1+)": 1,
+            "inorganic sodium salt composed of sodium and thiosulfate ions in a 2:1 ratio": 1,
+            "consists of methane trapped within water crystal structure": 1,
+            "mixture of minerals including kaolinite, muscovite, quartz, feldspar, and anatase": 1,
+            "cadmium sulfate hydrate (3:8 ratio)": 1,
+            "inorganic sodium salt composed of sodium and disulfite ions in a 2:1 ratio": 1,
+            "potassium salt consisting of potassium and chromate ions in a 2:1 ratio": 1,
+            "sodium and chromate ions in a 2:1 ratio": 1,
+            "variable amount of acetic acid and water": 1,
+            "compound of iron(3+) and sulfate ions with a 3:2 ratio": 1,
+            "equal numbers of sodium cations and cyanide anions": 1,
+            "ammonium, iron(2+), sulfate (ratio: 2:1:2)": 1,
+            "cyanide salt containing equal numbers of potassium cations and cyanide anions": 1,
+            "zinc and chloride ions (1:2 ratio)": 1,
+            "lysophosphatidylcholine 14:0 with myristoyl acyl group": 1,
+            "compound of iron and sulfate with a 1:1 ratio of iron(2+) to sulfate ions": 1,
+            "contains amiloride(1+)": 1,
+            "d-gluconate adduct of indefinite composition containing between 30 and 34% of antimony(v)": 1,
+            "inorganic sodium salt composed of sodium cations and arsenate anions in a 3:1 ratio": 1,
+            "arsenic oxide (as:o ratio 2:3)": 1,
+            "glycosylmannose comprising a beta-d-galactopyranose residue in (1->4) linkage with d-mannopyranose": 1,
+            "inorganic sodium salt (2:1 ratio of sodium cations and arsenate dianions)": 1,
+            "calcium salt of oxalic acid": 1
+        }
+    ],
+    [
+        "isotope",
+        {
+            "stable isotope of helium": 2,
+            "stable isotope of hydrogen": 1,
+            "(203)hg": 1,
+            "11c": 1,
+            "stable isotope of tellurium": 1,
+            "stable isotope of copper": 1,
+            "zinc-65": 1,
+            "stable isotope of sulfur": 1,
+            "stable isotope of gold": 1,
+            "stable isotope of molybdenum": 1,
+            "stable isotope of germanium": 1,
+            "stable isotope of sodium": 1,
+            "stable isotope of oxygen": 1,
+            "stable isotope of thallium": 2,
+            "stable isotope of lanthanum": 1,
+            "radioactive isotope of sulfur": 1,
+            "stable isotope of yttrium": 1,
+            "stable isotope of zinc": 1,
+            "stable isotope of beryllium": 1,
+            "stable isotope of selenium": 1,
+            "stable isotope of lithium": 1,
+            "stable isotope of niobium": 1,
+            "stable isotope of vanadium": 1,
+            "stable isotope of europium": 1,
+            "stable isotope of magnesium": 1,
+            "stable isotope of cadmium": 1
+        }
+    ],
+    [
+        "antagonist",
+        {
+            "competitive antagonist of gabaa receptors": 1,
+            "selective, non-competitive antagonist of tropomyosin receptor kinase b (trkb, also known as tyrosine receptor kinase b)": 1,
+            "epidermal growth factor receptor": 2,
+            "alpha-adrenergic": 2,
+            "muscarinic": 2,
+            "estrogen antagonist": 1,
+            "adrenergic": 3,
+            "dopaminergic": 3,
+            "serotonergic": 4,
+            "potent and selective antagonist of neuropeptide ff (npff) receptors": 1,
+            "selective antagonist for retinoic acid receptor alpha": 1,
+            "potent nmda glutamate receptor antagonist": 1,
+            "selective high-affinity antagonist of human substance p/neurokinin 1 (nk1) receptors": 2,
+            "h1-receptor": 1,
+            "histamine": 1,
+            "5-hydroxytryptamine 1d (5-ht1d) receptor": 2,
+            "corticotropin-releasing factor 1 (crf-1) receptors": 1,
+            "antagonist for two of the three types of arginine vasopressin (avp) receptors, v1a and v2": 1,
+            "potent and selective antagonist of sphingosine-1-phosphate receptor 3 (s1pr3)": 1,
+            "cyclopamine action at smo receptor": 1,
+            "adenosine a1 and a2a receptors": 1,
+            "neutral retinoic acid receptor (rar) alpha-selective antagonist (ki = 2.5 nm)": 1,
+            "5-hydroxytryptamine 2b (5-ht2b) receptor": 1
+        }
+    ],
+    [
+        "conjugate base",
+        {
+            "(s)-2-hydroxy-3-methylbutyric acid": 1,
+            "o(4')-sulfo-l-tyrosine": 1,
+            "(5z,9e,14z)-(8xi,11r,12s)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoic acid": 1,
+            "2-hydroxypentanoic acid": 1,
+            "heptanoic acid": 1,
+            "undecanoic acid": 1,
+            "oleandomycin 2'-o-phosphate": 1,
+            "2-(beta-d-glucosyl)oxy-cis-cinnamic acid": 1,
+            "(5s,15s)-5-hydroperoxy-15-hete": 1,
+            "o-hexadecanedioyl-l-carnitine": 1,
+            "o-suberoylcarnitine": 1,
+            "s-sulfo-l-cysteine": 1,
+            "o-adipoylcarnitine": 1,
+            "2,6-dichlorohydroquinone": 1,
+            "fmnh(.)": 1,
+            "an andrastin e conjugate base": 1,
+            "chebi:40113": 1,
+            "(9z)-17-hydroxyoctadec-9-enoic acid 17-o-sophoroside": 1,
+            "dialuric acid": 1,
+            "2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate": 1,
+            "andrastin f": 1,
+            "molybdopterin cytosine dinucleotide protonated": 1
+        }
+    ],
+    [
+        "action",
+        {
+            "increases reabsorption of ions and water in the kidney": 1,
+            "quicker than atropine": 2,
+            "transition state analogue for chloramphenicol esters hydrolysis mediated by catalytic antibody 7c8": 1,
+            "potassium channel blocker": 1,
+            "l-type calcium channel alpha1-subunit antagonist": 1,
+            "antagonizes strychnine-insensitive glycine site of nmda receptor": 1,
+            "accumulation of protoporphyrin ix in skin lesions": 1,
+            "direct-acting sympathomimetic": 1,
+            "binds to serotonin reuptake pump": 2,
+            "antihypotensive (pressor)": 1,
+            "selective blocker of t-type ca(2+) channels": 1,
+            "inhibits tumour growth, migration, angiogenesis, invasion and metastasis": 1,
+            "halts dna replication": 1,
+            "inhibits acetylcholinesterase": 1,
+            "partially suppresses secretion (inflow) of aqueous humor in the eye": 1,
+            "blocking electron transfer between cytochromes b and c1": 1,
+            "patched independent manner": 1,
+            "blocker of voltage-gated potassium channel kv1.3": 2,
+            "blocks necrosis downstream of rip3 activation": 1,
+            "centrally active upon systemic administration": 1,
+            "acts as an l-type calcium channel blocker": 1,
+            "blocks vegf-induced vegfr2 phosphorylation": 1
+        }
+    ],
+    [
+        "physical state",
+        {
+            "not mentioned": 2,
+            "gas": 4,
+            "odorant": 1,
+            "liquid": 6,
+            "viscous": 2,
+            "solid": 12,
+            "tricarboxylic acid amide": 1,
+            "solid or powder": 1,
+            "major structure": 3,
+            "unknown": 1,
+            "sodium salt": 3,
+            "dye": 1,
+            "inorganic sodium salt": 2,
+            "not specified": 1,
+            "crystalline solid": 2,
+            "crystalline": 1,
+            "viscous liquid": 1,
+            "oily liquid": 1,
+            "chlormerodrin": 1,
+            "deliquescent": 1,
+            "salt": 1
+        }
+    ],
+    [
+        "formation",
+        {
+            "photolysis of riboflavin in acid or neutral solution": 1,
+            "major microspecies at ph 7.3, formed from l-methionine via methionine transaminase": 1,
+            "deprotonation of phosphate oh groups": 1,
+            "bacterial decarboxylation of lysine during protein hydrolysis during putrefaction of animal tissue": 1,
+            "deprotonation of carboxylic acid and phosphate functions": 1,
+            "after growth in media enriched in iron(iii)": 1,
+            "formed by heating salicylic acid with phenol": 1,
+            "deprotonation of both phosphate oh groups": 1,
+            "protonation of amino group": 1,
+            "tetraanion formed from 3-oxohexanoyl-coa by loss of two protons from the 5'-diphospho linkage and two protons from the 3'-phospho group": 1,
+            "major microspecies formed from undecaprenyldiphospho-n-acetyl-(n-acetylglucosaminyl)muramoyl-l-alanyl-d-isoglutaminyl-l-lysyl-d-alanyl-d-alanine": 1,
+            "dicarboxylic acid dianion formed from (2s,4s)-4-hydroxy-2,3,4,5-tetrahydrodipicolinic acid by proton loss from both carboxy groups": 1,
+            "organophosphate oxoanion": 1,
+            "from lipid ii": 1,
+            "ammonium ion formed from 4-amino-5-aminomethyl-2-methylpyrimidine by protonation of the primary amino group": 1,
+            "loss of two protons from the diphospho group": 3,
+            "deprotonation of both carboxylic acid functions": 1,
+            "formed during disinfection of water containing bromide ions and organic matter": 1,
+            "affords the fungicide zineb when mixed with zinc sulfate": 2,
+            "nitrogen of the dihydropyridine ring may arise from the epsilon-amino group of a lysine residue within a protein [mdhdc-protein adduct; malonaldedehyde (synonym malondialdehyde) acetaldehyde (maa)-protein adduct].": 1
+        }
+    ],
+    [
+        "solubility",
+        {
+            "not mentioned": 3,
+            "used as solvent": 1,
+            "used as solvent, emulsifying agent, and antifreeze": 1,
+            "water-miscible": 2,
+            "solvent": 1,
+            "miscible with both water and hydrocarbons": 1,
+            "capable of dissolving large quantities of oxygen": 1,
+            "unknown": 1,
+            "water-soluble": 2,
+            "not specified": 2,
+            "soluble in alcohols and phospholipids": 1,
+            "soluble in water": 1,
+            "insoluble in water": 1,
+            "freely soluble in water": 1,
+            "approximately 5000 times more soluble than tetracycline base": 1,
+            "virtually insoluble in water": 2,
+            "used as solvent for hard resins and nitrocellulose": 1,
+            "immiscible with water": 1,
+            "much more water soluble than tetramethylsilane": 1,
+            "both lipid- and water-soluble": 1
+        }
+    ],
+    [
+        "enzyme inhibition",
+        {
+            "acetylcholinesterase inhibitor": 3,
+            "inhibitor of mu-calpain (ec 3.4.22.52)": 1,
+            "formyltetrahydrofolate synthetase": 1,
+            "carboxylesterase": 1,
+            "cyclooxygenase": 1,
+            "chymotrypsin inhibitory activity": 2,
+            "against chymotrypsin": 2,
+            "protoporphyrinogen oxidase inhibitor": 1,
+            "cox1": 1,
+            "cox2": 1,
+            "alpha-glucosidase inhibitory activity": 5,
+            "thymidylate synthase (ts)": 3,
+            "dihydrofolate reductase (dhfr)": 3,
+            "glycinamide ribonucleotide formyltransferase (garft)": 3,
+            "ec 3.4.15.1 (peptidyl-dipeptidase a) inhibitor": 2,
+            "nadh:ubiquinone reductase inhibitor": 2,
+            "cyclooxygenase 2 inhibitor": 1,
+            "inhibits ec 5.99.1.2 (dna topoisomerase)": 1,
+            "inhibits alpha-glucosidase": 1
+        }
+    ],
+    [
+        "identity",
+        {
+            "dianion of udp-alpha-d-xylose": 1,
+            "dianion of 2-deoxy-d-ribose 5-phosphate": 1,
+            "dianion of nicotinic acid d-ribonucleotide": 1,
+            "ammonium ion": 7,
+            "dianion of 1-deoxy-d-threo-hexo-2,5-diulose 6-phosphate": 1,
+            "organosulfonate oxoanion": 1,
+            "acyl-coa oxoanion from 7-methyloctanoyl-coa": 1,
+            "porphyrin carboxylic acid anion (ferroheme)": 1,
+            "trioxilin anion": 1,
+            "acyl-coa oxoanion": 1,
+            "ammonium ion resulting from protonation of tertiary amino group of (+)-echitovenine": 1,
+            "5-methyl-dctp": 1,
+            "ammonium ion resulting from protonation of (-)-echitovenine's tertiary amino group": 1,
+            "ketogluconate and monocarboxylic acid anion": 1,
+            "trisodium salt is 'chrome violet cg', triammonium salt is 'aluminon'": 1,
+            "dianion of (r)-2-o-sulfolactic acid": 1,
+            "beta-d-glucosiduronate of 4-methylumbelliferone beta-d-glucuronide": 1,
+            "1,2-di-o-palmitoyl-derivative of sn-glycero-3-phosphocholine": 1,
+            "enolate anion of andrastin f": 1
+        }
+    ],
+    [
+        "atomic mass",
+        {
+            "124.904425": 1,
+            "relative atomic mass 62.929601": 1,
+            "196.966552": 1,
+            "94.905842": 1,
+            "relative atomic mass 72.923459": 1,
+            "relative atomic mass 22.989770": 1,
+            "relative atomic mass 202.9723": 1,
+            "138.906348": 1,
+            "relative atomic mass 34.9690322": 1,
+            "88.905848": 1,
+            "relative atomic mass 66.927131": 1,
+            "relative atomic mass 9.012182": 1,
+            "relative atomic mass 76.919915": 1,
+            "204.9744": 1,
+            "92.906378": 1,
+            "50.943964": 1,
+            "150.919846": 1,
+            "relative atomic mass 24.985837": 1,
+            "110.904182": 1
+        }
+    ],
+    [
+        "structure",
+        {
+            "spiro-epoxide": 1,
+            "major structure": 5,
+            "straight-chain, eleven-carbon saturated medium-chain": 1,
+            "l-alpha-amino acid zwitterion obtained by transfer of a proton from the carboxy to the amino group of l-methionine sulfoximine; major micro species at ph 7.3": 1,
+            "deprotonated at both phosphono groups and uronic acid carboxy groups": 2,
+            "amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of topaquinone; major structure at ph 7.3": 1,
+            "tetrahydrofolate and dicarboxylic acid dianion": 1,
+            "organic cation obtained by protonation of the tertiary amino group of norajmaline": 1,
+            "alpha-amino-acid cation formed from carboxyspermidine by zwitterion formation between the carboxy and alpha-amino groups and protonation of the nitrogen atoms at positions 5 and 10; major structure at ph 7.3": 1,
+            "organosulfinate oxoanion and monocarboxylic acid anion": 1,
+            "alpha-amino-acid cation formed from carboxynorspermidine by zwitterion formation and protonation of nitrogen atoms at positions 5 and 9": 1,
+            "organic cation obtained by protonation of the tertiary amino group of senecionine": 1,
+            "conjugate base of a (2z,6z,10z,14z,18z,22z,26z,30z,34e)-decaprenyl diphosphate": 1,
+            "conjugate base of a phenyl hydrogen sulfate": 1,
+            "hairpin": 1,
+            "homodetic cyclic peptide, heptapeptide": 1,
+            "conjugate base of 4,4'-diapolycopenedioic acid": 1,
+            "rna fragment": 1
+        }
+    ],
+    [
+        "cytotoxic activity",
+        {
+            "exhibits cytotoxic activity against a small panel of human tumour cell lines": 3,
+            "exhibits cytotoxic and microfilament disruption activity": 8,
+            "potent cytotoxic activity against human tumour cells": 1,
+            "exhibits cytotoxic activity against hct-116, a549, ags, and du145 human cancer cell lines": 1,
+            "exhibits cytotoxic activity towards several tumor cell lines": 1,
+            "exhibits": 4,
+            "cytotoxic": 1,
+            "isolated from mimosa diplotricha, it exhibits cytotoxic activity against human cancer cell lines.": 1,
+            "towards human cancer cell lines": 1,
+            "towards cancer cell lines": 1,
+            "exhibits cytotoxic activity against human cancer cell lines": 1,
+            "isolated from holothuria scabra, it exhibits cytotoxic activity against human carcinoma cells.": 2,
+            "exhibits cytotoxic activity against several cancer cell lines derived from colon, cervix, and bone.": 1,
+            "isolated from the centipede scolopendra subspinipes, it exhibits cytotoxic activity against human tumour cell lines.": 1,
+            "exhibits cytotoxic activity": 1
+        }
+    ],
+    [
+        "metabolism",
+        {
+            "metabolized to angiotensin ii by ace": 1,
+            "interferes with glutamate metabolism": 1,
+            "rapidly dephosphorylated to 2-fluoro-ara-a, then phosphorylated intracellularly by deoxycytidine kinase to 2-fluoro-ara-atp": 1,
+            "catalyzes methylnitrosaminopyridylbutanone hydroxylation": 1,
+            "metabolised to indometacin and proglumide": 1,
+            "yields azo-procarbazine and hydrogen peroxide": 2,
+            "human metabolite": 2,
+            "xenobiotic metabolite": 1,
+            "rat metabolite": 1,
+            "metabolized to indometacin and proglumide": 1,
+            "escherichia coli metabolite": 1,
+            "mouse metabolite": 1,
+            "metabolised to (1r,2s)-nortilidine by the liver": 1,
+            "intracellularly metabolized to active 5'-triphosphate metabolite": 1,
+            "rapidly metabolized in liver by cyp1a2 to paracetamol (acetaminophen)": 1
+        }
+    ],
+    [
+        "form",
+        {
+            "monoprotonated form of quinine": 1,
+            "ammonium ion": 1,
+            "protonated": 1,
+            "fecl3 complex (depending on mode of manufacture)": 1,
+            "combination of palonosetron and hydrogen chloride": 1,
+            "monohydrate": 1,
+            "dihydrate of trisodium citrate": 1,
+            "hydrobromide and monohydrate": 1,
+            "ion": 1,
+            "hexahydrate": 1,
+            "zwitterionic": 1,
+            "zwitterionic form of n(4)-acetyl-l-2,4-diaminobutyric acid": 1,
+            "exists in cis and trans forms; trans form is more common": 1,
+            "keto-form": 1
+        }
+    ],
+    [
+        "class",
+        {
+            "triterpene glycoside": 1,
+            "triterpenoid saponin": 2,
+            "leukotriene": 1,
+            "organofluorine insecticide and organofluorine acaricide": 1,
+            "organic thiophosphate and organothiophosphate insecticide": 10,
+            "dipeptidyl boronic acid": 1,
+            "heterocyclyl sulfate": 1,
+            "organophosphate insecticide": 2,
+            "phenylureas": 1,
+            "quinolinemonocarboxylic acid": 1,
+            "organochlorine compound": 1,
+            "organic thiophosphate": 2,
+            "organic chloride salt": 1
+        }
+    ],
+    [
+        "antibacterial activity",
+        {
+            "antibacterial": 2,
+            "exhibits antibacterial activity against staphylococcus aureus": 1,
+            "bactericidal against gram positive organisms, including methicillin-resistant staphylococcus aureus": 2,
+            "considerably lower than nocamycin i methyl ester": 1,
+            "exhibits": 1,
+            "exhibits activity against staphylococcus aureus, bacillus subtilis, and mycobacterium smegmatis": 1,
+            "potent activity against gram-positive bacterial strains": 1,
+            "potent": 1,
+            "bactericidal against most gram-positive bacteria but less effective against staphylococci and gram-negative bacteria, and often inactive against pseudomonas species. ineffective against bacterial spores.": 1,
+            "isolated from the endophytic fungus microdiplodia species, it exhibits antibacterial activity.": 1,
+            "weak activity against enterococcus faecium, staphylococcus aureus, and bacillus subtilis": 1,
+            "broad-spectrum antibacterial activity against most gram-negative and gram-positive bacteria": 1,
+            "exhibits antibacterial activity": 1
+        }
+    ],
+    [
+        "target",
+        {
+            "human colon adenocarcinoma": 2,
+            "biosynthesis of several lipids": 1,
+            "fungal chitin biosynthesis": 1,
+            "tyrosine kinase activity": 1,
+            "tumour cells": 1,
+            "powdery mildew in cereals, bananas, and grapes": 1,
+            "beta-subunit of fatty acid synthase": 1,
+            "human airway": 1,
+            "rho gef binding domain": 1,
+            "target dna": 1,
+            "arabidopsis (arabidopsis thaliana)": 1,
+            "key component of the insect's innate immune system": 1,
+            "3t3-murine fibroblasts in vitro": 1
+        }
+    ],
+    [
+        "metabolite",
+        {
+            "dihydrocaffeic acid": 1,
+            "metabolite of cortisol": 1,
+            "yes": 2,
+            "human": 2,
+            "escherichia coli": 2,
+            "plant": 1,
+            "saccharomyces cerevisiae": 2,
+            "has a role as a metabolite": 3,
+            "active metabolite of remdesivir": 1,
+            "immediate and active metabolite of midrodine": 1,
+            "mouse": 1,
+            "is a metabolite": 1
+        }
+    ],
+    [
+        "chemical class",
+        {
+            "polyketide, polyether derivative of a c38 fatty acid": 1,
+            "xenobiotic": 1,
+            "c-nitro compound": 1,
+            "cyclic hexapeptide echinocandin antibiotic": 1,
+            "alpha-amino-acid cation": 1,
+            "organophosphate oxoanion": 2,
+            "iodine oxoacid": 1,
+            "fluoroquinolone": 1,
+            "provitamin a carotenoid": 1,
+            "1-hydrazino derivative of phthalazine": 1,
+            "choline": 1,
+            "alkylmercury compound": 1
+        }
+    ],
+    [
+        "molecular structure",
+        {
+            "unsaturated fatty acid anion": 1,
+            "o-phosphoviomycin": 1,
+            "organophosphate oxoanion": 1,
+            "nucleotide-sugar oxoanion, conjugate base of udp-n,n'-diacetylbacillosamine": 1,
+            "organophosphate oxoanion and tricarboxylic acid trianion": 1,
+            "zwitterionic form 6-(alpha-d-glucosaminyl)-1d-myo-inositol 1,2-cyclic phosphate": 1,
+            "dianion of beta-d-fructofuranosyl alpha-d-mannopyranoside 6(f)-phosphate arising from deprotonation of both phosphate oh groups.": 1,
+            "linear tetrapyrrole anion": 1,
+            "trianion of 3-carboxy-cis,cis-muconic acid arising from deprotonation of all three carboxylic acid functions": 1,
+            "dianion resulting from removal of two acidic protons from (2s)-2-hydroxy-3-oxobutyl phosphate": 1,
+            "1-phosphatidyl-1d-myo-inositol 3,4,5-trisphosphate(7-) with octanoyl groups at positions 1 and 2": 1,
+            "major structure at ph 7.3 (marvin 6.2.0)": 1
+        }
+    ],
+    [
+        "counterion",
+        {
+            "tungstate": 1,
+            "periodate": 1,
+            "thioglycolate(1-)": 1,
+            "sulfite": 1,
+            "selenate": 1,
+            "selenide": 1,
+            "nitro blue tetrazolium(2+)": 1,
+            "molybdate": 1,
+            "bromate": 1,
+            "k+": 1,
+            "bromide": 1,
+            "iodonitrotetrazolium": 1
+        }
+    ],
+    [
+        "color",
+        {
+            "red": 1,
+            "blue": 1,
+            "brown": 1,
+            "green": 1,
+            "not mentioned": 1,
+            "white": 1,
+            "colorless": 1,
+            "unknown": 1,
+            "not specified": 1,
+            "dark enough red": 2,
+            "acridine yellow": 1
+        }
+    ],
+    [
+        "antibiotic",
+        {
+            "isolated from sphingomonas and aspergillus fumigatus": 1,
+            "macrolide": 1,
+            "antiviral and antimitotical properties": 1,
+            "polyether": 1,
+            "uridine-based nucleoside-peptide": 1,
+            "broad-spectrum": 2,
+            "glycylcycline": 1,
+            "isolated from streptomyces sp. cu39": 1,
+            "ansamycin": 1,
+            "cyclic hexapeptide echinocandin": 1,
+            "aminoglycoside": 1
+        }
+    ],
+    [
+        "boiling point",
+        {
+            "188\u2103": 1,
+            "-161\u2103": 1,
+            "high (210\u2103)": 1,
+            "high-boiling (285\u2103)": 1,
+            "high-boiling (216-217 \u2103)": 1,
+            "low (31.5 \u2103)": 1,
+            "high": 1,
+            "90\u2103": 1,
+            "174\u2103 at 760 mm hg": 1,
+            "40\u2103": 1,
+            "-112\u2103": 1
+        }
+    ],
+    [
+        "microspecies",
+        {
+            "major": 5,
+            "carboxylic acid anion": 1,
+            "dialkyl phosphate anion": 1,
+            "polyanionic polymer": 1,
+            "2-hydroxy fatty acid anion": 1,
+            "3-hydroxy fatty acid anion": 1,
+            "medium-chain fatty acid anion": 1,
+            "major microspecies at ph 7.3 (according to marvin v 6.2.0.)": 2,
+            "major microspecies at ph 7.3": 3,
+            "organophosphate oxoanion": 2,
+            "major microspecies present": 2
+        }
+    ],
+    [
+        "agonist",
+        {
+            "both npff1r": 1,
+            "kisspeptin receptor (kiss1r)": 1,
+            "pparalpha": 1,
+            "adenosine a1 receptor": 1,
+            "g-protein-coupled receptor agonist": 1,
+            "gaba": 1,
+            "trpv4 (transient receptor potential vanilloid 4) channel": 1,
+            "potent and selective agonist for group iii metabotropic glutamate receptors (mglur4/6/7/8)": 1,
+            "retinoic acid receptor (rar)gamma": 1,
+            "transient receptor potential cation channel subfamily v member 1 (trpv1)": 1,
+            "smoothened (smo) receptor": 1
+        }
+    ],
+    [
+        "antioxidant",
+        {
+            "potent antioxidant": 1,
+            "properties": 1,
+            "exhibits anti-oxidant properties": 2,
+            "acts as an antioxidant by reducing oxidative stress": 1,
+            "potently inhibits lipid peroxidation": 1,
+            "has a role as an antioxidant": 4,
+            "antioxidant": 2,
+            "exhibits": 1,
+            "role as an antioxidant": 1,
+            "role as antioxidant": 1
+        }
+    ],
+    [
+        "formula",
+        {
+            "c23h39no6s": 1,
+            "tio2": 1,
+            "sbcl3": 1,
+            "ch4.5.75h2o or 4ch4.23h2o": 1,
+            "hocl": 1,
+            "c23h27n7o.xhcl.yh2o": 1,
+            "a + b + c + d ~ 5": 1,
+            "na2s": 1,
+            "fe3s4": 1,
+            "o3": 1
+        }
+    ],
+    [
+        "antibacterial",
+        {
+            "potent inhibitor of mrsa pyruvate kinase": 1,
+            "exhibits": 1,
+            "isolated from halidrys siliquosa": 1,
+            "antibacterial": 1,
+            "inhibits supercoiling activity of bacterial dna gyrase": 1,
+            "activity against gram-positive bacteria": 1,
+            "isolated from fungi and cochliobolus lunatus": 1,
+            "exhibits antibacterial activity": 1,
+            "interferes with protein synthesis": 1,
+            "inhibits mucopeptide synthesis in bacterial cell wall, blocks peptidoglycan crosslinking": 1
+        }
+    ],
+    [
+        "carcinogenic",
+        {
+            "carcinogenic": 1,
+            "active metabolite of the dietary carcinogen phip": 1,
+            "role as a carcinogenic agent": 12,
+            "yes": 6,
+            "agent": 1,
+            "potent dna alkylating agent": 1,
+            "most abundant carcinogen in tobacco smoke": 1,
+            "induces pancreatic ductal adenocarcinomas in syrian golden hamsters (other rodents are not susceptible)": 1,
+            "carcinogenic agent": 1,
+            "has a role as a carcinogenic agent": 1
+        }
+    ],
+    [
+        "effects",
+        {
+            "conservation of sodium": 1,
+            "secretion of potassium": 1,
+            "increased water retention": 1,
+            "increased blood pressure": 1,
+            "similar to digitalis": 1,
+            "prevents airway edema": 1,
+            "prevents smooth muscle contraction": 1,
+            "prevents enhanced secretion of thick, viscous mucus": 1,
+            "cell cycle arrest": 1,
+            "apoptosis": 1
+        }
+    ],
+    [
+        "inhibitory effect",
+        {
+            "exerts an inhibitory effect on lipid peroxidation": 1,
+            "isolated from crinum latifolium, it exhibits inhibitory effect on the tube-like formation of human umbilical vein endothelial cells (huvecs).": 1,
+            "strong inhibitory effect on nitric oxide production": 8,
+            "inhibits root growth in rice seedlings (ic50 0.14 mm)": 1,
+            "inhibits the release of leucotrienes": 1,
+            "isolated from the roots of ferula fukanensis, it exhibits inhibitory effect on the production of nitric oxide (no).": 1,
+            "isolated from the roots of ferula fukanensis, it exhibits inhibitory effects on the production of nitric oxide (no).": 1,
+            "isolated from pholidota yunnanensis, it exhibits inhibitory effects on production of nitric oxide.": 1,
+            "isolated from the tuber of gastrodia elata, it exhibits inhibitory effect on platelet aggregation.": 1
+        }
+    ],
+    [
+        "origin",
+        {
+            "metabolism of leukotriene b4 by human keratinocytes": 1,
+            "synthesised in catecholaminergic neurons": 1,
+            "byproduct of tobacco-specific n-nitrosamines": 1,
+            "oxidation of guanine and 8-oxo-7,8-dihydroguanine in dna by reactive oxygen species": 1,
+            "protonation of tertiary amino group of fumigaclavine b": 1,
+            "undecaprenyldiphospho-n-acetylmuramoyl-l-alanyl-d-gamma-glutamyl-meso-2,6-diaminopimeloyl-d-alanyl-d-alanine": 1,
+            "from greek pirhoomegatauomicronsigma, first": 1,
+            "derived from sclareol": 1,
+            "herquline a(1+)": 1
+        }
+    ],
+    [
+        "melting point",
+        {
+            "-59\u2103": 1,
+            "low-melting (20-25 \u2103)": 1,
+            "low-melting (37 \u2103)": 1,
+            "low-melting": 1,
+            "16\u2103": 1,
+            "2-4\u2103": 1,
+            "low-melting (27.5-31.5\u2103)": 1,
+            "-4\u2103": 1,
+            "114\u2103": 1
+        }
+    ],
+    [
+        "classification",
+        {
+            "xenobiotic": 1,
+            "environmental contaminant": 1,
+            "antifungal agrochemical": 1,
+            "organic thiophosphate, organothiophosphate insecticide, organochlorine insecticide, organochlorine acaricide": 1,
+            "second generation antipsychotic": 1,
+            "organic thiophosphate, organophosphate insecticide, organochlorine insecticide, monochlorobenzenes": 1,
+            "trialkyl phosphate, organophosphate insecticide, organochlorine insecticide, organophosphate nematicide": 1,
+            "c-nitro compound": 1,
+            "organic phosphate, organophosphate insecticide, organochlorine insecticide, organochlorine acaricide, dichlorobenzene": 1
+        }
+    ],
+    [
+        "applications",
+        {
+            "manufacture of some polymers": 1,
+            "lacquers": 1,
+            "adhesives": 1,
+            "waxes": 1,
+            "polishes": 1,
+            "production of vitamin b2": 1,
+            "dyes": 1,
+            "pesticides": 1,
+            "other chemicals": 1
+        }
+    ],
+    [
+        "mechanism",
+        {
+            "inhibits growth of plasmodium falciparum": 2,
+            "inhibits chitin synthase": 1,
+            "binding to smoothened (smo) receptors and blocking signal transduction": 1,
+            "chemisorption to calcium phosphate surfaces": 1,
+            "suppressing l-glutamate toxicity": 1,
+            "binds to arp2/3 complex, stabilizes inactive state and prevents movement into active conformation": 1,
+            "triggers an endoplasmic reticulum (er) stress response": 1,
+            "prevents bacteria from growing": 1,
+            "modulation of histone chaperone fact - interaction with fact complex results in nf-kappa beta suppression, hsf1 suppression, and p53 activation": 1
+        }
+    ],
+    [
+        "selectivity",
+        {
+            "high selectivity for site a of pka type i and for site b of pka type ii": 1,
+            "selective": 5,
+            "selective for d3 receptor": 1,
+            "> 100-fold selectivity over 5ht1a, 5-ht2a, 5-ht2c receptors and other receptor types": 1,
+            "alpha-1 adrenoceptor subtype": 1,
+            "potent and selective": 1,
+            "for the d3 receptor": 1,
+            "selective for anaerobic bacteria": 1,
+            "selective inhibitor of histone deacetylase 6 (hdac6) against all other isozymes (1000-fold) except hdac8 (57-fold)": 1
+        }
+    ],
+    [
+        "uses",
+        {
+            "manufacture of china and porcelain": 1,
+            "making of paper": 1,
+            "rubber": 1,
+            "paint": 1,
+            "drying agents": 1,
+            "other products": 1,
+            "solvent": 1,
+            "paint stripper": 1,
+            "caffeine remover from coffee and tea": 1
+        }
+    ],
+    [
+        "antiviral",
+        {
+            "anti-hiv activity": 10,
+            "antiviral properties": 1,
+            "inhibitory activity against hiv-1": 2,
+            "exhibits against herpes simplex virus": 1,
+            "anti-hiv-1 activity": 2,
+            "anti-hsv-1 activity": 1,
+            "inhibits entry of hiv into cells by binding to gp41 sub-unit of viral envelope glycoprotein and preventing fusion of viral and cellular membranes.": 1,
+            "inhibits gene expression in hiv-1 at the transcriptional level through interference with tat-mediated transactivation.": 1
+        }
+    ],
+    [
+        "ph",
+        {
+            "7.3": 64,
+            "physiological ph": 1,
+            "ph 7.3": 12,
+            "major species at ph 7.3": 5,
+            "major structure at ph 7.3": 4,
+            "major species present at ph 7.3": 1,
+            "principle microspecies at ph 7.3": 1,
+            "acid-base indicator": 1
+        }
+    ],
+    [
+        "activities",
+        {
+            "free radical scavenging": 1,
+            "antielastase": 1,
+            "antihelminthic": 1,
+            "antiparasitic": 1,
+            "antiviral": 1,
+            "antimycobacterial": 1,
+            "trypanocidal": 1,
+            "antineoplastic": 1
+        }
+    ],
+    [
+        "chemical form",
+        {
+            "deprotonation of both free diphosphate oh groups": 1,
+            "major species at physiological ph": 1,
+            "l-alpha-amino acid zwitterion and sulfonium betaine": 1,
+            "active form of chlorine in water": 1,
+            "tricarboxylic acid trianion": 1,
+            "organophosphate oxoanion": 1,
+            "deprotonation of carboxylic acid and sulfate functions": 1,
+            "often used as the corresponding sodium salt": 1
+        }
+    ],
+    [
+        "receptor affinity",
+        {
+            "high-affinity glucagon-like peptide 1 (glp-1) receptor agonist (kd = 136 pm)": 1,
+            "5-ht1d sub-types": 1,
+            "rodent 5-ht5b": 1,
+            "5-ht5a": 1,
+            "5-ht7": 1,
+            "5-ht6 receptors": 1,
+            "high affinity, selective dopamine d1-like receptor agonist": 2,
+            "selective d2-like dopamine antagonist (ki values are ~ 0.015, ~ 0.013, 1, ~ 45 and ~ 77 mum at d2, d3, d4, d1 and d5 receptors respectively)": 1
+        }
+    ],
+    [
+        "taste",
+        {
+            "not mentioned": 1,
+            "bitter": 1,
+            "chocolate-peanut": 1,
+            "bitter-tasting or tasteless": 1,
+            "unknown": 1,
+            "citrus-like": 1,
+            "not specified": 1,
+            "tasteless": 1
+        }
+    ],
+    [
+        "other activities",
+        {
+            "inhibits ec 3.5.1.98 (histone deacetylase)": 1,
+            "acts as an antineoplastic agent": 1,
+            "acts as a prodrug": 1,
+            "leukotriene d4 dipeptidase inhibitor": 1,
+            "protease inhibitor": 1,
+            "ec 3.4.13.19 (membrane dipeptidase) inhibitor": 1,
+            "xenobiotic": 1,
+            "environmental contaminant": 1
+        }
+    ],
+    [
+        "ki values",
+        {
+            "3.2": 2,
+            "3.1": 2,
+            "186": 2,
+            "66": 2,
+            "335": 2,
+            "1167": 2,
+            "1251": 2,
+            "1385 nm": 2
+        }
+    ],
+    [
+        "associated disorders",
+        {
+            "schizophrenia": 1,
+            "parkinson's disease": 1,
+            "drug abuse": 1,
+            "pain": 1,
+            "cancer": 1,
+            "inflammation": 1,
+            "eating disorders": 1,
+            "central control of blood pressure": 1
+        }
+    ],
+    [
+        "atomic percent abundance",
+        {
+            "71.4": 1,
+            "69.2% natural abundance": 1,
+            "100": 2,
+            "7.73%": 1,
+            "100%": 1,
+            "7.60 atom percent natural abundance": 1,
+            "47.8": 1,
+            "12.8": 1
+        }
+    ],
+    [
+        "antifungal",
+        {
+            "antifungal": 1,
+            "exhibits": 1,
+            "agrochemical": 2,
+            "antifungal agrochemical": 10,
+            "role as an antifungal agent": 1,
+            "antifungal agent": 1,
+            "induces oxidative stress in yeast and filamentous fungi": 1
+        }
+    ],
+    [
+        "anti-inflammatory",
+        {
+            "anti-inflammatory activity": 1,
+            "inhibits tnf-alpha-induced nfkappab activation": 1,
+            "exhibits anti-inflammatory properties": 2,
+            "moderate": 1,
+            "exhibits": 1,
+            "non-steroidal anti-inflammatory drug": 1,
+            "anti-inflammatory agent": 1
+        }
+    ],
+    [
+        "major structure",
+        {
+            "major structure": 4,
+            "at ph 7.3": 2,
+            "according to marvin v 6.2.0.": 1,
+            "ph 7.3 (according to marvin v 6.2.0.)": 5,
+            "cyanidin cation": 1,
+            "ph 7.3 (according to marvin v. 6.2.0)": 1,
+            "conjugate base of a 2-hydroxyglutaryl-coa": 1
+        }
+    ],
+    [
+        "antifungal activity",
+        {
+            "moderate": 1,
+            "strong against aspergillus fumigatus and candida albicans": 1,
+            "strong inhibitory activity against candida albicans, cryptococcus neoformans, and aspergillus fumigatus": 1,
+            "exhibits": 3,
+            "isolated from xyris pterygoblephara, it exhibits activity against dermatophyte fungi.": 1,
+            "inhibits 14alpha demethylase, an enzyme involved in sterol synthesis, resulting in lysis of the fungal cell wall and fungal cell death.": 1,
+            "antifungal agrochemical": 1
+        }
+    ],
+    [
+        "odor",
+        {
+            "fruity": 1,
+            "odourless": 2,
+            "not mentioned": 1,
+            "musty, nutty, buttery, peanut": 1,
+            "foul": 1,
+            "ester-like": 1,
+            "pleasant": 1
+        }
+    ],
+    [
+        "volatileness",
+        {
+            "major volatile component": 1,
+            "volatile constituent in olives": 1,
+            "not mentioned": 1,
+            "unknown": 1,
+            "not specified": 2,
+            "volatile": 1,
+            "volatile oil component": 1
+        }
+    ],
+    [
+        "antiviral activity",
+        {
+            "antiviral activity against herpes simplex virus type 1": 1,
+            "isolated from alpinia officinarum, it exhibits antiviral activity against influenza virus.": 1,
+            "exhibits": 1,
+            "stimulates ifn-gamma secretion in abacavir-responsive clones": 9,
+            "antiviral activity against influenza a virus": 1,
+            "activity against influenza virus": 1,
+            "antiviral": 1
+        }
+    ],
+    [
+        "potency",
+        {
+            "~1000 times more active": 1,
+            "highly potent": 1,
+            "4.3-fold more potent than cgmp in activating pkg1alpha": 2,
+            "ic50 0.40 nm, >1,000 times more potent than tacrine": 1,
+            "potent inhibitor of adenosine deaminase": 2,
+            "more potent than racemic sarin": 1,
+            "potent": 4
+        }
+    ],
+    [
+        "binding",
+        {
+            "binds with high affinity to the alpha2-delta site (an auxiliary subunit of voltage-gated calcium channels) in central nervous system tissues.": 1,
+            "strongly binds to androgen receptor": 1,
+            "directly binds to rt and blocks rna-dependent and dna-dependent dna polymerase activities": 1,
+            "binds to and neutralizes autoantibodies (aabs) directed against g-protein-coupled receptors (gpcr-aabs)": 1,
+            "directly binds to beta-tubulin subunits on microtubules": 1,
+            "directly binds to and blocks the transcription activity of active forkhead box protein o1 (foxo1)": 1,
+            "tightly and non-covelently bound to a 113-membered apoprotein": 1
+        }
+    ],
+    [
+        "receptor activity",
+        {
+            "partial agonist of d1-like receptors (ki values: 1.18, 7.56, 920, 399 nm for rat d1, d5, d2, d3 receptors)": 1,
+            "highly potent selective 5-ht1a receptor full agonist": 2,
+            "potent and selective 5-ht1b/1d receptor antagonist": 1,
+            "dopamine d1-like receptor partial agonist": 1,
+            "5-ht1a receptor partial agonist (ki = 27 nm)": 1,
+            "potent and highly selective cb2 receptor agonist": 1,
+            "highly potent, competitive, preferential dopamine d3 receptor antagonist": 1
+        }
+    ],
+    [
+        "receptor antagonist",
+        {
+            "h1-receptor": 1,
+            "serotonergic": 1,
+            "alpha-adrenergic": 1,
+            "dopaminergic": 1,
+            "h1-receptor antagonist": 1,
+            "cholinergic antagonist": 1,
+            "highly potent and selective h2-receptor antagonist": 1
+        }
+    ],
+    [
+        "nuclear spin",
+        {
+            "1/2": 4,
+            "3/2": 4,
+            "5/2": 4,
+            "9/2": 2,
+            "nuclear spin 3/2": 1,
+            "7/2": 2,
+            "(3)/2": 1
+        }
+    ],
+    [
+        "radical scavenging activity",
+        {
+            "exhibits radical scavenging activity": 7,
+            "isolated from chaetomium globosum": 1,
+            "isolated from the barks of madhuca indica": 1,
+            "isolated from the brown alga ecklonia stolonifera, it exhibits radical scavenging activity. it has a role as a metabolite and a radical scavenger.": 1,
+            "exhibits": 1,
+            "isolated from jasminum lanceolarium, it exhibits radical scavenging activity. it has a role as a metabolite and a radical scavenger.": 1
+        }
+    ],
+    [
+        "species",
+        {
+            "major": 27,
+            "major species present": 1,
+            "major species": 73,
+            "omega-1-hydroxy-long-chain fatty acid anion and hydroxy monounsaturated fatty acid anion": 1,
+            "major at ph 7.3": 2,
+            "major species at ph 7.3": 2
+        }
+    ],
+    [
+        "radical scavenging",
+        {
+            "superoxide": 1,
+            "hydroperoxy": 1,
+            "hydroxyl": 1,
+            "exhibits radical scavenging activity": 1,
+            "exhibits antimicrobial and radical scavenging activities": 1,
+            "radical scavenging": 1
+        }
+    ],
+    [
+        "chemical structure",
+        {
+            "alkane-alpha,omega-diammonium(2+) ion": 1,
+            "between the oxo groups": 1,
+            "lipid iva oxoanion (kdo)-lipid iva(5-) phosphorylated at the 4 position on the kdo moiety; protonated to ph 7.3.": 1,
+            "n-acyl-l-alpha-amino acid anion": 1,
+            "organophosphate oxoanion, 2r,5z isomer of 2-carboxylato-4-methyl-5-[(2-phosphonatooxy)ethylidene]-2,5-dihydrothiazole(3-), protonated to ph 7.3": 1,
+            "acyl-coa arising from deprotonation of isopalmitoyl-coa": 1
+        }
+    ],
+    [
+        "reactivity",
+        {
+            "undergoes ready michael addition of water and methanol": 1,
+            "not mentioned": 1,
+            "much more reactive than h2o2 but exists at much lower abundance": 1,
+            "reaction intermediate": 1,
+            "unknown": 1,
+            "not specified": 2
+        }
+    ],
+    [
+        "type",
+        {
+            "triterpenoid of the nor-ceanothane-type": 1,
+            "taraxastane-type triterpene": 2,
+            "monocarboxylic acid anion and carbohydrate acid derivative anion": 1,
+            "oral carbonic anhydrase inhibitor": 1,
+            "nitrile": 1,
+            "xanthene dye": 1
+        }
+    ],
+    [
+        "half-life",
+        {
+            "not mentioned": 1,
+            "long half-life in vivo": 1,
+            "relatively long": 2,
+            "ten minutes": 1,
+            "244 days": 1,
+            "87.5 days": 1
+        }
+    ],
+    [
+        "vasodilation",
+        {
+            "not mentioned": 1,
+            "vasodilator with properties similar to nitroglycerin": 1,
+            "vasodilator agent": 2,
+            "powerful vasodilator": 1,
+            "unknown": 1,
+            "not specified": 1
+        }
+    ],
+    [
+        "xenobiotic",
+        {
+            "has a role as a xenobiotic": 2,
+            "xenobiotic": 1,
+            "yes": 4,
+            "role as a xenobiotic": 1,
+            "acts as a xenobiotic": 1,
+            "role as xenobiotic": 2
+        }
+    ],
+    [
+        "prodrug",
+        {
+            "yes": 2,
+            "role as prodrug": 2,
+            "9-beta-d-arabinofuranosylguanine (ara-g)": 1,
+            "role as a prodrug": 1,
+            "is a prodrug": 1,
+            "acts as a prodrug": 1
+        }
+    ],
+    [
+        "mutagen",
+        {
+            "carcinogenic agent": 1,
+            "role as a mutagen": 5,
+            "yes": 3,
+            "has a role as a mutagen": 1,
+            "formed in dna by alkylation of the oxygen atom of guanine, most often by n-nitroso compounds and sometimes due to methylation by other compounds such as endogenous s-adenosylmethionine, it base-pairs to thymine rather than cytidine, causing a g:c to a:t transition in dna.": 1,
+            "mutagen": 1
+        }
+    ],
+    [
+        "affinity",
+        {
+            "low to moderate": 2,
+            "uniquely high": 2,
+            "little or no affinity for serotonin (5-ht3), dopamine, and corticosteroid receptors": 1,
+            "almost the same affinity for 5-ht3 sites as quipazine": 2,
+            "ki = 1 nm": 1,
+            "high affinity d2 receptor antagonist (ki = 3 nm)": 1
+        }
+    ],
+    [
+        "atomic abundance",
+        {
+            "15.9%": 1,
+            "100 atom percent natural abundance": 2,
+            "99.9%": 1,
+            "4.10 atom percent natural abundance": 1,
+            "99.8%": 1,
+            "10.0 atom percent natural abundance": 1
+        }
+    ],
+    [
+        "antineoplastic",
+        {
+            "antineoplastic activity": 2,
+            "antineoplastic": 1,
+            "role as an antineoplastic agent": 1,
+            "antineoplastic agent": 1,
+            "potent": 1
+        }
+    ],
+    [
+        "optical activity",
+        {
+            "(s)-(+)-configuration": 1,
+            "optically active (s)-configuration": 2,
+            "optically active (r)-configuration": 2,
+            "optically active (r)-(-)-configuration": 1,
+            "optically active glycerol 1-phosphate": 1
+        }
+    ],
+    [
+        "antimicrobial",
+        {
+            "isolated from erythrina latissima": 1,
+            "active against anaerobic bacteria and protozoa": 1,
+            "active against broad spectrum of bacteria, fungi, moulds, and viruses": 1,
+            "exhibits anti-microbial properties": 1,
+            "isolated from the stem wood of erythrina latissima, it exhibits antimicrobial and radical scavenging activities.": 1
+        }
+    ],
+    [
+        "antimicrobial activity",
+        {
+            "active against gram-positive, gram-negative anaerobic bacteria, and some aerobic bacteria such as streptococci": 1,
+            "moderate activity against gram-positive bacteria": 1,
+            "active against a broad spectrum of aerobic and anaerobic gram-positive and gram-negative microorganisms": 1,
+            "moderate activity against bacillus subtilis": 1,
+            "effective against many coliforms, including escherichia coli, klebsiella, enterobacter and proteus, and most strains of salmonella, shigella, hemophilus, citrobacter and arizona species.": 1
+        }
+    ],
+    [
+        "sensitivity",
+        {
+            "not mentioned": 3,
+            "light-sensitive": 1,
+            "unknown": 1,
+            "not specified": 1,
+            "highly shock- and friction-sensitive": 1
+        }
+    ],
+    [
+        "chemical formula",
+        {
+            "lactic acid": 2,
+            "calcium acetate": 1,
+            "hnco": 1,
+            "na2po3f": 1,
+            "c20h28o2": 1
+        }
+    ],
+    [
+        "allergen",
+        {
+            "metal allergen": 1,
+            "role as an allergen": 1,
+            "yes": 1,
+            "has a role as an allergen": 2,
+            "allergen": 1
+        }
+    ],
+    [
+        "chemical nature",
+        {
+            "nucleoside 5'-diphosphate(3-)": 1,
+            "medium-chain fatty acid anion": 2,
+            "zwitterion": 1,
+            "polar amino acid zwitterion": 1,
+            "organophosphate oxoanion": 1
+        }
+    ],
+    [
+        "irritant",
+        {
+            "recognised": 1,
+            "not mentioned": 1,
+            "potent skin irritant": 1,
+            "severe": 1,
+            "skin and eye": 1
+        }
+    ],
+    [
+        "ion channel activities",
+        {
+            "not mentioned": 1,
+            "potent activator of human ion channels transient receptor potential v3 (trpv3) and a1 (trpa1)": 1,
+            "potassium channel opener": 1,
+            "unknown": 1,
+            "not specified": 1
+        }
+    ],
+    [
+        "analgesic",
+        {
+            "has analgesic properties": 1,
+            "strong narcotic": 1,
+            "potent non-sedating": 1,
+            "exhibits": 1,
+            "non-narcotic analgesic": 1
+        }
+    ],
+    [
+        "smell",
+        {
+            "powerful fragrance compound with pine, rosemary and hay-like tonalities": 1,
+            "malodourous": 1,
+            "unknown": 1,
+            "flowery": 1,
+            "not specified": 1
+        }
+    ],
+    [
+        "drug class",
+        {
+            "prodrug of levorphanol": 1,
+            "antidepressant": 1,
+            "second generation antipsychotic": 1,
+            "antitussive": 1,
+            "hiv protease inhibitor": 1
+        }
+    ],
+    [
+        "apoptosis inducer",
+        {
+            "has a role as an apoptosis inducer": 1,
+            "role as an apoptosis inducer": 1,
+            "yes": 3,
+            "apoptosis inducer": 1,
+            "is an apoptosis inducer": 1
+        }
+    ],
+    [
+        "usage",
+        {
+            "extensively used as a plasticiser": 1,
+            "used as fumigant and larvicide for tobacco and food crops": 1,
+            "prolongs life of cut and potted flowers, ornamental plants, and fruit": 1,
+            "broad spectrum agricultural fungicide": 1,
+            "widely used as a fungicide in agriculture": 1
+        }
+    ],
+    [
+        "anion",
+        {
+            "tetra-anion obtained by removing protons from phosphate and carboxylic acid groups of coenzyme gamma-f420-2": 1,
+            "organic perchlorate salt": 1,
+            "hydroxy monocarboxylic acid": 1,
+            "dicarboxylic acid anion arising from deprotonation of both carboxylic acid functions of 5,6,7,8-tetrahydrofolic acid": 1,
+            "alpha-amino-acid anion": 1
+        }
+    ],
+    [
+        "specificity",
+        {
+            "high specificity for h2o2 over peroxynitrite": 1,
+            "no significant effect against mxa and cdc42": 1,
+            "not in any other tissues": 1,
+            "diamond back moth": 1,
+            "against hepatitis b virus reverse transcriptase, not hiv": 1
+        }
+    ],
+    [
+        "stability",
+        {
+            "greater lactone stability in plasma compared with other topoisomerase i inhibitors": 1,
+            "unstable": 1,
+            "highly unstable at physiological ph": 1,
+            "unstable under acidic and alkaline conditions": 1,
+            "most abundant and stable of the 25 known radioisotopes of zinc": 1
+        }
+    ],
+    [
+        "neurotransmitter systems",
+        {
+            "dopaminergic": 1,
+            "serotonergic": 1,
+            "glutamatergic": 1,
+            "gabaergic": 1,
+            "cholinergic": 1
+        }
+    ],
+    [
+        "physiological roles",
+        {
+            "angiogenesis": 1,
+            "cancer metastasis": 1,
+            "embryogenesis": 1,
+            "tissue remodeling in development": 1,
+            "wound healing": 1
+        }
+    ],
+    [
+        "solvent",
+        {
+            "used as a solvent": 1,
+            "polar aprotic solvent": 1,
+            "polar aprotic": 1,
+            "protic": 1,
+            "non-polar": 1
+        }
+    ],
+    [
+        "ph value",
+        {
+            "7.3": 75,
+            "not mentioned": 1,
+            "unknown": 1,
+            "ph 7.3": 1
+        }
+    ],
+    [
+        "antioxidant activity",
+        {
+            "exhibits": 2,
+            "potent": 1,
+            "exhibits antioxidant activity against hemolysis of red blood cells induced by free radicals": 1,
+            "isolated from daphniphyllum calycinum, exhibits antioxidant activity, role as a metabolite and radical scavenger.": 1
+        }
+    ],
+    [
+        "inhibitory activities",
+        {
+            "inhibition of lipoxygenase": 1,
+            "inhibition of prostaglandin synthetase": 1,
+            "against aromatase": 1,
+            "against nf-kappab": 1
+        }
+    ],
+    [
+        "element",
+        {
+            "copper group element": 1,
+            "copper": 1,
+            "alkaline earth metal": 1,
+            "metallic element": 1
+        }
+    ],
+    [
+        "antimalarial activity",
+        {
+            "isolated from chaetomium brasiliense, it exhibits antimalarial and cytotoxic activities.": 3,
+            "exhibits": 6,
+            "moderate": 2,
+            "isolated from chaetomium brasiliense": 1
+        }
+    ],
+    [
+        "agonist activity",
+        {
+            "alpha2b adrenoceptor agonist": 1,
+            "selective alpha-adrenergic agonist activity": 1,
+            "similar to phenylephrine": 1,
+            "dopamine agonist": 1
+        }
+    ],
+    [
+        "configuration",
+        {
+            "(s)-configuration": 1,
+            "optically inactive hexitol with meso-configuration": 1,
+            "(3s,4r,5r,6s)": 1,
+            "(3r,4s,5s,6r)": 1
+        }
+    ],
+    [
+        "therapeutic use",
+        {
+            "treatment of male hypogonadism": 1,
+            "prevention and treatment of angina pectoris": 1,
+            "treatment of inflammatory skin disorders": 1,
+            "antihypertensive agent": 1
+        }
+    ],
+    [
+        "environmental contaminant",
+        {
+            "environmental contaminant": 1,
+            "yes": 5,
+            "role as an environmental contaminant": 1,
+            "role as environmental contaminant": 2
+        }
+    ],
+    [
+        "administration",
+        {
+            "intramuscular injection (fortnightly)": 1,
+            "available in tablets or oral suspension": 1,
+            "painful intramuscular injection of dimercaprol suspension in peanut oil": 1,
+            "intravenous injection (usually as dihydrate)": 1
+        }
+    ],
+    [
+        "application",
+        {
+            "topical application (often as the hydrochloride salt)": 1,
+            "topical application": 1,
+            "component in oil well drilling fluid": 1,
+            "nmr spectroscopy calibration standard": 1
+        }
+    ],
+    [
+        "inhibitory action",
+        {
+            "inhibits insulin receptor tyrosine kinase activity and insulin stimulated glucose oxidation": 1,
+            "potent inhibitor of p38alpha mitogen-activated protein kinase and brd4": 1,
+            "inhibits histamine release from peritoneal exudate mast cells induced by antigen-antibody reaction": 2,
+            "inhibits leishmania major glycoinositol phospholipid binding by sera from patients with acute cutaneous leishmaniasis": 1
+        }
+    ],
+    [
+        "central activity",
+        {
+            "centrally active following systemic administration in vivo": 2,
+            "centrally active following oral administration": 1,
+            "centrally active following systemic administration": 1,
+            "centrally active following oral administration in vivo": 1
+        }
+    ],
+    [
+        "food sources",
+        {
+            "apples": 1,
+            "strawberries": 1,
+            "sherry": 1,
+            "pamesan cheese": 1
+        }
+    ],
+    [
+        "carcinogenicity",
+        {
+            "possible carcinogenicity": 2,
+            "potential carcinogenicity": 2,
+            "carcinogenic agent": 1,
+            "carcinogenic": 1
+        }
+    ],
+    [
+        "ic50",
+        {
+            "5 nm": 1,
+            "9 nm": 1,
+            "2.0 mum": 1,
+            "12 nm": 1
+        }
+    ],
+    [
+        "anticoagulant",
+        {
+            "acts as an anticoagulant": 2,
+            "anticoagulant": 1,
+            "yes": 1,
+            "inhibits formation of blood clots": 1
+        }
+    ],
+    [
+        "abundance",
+        {
+            "most abundant": 1,
+            "least abundant (29.524 atom percent) isotope of naturally occurring thallium": 1,
+            "most abundant (99.99 atom percent) isotope of naturally occurring helium": 1,
+            "most abundant (70.476 atom percent) isotope of naturally occurring thallium": 1
+        }
+    ],
+    [
+        "chemical use",
+        {
+            "fungicides": 1,
+            "pesticides": 1,
+            "rubber products": 1,
+            "used in production of dyes, pesticides, and other chemicals": 1
+        }
+    ],
+    [
+        "vasodilator",
+        {
+            "role as a vasodilator agent": 1,
+            "vasodilator agent": 1,
+            "acts as a vasodilator agent": 1,
+            "direct-acting": 1
+        }
+    ],
+    [
+        "elements",
+        {
+            "carbon": 1,
+            "hydrogen": 1,
+            "nitrogen": 1,
+            "oxygen": 1
+        }
+    ],
+    [
+        "receptor",
+        {
+            "nmda receptor": 1,
+            "ip3 receptor antagonist": 1,
+            "ligand for the fpr receptor": 1,
+            "free fatty acid 1 (ffa1/gpr40) receptor agonist": 1
+        }
+    ],
+    [
+        "other properties",
+        {
+            "anti-inflammatory": 1,
+            "antinecrotic": 1,
+            "choleretic": 1,
+            "antilipidaemic": 1
+        }
+    ],
+    [
+        "modifications",
+        {
+            "two non-stoichiometric o-acetyl groups": 2,
+            "one non-stoichiometric hydroxybutanoyl group": 3,
+            "two pyruvyl groups": 2,
+            "one non-stoichiometric o-acetyl group": 1
+        }
+    ],
+    [
+        "anti-inflammatory activity",
+        {
+            "17s-oxygenated product of omega-6-dpa": 1,
+            "anti-inflammatory": 2,
+            "exhibits": 9
+        }
+    ],
+    [
+        "immunosuppressive activity",
+        {
+            "strong": 1,
+            "exhibits immunosuppressive activity on a mixed lymphocyte culture reaction (mlcr)": 3,
+            "exhibits": 1
+        }
+    ],
+    [
+        "conversion",
+        {
+            "converted from 4-carboxyaldehyde form of vitamin b6 to pyridoxal phosphate": 1,
+            "monophosphate to triphosphate form (gs-443902)": 1,
+            "hydrolysis of carbamate linkage": 2
+        }
+    ],
+    [
+        "behavior with temperature",
+        {
+            "not mentioned": 3,
+            "unknown": 1,
+            "not specified": 1
+        }
+    ],
+    [
+        "production",
+        {
+            "mostly generated by mono-deiodination of l-thyroxine in peripheral tissues": 1,
+            "produced during respiration by animals, fungi and microorganisms": 1,
+            "continuously produced in the upper atmosphere by solar ultraviolet radiation on atmospheric oxygen": 1
+        }
+    ],
+    [
+        "molecular form",
+        {
+            "dianion of 5-amino-6-(5-phosphoribitylamino)uracil arising from deprotonation of both phosphate oh groups": 1,
+            "trioxilin anion": 1,
+            "dianion of 13(2)-carboxypyropheophorbide a": 1
+        }
+    ],
+    [
+        "analgesic activity",
+        {
+            "isolated from the venom of the sea anemone bunodosoma cangicum": 1,
+            "no analgesic activity": 1,
+            "exhibits": 1
+        }
+    ],
+    [
+        "deprotonation",
+        {
+            "carboxylic acid function": 1,
+            "(kdo)-lipid iva deprotonated at both phosphono groups and at the uronic acid carboxy group": 1,
+            "carboxy and sulfinate groups": 1
+        }
+    ],
+    [
+        "medical effects",
+        {
+            "not mentioned": 2,
+            "unknown": 1,
+            "not specified": 1
+        }
+    ],
+    [
+        "reaction/binding with other molecules",
+        {
+            "not mentioned": 1,
+            "unknown": 1,
+            "not specified": 1
+        }
+    ],
+    [
+        "function in human body",
+        {
+            "not mentioned": 2,
+            "unknown": 1,
+            "not specified": 1
+        }
+    ],
+    [
+        "use",
+        {
+            "used in traditional medicine as a counter-irritant": 1,
+            "antiemetic for nausea and vomiting in cancer chemotherapy patients": 1,
+            "formerly used for determination of effective renal plasma flow": 1
+        }
+    ],
+    [
+        "distribution",
+        {
+            "widely distributed in marine invertebrates": 1,
+            "commonly and widely distributed cereal contaminant": 1,
+            "mainly in extracellular fluid": 1
+        }
+    ],
+    [
+        "radical scavenger",
+        {
+            "yes": 2,
+            "has a role as a radical scavenger": 1,
+            "is a radical scavenger": 3
+        }
+    ],
+    [
+        "drug classification",
+        {
+            "tricyclic antidepressant": 1,
+            "non-steroidal anti-inflammatory drug": 2,
+            "nonsteroidal anti-inflammatory drug (nsaid)": 1
+        }
+    ],
+    [
+        "safety concerns",
+        {
+            "abuse": 1,
+            "dependence": 1,
+            "severe acne": 1
+        }
+    ],
+    [
+        "duration of action",
+        {
+            "shorter": 2,
+            "long": 1,
+            "short (5-15 minutes)": 1
+        }
+    ],
+    [
+        "major microspecies",
+        {
+            "at ph 7.3": 1,
+            "present": 2,
+            "formed from undecaprenyldiphospho-n-acetyl-(n-acetylglucosaminyl)muramoyl-l-alanyl-d-isoglutaminyl-(glycyl)-l-lysyl-d-alanyl-d-alanine": 1
+        }
+    ],
+    [
+        "therapeutic effects",
+        {
+            "analgesic": 1,
+            "antipyretic": 1,
+            "platelet aggregation inhibition": 1
+        }
+    ],
+    [
+        "bioaccumulation",
+        {
+            "bioaccumulates": 1,
+            "not expected to bioaccumulate": 1,
+            "high bioaccumulation capability": 1
+        }
+    ],
+    [
+        "resistance",
+        {
+            "resistant to degradation by cyclic amp phosphodiesterase": 1,
+            "more resistant to beta-lactamases than penicillins": 1,
+            "resistant to a wide range of beta-lactamases": 1
+        }
+    ],
+    [
+        "cell permeability",
+        {
+            "cell-permeable": 4,
+            "cell-permeant": 1,
+            "cell permeable": 1
+        }
+    ],
+    [
+        "behavior",
+        {
+            "may display positive cooperativity": 1,
+            "induces extreme arousal and hyperlocomotion following subcutaneous administration in monkeys.": 1,
+            "induces extreme arousal and hyperlocomotion following subcutaneous administration in monkeys": 1
+        }
+    ],
+    [
+        "ph indicator",
+        {
+            "acts as a ph indicator (changes from red to yellow between ph 6.8 and 8.0)": 1,
+            "changes from red to yellow between ph 6.8 and 8.0": 1,
+            "yes": 1
+        }
+    ],
+    [
+        "allergens",
+        {
+            "diphenylguanidine": 1,
+            "zinc dibutyldithiocarbamate": 1,
+            "zinc diethyldithiocarbamate": 1
+        }
+    ],
+    [
+        "storage methods",
+        {
+            "unknown": 1,
+            "not specified": 1,
+            "not mentioned": 2
+        }
+    ],
+    [
+        "inhibitor of",
+        {
+            "dehydropeptidase i (membrane dipeptidase, 3.4.13.19)": 1,
+            "matrix metalloproteinases (mmps) 2, 3, 9, 13, and 14": 1,
+            "salt-inducible kinase 2": 1
+        }
+    ],
+    [
+        "chemical name",
+        {
+            "active core of sirtinol": 1,
+            "palomid 5-ht3 receptor antagonist hydrochloride": 1,
+            "trisodium phosphonoformate": 1
+        }
+    ],
+    [
+        "antihypertensive",
+        {
+            "role as an antihypertensive agent": 2,
+            "antihypertensive": 1,
+            "role as antihypertensive agent": 3
+        }
+    ],
+    [
+        "mechanism of action",
+        {
+            "intracellular reduction of nitro group to nitroso-containing intermediates, binding to dna, disrupting helical structure, inducing dna strand breaks, inhibiting bacterial nucleic acid synthesis, and ultimately resulting in bacterial cell death.": 1,
+            "inhibits synthesis of 1,3-beta-d-glucan (fungal cell wall component)": 1,
+            "binds to topoisomerase i-dna complex and prevents religation of single strand breaks.": 1
+        }
+    ],
+    [
+        "antimycobacterial",
+        {
+            "isolated from azadirachta indica, it exhibits antimycobacterial and anti-inflammatory activities.": 1,
+            "isolated from chaetomium brasiliense, it exhibits antimycobacterial activity.": 1,
+            "yes": 1
+        }
+    ],
+    [
+        "decomposition",
+        {
+            "decomposes to co2, no2, and hydroxyl radicals": 1,
+            "explosively decomposes above 30\u2103": 1,
+            "decomposes at room temperature to give iron(2+) chloride, hydrogen sulfide, and sulfur": 1
+        }
+    ],
+    [
+        "explosive",
+        {
+            "yes": 1,
+            "acts as an explosive": 1,
+            "high explosive": 1
+        }
+    ],
+    [
+        "apoptosis",
+        {
+            "apoptosis inhibitor": 1,
+            "apoptosis inducer": 1,
+            "induces": 1
+        }
+    ],
+    [
+        "enzyme",
+        {
+            "ec 3.4.21.5 (thrombin) inhibitor": 1,
+            "atp citrate lyase inhibitor": 1,
+            "catalyzes the conversion of dopamine to norepinephrine": 1
+        }
+    ]
+]

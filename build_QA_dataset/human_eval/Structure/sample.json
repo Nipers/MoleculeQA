@@ -1,0 +1,324 @@
+{
+    "residue": [
+        [
+            "7010568",
+            "The molecule is a dipeptide formed from two L-isoleucine residues.",
+            "Which kind of residue does this molecule have?",
+            "It has L-isoleucine residues.",
+            [
+                "It has L-isoleucine and glycine residues.",
+                "It has glycine and L-isoleucine residues.",
+                "It has L-leucine and glycine residues."
+            ],
+            1,
+            1
+        ],
+        [
+            "99719",
+            "The molecule is a dipeptide formed from L-alanyl and L-aspartic acid residues.",
+            "Which kind of residue does this molecule have?",
+            "It has L-alanyl and L-aspartic acid residues.",
+            [
+                "It has L-lysine and L-aspartic acid residues.",
+                "It has two L-alanyl and an L-aspartic acid residue joined in sequence.",
+                "It has L-alanyl and L-threonine residues."
+            ],
+            1,
+            1
+        ],
+        [
+            "152644",
+            "The molecule is a tripeptide composed of one L-phenylalanine and two glycine residues joined in sequence.",
+            "Which kind of residue does this molecule have?",
+            "It has L-phenylalanine and glycine residues.",
+            [
+                "It has L-phenylalanine residues.",
+                "It has L-phenylalanine and L-alanine residues.",
+                "It has L-lysine and L-phenylalanine residues."
+            ],
+            1,
+            1
+        ],
+        [
+            "7021820",
+            "The molecule is a dipeptide formed from L-lysine and L-tyrosine residues.",
+            "Which kind of residue does this molecule have?",
+            "It has L-lysine and L-tyrosine residues.",
+            [
+                "It has L-serine and L-tyrosine residues.",
+                "It has L-methionine and L-tyrosine residues.",
+                "It has L-leucine and L-tyrosine residues."
+            ],
+            1,
+            1
+        ]
+    ],
+    "glycosyl component": [
+        [
+            "70678715",
+            "The molecule is an O-glycosyl-L-serine having the linear heptasaccharide alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->4)-alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl as the glycosyl component.",
+            "Which kind of glycosyl component does this molecule have?",
+            "It has alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->4)-alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl as the glycosyl component.",
+            [
+                "It has beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->3)-[beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc as the glycosyl component.",
+                "It has 4-O-[1-D-ribitylphosphono-(2R)-1-glycerylphosphono]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl as the glycosyl component.",
+                "It has beta-N-acetyl-D-glucosaminyl as the glycosyl component."
+            ],
+            1,
+            1
+        ],
+        [
+            "45259167",
+            "The molecule is a polyprenyl glycosyl phosphate having dolichyl as the polyprenyl component and D-mannose as the glycosyl component.",
+            "Which kind of glycosyl component does this molecule have?",
+            "It has D-mannose as the glycosyl component.",
+            [
+                "It has D-glycero-alpha-D-manno-heptopyranose attached via an alpha-(1->6)-linkage as the glycosyl component.",
+                "It has beta-N-acetyl-D-glucosaminyl as the glycosyl component.",
+                "It has 4-O-[1-D-ribitylphosphono-(2R)-1-glycerylphosphono]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl as the glycosyl component."
+            ],
+            1,
+            1
+        ],
+        [
+            "126456441",
+            "The molecule is a polyprenyl glycosyl diphosphate having eleven prenyl units and with 4-O-[1-D-ribitylphosphono-(2R)-1-glycerylphosphono]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl as the glycosyl component. It is a conjugate acid of a 4-O-[1-D-ribitylphosphonato-(2R)-1-glycerylphosphonato]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl ditrans,octacis-undecaprenyl diphosphate(4-).",
+            "Which kind of glycosyl component does this molecule have?",
+            "It has 4-O-[1-D-ribitylphosphono-(2R)-1-glycerylphosphono]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl as the glycosyl component.",
+            [
+                "It has beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->3)-[beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc as the glycosyl component.",
+                "It has alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->4)-alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl as the glycosyl component.",
+                "It has beta-N-acetyl-D-glucosaminyl as the glycosyl component."
+            ],
+            1,
+            1
+        ],
+        [
+            "5460252",
+            "The molecule is an N(4)-glycosyl-L-asparagine in which the glycosyl component is specified as beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->3)-[beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc. It is a glucosaminoglycan, a glucosamine oligosaccharide and a N(4)-glycosyl-L-asparagine. It is a tautomer of a N(4)-{beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->3)-[beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc}-Asn zwitterion.",
+            "Which kind of glycosyl component does this molecule have?",
+            "It has beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->3)-[beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc as the glycosyl component.",
+            [
+                "It has alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->4)-alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl as the glycosyl component.",
+                "It has 4-O-[1-D-ribitylphosphono-(2R)-1-glycerylphosphono]-N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl as the glycosyl component.",
+                "It has beta-N-acetyl-D-glucosaminyl as the glycosyl component."
+            ],
+            1,
+            1
+        ]
+    ],
+    "counterion": [
+        [
+            "117064919",
+            "The molecule is a quaternary ammonium salt obtained by combining (R)-oleoylcarnitine with one molar equivalent of hydrogen chloride.",
+            "Which kind of counterion does this molecule have?",
+            "It has hydrogen chloride as the counterion.",
+            [
+                "It has chlorite as the counterion.",
+                "It has p-tosylate as the counterion.",
+                "It has periodate as the counterion."
+            ],
+            1,
+            1
+        ],
+        [
+            "26052",
+            "The molecule is an inorganic sodium salt having tungstate as the counterion. Combines with hydrogen peroxide for the oxidation of secondary amines to nitrones.",
+            "Which kind of counterion does this molecule have?",
+            "It has tungstate as the counterion.",
+            [
+                "It has sorbate as the counterion.",
+                "It has p-tosylate as the counterion.",
+                "It has chlorite as the counterion."
+            ],
+            1,
+            1
+        ],
+        [
+            "23667635",
+            "The molecule is an inorganic sodium salt having periodate as the counterion.",
+            "Which kind of counterion does this molecule have?",
+            "It has periodate as the counterion.",
+            [
+                "It has chlorite as the counterion.",
+                "It has p-tosylate as the counterion.",
+                "It has K+ as the counterion."
+            ]
+        ],
+        [
+            "56842543",
+            "The molecule is an organic sodium salt having 2-oxo-3-[(1R)-3-oxo-1-phenylbutyl]-2H-1-benzopyran-4-olate as the counterion (the racemate is warfarin sodium, an anticoagulant drug and rodenticide). It contains a (R)-warfarin(1-). It is an enantiomer of a (S)-warfarin sodium.",
+            "Which kind of counterion does this molecule have?",
+            "It has 2-oxo-3-[(1R)-3-oxo-1-phenylbutyl]-2H-1-benzopyran-4-olate as the counterion.",
+            [
+                "It has 2-oxo-3-[(1S)-3-oxo-1-phenylbutyl]-2H-1-benzopyran-4-olate as the counterion.",
+                "It has 6-amino-2-(4-methylphenyl)-1,3-dioxo-2,3-dihydro-1H-benzo[de]isoquinoline-5-sulfonate as the counterion.",
+                "It has 6-amino-2-[(hydrazinocarbonyl)amino]-1,3-dioxo-2,3-dihydro-1H-benzo[de]isoquinoline-5,8-disulfonate as the counterion."
+            ],
+            1,
+            1
+        ]
+    ],
+    "sugar component": [
+        [
+            "19235",
+            "The molecule is a UDP-sugar having alpha-xylose as the sugar component.",
+            "Which kind of sugar component does this molecule have?",
+            "It has alpha-xylose as the sugar component.",
+            [
+                "It has D-ribulose as the sugar component.",
+                "It has D-ravidosamine as the sugar component.",
+                "It has D-ribofuranos-5-yl as the sugar component."
+            ],
+            1,
+            1
+        ],
+        [
+            "91826551",
+            "The molecule is a TDP-sugar having beta-L-rhamnose as the sugar component.",
+            "Which kind of sugar component does this molecule have?",
+            "It has beta-L-rhamnose as the sugar component.",
+            [
+                "It has 4-dehydro-beta-L-rhamnose as the sugar component.",
+                "It has beta-L-daunosamine as the sugar component.",
+                "It has N-hydroxy-beta-L-evernosamine as the sugar component."
+            ],
+            1,
+            1
+        ],
+        [
+            "439292",
+            "The molecule is a dTDP-sugar having 4-dehydro-6-deoxy-alpha-D-glucose as the sugar component.",
+            "Which kind of sugar component does this molecule have?",
+            "It has 4-dehydro-6-deoxy-alpha-D-glucose as the sugar component.",
+            [
+                "It has 4-dehydro-2,6-dideoxy-alpha-D-glucose as the sugar component.",
+                "It has 4-dehydro-2,6-dideoxy-D-glucose as the sugar component.",
+                "It has 4-dehydro-2,6-dideoxy-beta-L-glucose as the sugar component."
+            ],
+            1,
+            1
+        ],
+        [
+            "23250405",
+            "The molecule is a dTDP-sugar having beta-L-daunosamine as the sugar component.",
+            "Which kind of sugar component does this molecule have?",
+            "It has beta-L-daunosamine as the sugar component.",
+            [
+                "It has N-hydroxy-beta-L-evernosamine as the sugar component.",
+                "It has beta-L-evernitrose as the sugar component.",
+                "It has beta-L-mycarose as the sugar component."
+            ],
+            1,
+            1
+        ]
+    ],
+    "attached group": [
+        [
+            "25105081",
+            "The molecule is a glycophytoceramide having an alpha-D-galactopyranosyl residue at the O-1 position and an 11-(4-methoxyphenyl)undecanoyl group attached to the nitrogen.",
+            "Which kind of attached group does this molecule have?",
+            "It has an 11-(4-methoxyphenyl)undecanoyl group attached to the nitrogen.",
+            [
+                "It has an 8-(4-methoxyphenyl)octanoyl group attached to the nitrogen.",
+                "It has an 8-(4-fluorophenyl)octanoyl group attached to the nitrogen.",
+                "It has an 11-(4-fluorophenyl)undecanoyl group attached to the nitrogen."
+            ],
+            1,
+            1
+        ],
+        [
+            "25105023",
+            "The molecule is a glycophytoceramide having an alpha-D-galactopyranosyl residue at the O-1 position and a 9-phenylnonanoyl group attached to the nitrogen.",
+            "Which kind of attached group does this molecule have?",
+            "It has a 9-phenylnonanoyl group attached to the nitrogen.",
+            [
+                "It has an 11-phenylundecanoyl group attached to the nitrogen.",
+                "It has an 8-phenyloctanoyl group attached to the nitrogen.",
+                "It has an 11-(4-fluorophenyl)undecanoyl group attached to the nitrogen."
+            ],
+            1,
+            1
+        ],
+        [
+            "11650502",
+            "The molecule is a glycophytoceramide having an alpha-D-galactopyranosyl residue at the O-1 position and an 8-phenyloctanoyl group attached to the nitrogen.",
+            "Which kind of attached group does this molecule have?",
+            "It has an 8-phenyloctanoyl group attached to the nitrogen.",
+            [
+                "It has an 11-phenylundecanoyl group attached to the nitrogen.",
+                "It has a 9-phenylnonanoyl group attached to the nitrogen.",
+                "It has an 11-(4-fluorophenyl)undecanoyl group attached to the nitrogen."
+            ],
+            1,
+            1
+        ],
+        [
+            "25105201",
+            "The molecule is a glycophytoceramide having an alpha-D-galactopyranosyl residue at the O-1 position and an 11-(4-fluorophenyl)undecanoyl group attached to the nitrogen.",
+            "Which kind of attached group does this molecule have?",
+            "It has an 11-(4-fluorophenyl)undecanoyl group attached to the nitrogen.",
+            [
+                "It has an 8-(4-fluorophenyl)octanoyl group attached to the nitrogen.",
+                "It has an 11-(4-methoxyphenyl)undecanoyl group attached to the nitrogen.",
+                "It has an 8-(4-methoxyphenyl)octanoyl group attached to the nitrogen."
+            ],
+            1,
+            1
+        ],
+        [
+            "25105142",
+            "The molecule is a glycophytoceramide having an alpha-D-galactopyranosyl residue at the O-1 position and an 11-(4-trifluoromethyl)undecanoyl group attached to the nitrogen.",
+            "Which kind of attached group does this molecule have?",
+            "It has an 11-(4-trifluoromethyl)undecanoyl group attached to the nitrogen.",
+            [
+                "It has an 11-(4-fluorophenyl)undecanoyl group attached to the nitrogen.",
+                "It has an 8-(4-fluorophenyl)octanoyl group attached to the nitrogen.",
+                "It has an 11-(4-methoxyphenyl)undecanoyl group attached to the nitrogen."
+            ],
+            1,
+            1
+        ]
+    ],
+    "addition": [
+        [
+            "91826548",
+            "The molecule is a bacterial hopanoid obtained by addition of an adenosyl group across the double bond of hopene.",
+            "Which kind of addition does the molecule result from",
+            "It results from addition of an adenosyl group across the double bond of hopene.",
+            [
+                "It results from addition of one equivalent of 1-naphthylamine to phthalic anhydride.",
+                "It results from formal addition of oxygen across the 5,6 double bond with alpha-configuration at both C-5 and C-6.",
+                "It results from the formal addition of a molecule of carbon disulfide to each of the nitrogens of propylenediamine."
+            ],
+            1,
+            1
+        ],
+        [
+            "166768",
+            "The molecule is a cyanohydrin that is obtained by the formal addition of hydrogen cyanide to the aldehyde group of 4-hydroxybenzaldehyde.",
+            "Which kind of addition does the molecule result from",
+            "It results from the formal addition of hydrogen cyanide to the aldehyde group of 4-hydroxybenzaldehyde.",
+            [
+                "It results from the addition of water to the aldehyde group of abietal.",
+                "It results from the formal addition of a molecule of carbon disulfide to each of the nitrogens of propylenediamine.",
+                "It results from the formal addition of a molecule of carbon disulfide to each amino group of ethylenediamine."
+            ],
+            1,
+            1
+        ],
+        [
+            "56927992",
+            "The molecule is an aldehyde hydrate resulting from the addition of water to the aldehyde group of abietal.",
+            "Which kind of addition does the molecule result from",
+            "It results from the addition of water to the aldehyde group of abietal.",
+            [
+                "It results from the formal addition of water to the double bond of alpha-cubebene.",
+                "It results from formal addition of oxygen across the 5,6 double bond with alpha-configuration at both C-5 and C-6.",
+                "It results from formal addition of two molecules of hydrogen to the pyridine ring of palmatine."
+            ],
+            1,
+            1
+        ]
+    ]
+}

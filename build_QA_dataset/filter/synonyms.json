@@ -1,0 +1,33 @@
+[
+    [
+        " drug",
+        " agent"
+    ],
+    [
+        " is a ",
+        " has a role as ",
+        " acts as a ",
+        " is used as a ",
+        " can be used as a "
+    ],
+    [
+        "this molecule ",
+        "it "
+    ],
+    [
+        "probable",
+        "possible"
+    ],
+    [
+        " has ",
+        " exhibits "
+    ],
+    [
+        "activity",
+        "effect",
+        "property",
+        "activities",
+        "effects",
+        "properties"
+    ]
+]

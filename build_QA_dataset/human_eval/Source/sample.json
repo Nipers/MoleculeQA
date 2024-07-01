@@ -1,0 +1,334 @@
+{
+    "isolated": [
+        [
+            "70697886",
+            "It has been isolated from Pisonia aculeata. It has a role as a metabolite and a plant metabolite.",
+            "Where this molecule can be isolated from?",
+            "It can be isolated from Pisonia aculeata.",
+            [
+                "It can be isolated from a marine sponge Oceanapia sp.",
+                "It can be isolated from a marine sponge Phakellia sp.",
+                "It can be isolated from mushrooms of the genus Amanita."
+            ],
+            1,
+            1
+        ],
+        [
+            "50900415",
+            "The molecule is an abietane diterpenoid isolated from the stem bark of Fraxinus sieboldiana. It has a role as a plant metabolite.",
+            "Where this molecule can be isolated from?",
+            "It can be isolated from the stem bark of Fraxinus sieboldiana.",
+            [
+                "It can be isolated from the root extract of Bauhinia purpurea.",
+                "It can be isolated from the bark of Cinnamomum cassia.",
+                "It can be isolated from the whole plants of Ardisia japonica."
+            ],
+            1,
+            1
+        ],
+        [
+            "443773",
+            "It is a naphthylisoquinoline alkaloid isolated from the roots and stem barks of Triphyophyllum peltatum and exhibits antifungal, antimalarial, antineoplastic and molluscicidal activites.",
+            "Where this molecule can be isolated from?",
+            "It can be isolated from the roots and stem barks of Triphyophyllum peltatum.",
+            [
+                "It can be isolated from the stems of Kobresia nepalensis.",
+                "It can be isolated from the roots of Coriaria nepalensis.",
+                "It can be isolated from the marine sponge of the genus Plakortis."
+            ],
+            1,
+            1
+        ],
+        [
+            "52951632",
+            "It has been isolated from Conoideocrella tenuis. It has a role as a fungal metabolite.",
+            "Where this molecule can be isolated from?",
+            "It can be isolated from Conoideocrella tenuis.",
+            [
+                "It can be isolated from Scilla scilloides.",
+                "It can be isolated from Hypocrella species.",
+                "It can be isolated from Aschersonia species and Hypocrella species."
+            ],
+            1,
+            1
+        ],
+        [
+            "5281631",
+            "It has been isolated from Cratoxylum cochinchinense. It has a role as a plant metabolite and a metabolite.",
+            "Where this molecule can be isolated from?",
+            "It can be isolated from Cratoxylum cochinchinense.",
+            [
+                "It can be isolated from Chaetomium gracile.",
+                "It can be isolated from Xylocarpus granatum.",
+                "It can be isolated from the marine red algae Portieria hornemannii."
+            ],
+            1,
+            1
+        ],
+        [
+            "11038270",
+            "It has been isolated from the aerial parts of Physalis longifolia. It has a role as a metabolite and a plant metabolite.",
+            "Where this molecule can be isolated from?",
+            "It can be isolated from the aerial parts of Physalis longifolia.",
+            [
+                "It can be isolated from the aerial parts of Ajuga bracteosa.",
+                "It can be isolated from the aerial parts of Putoria calabrica.",
+                "It can be isolated from the aerial parts of Impatiens balsamina."
+            ],
+            1,
+            1
+        ]
+    ],
+    "found": [
+        [
+            "474541",
+            "Procyanidin B8 is found in acorn and is present in fruit and leaves of blackberry (Rubus fruticosus), raspberry (Rubus idaeus) and cowberry (Vaccinium vitis idaea). It can be also found in grape seeds and in beer. It has a role as a metabolite.",
+            "Where this molecule can be found?",
+            "It can be found in acorn, fruit and leaves of blackberry (Rubus fruticosus), raspberry (Rubus idaeus) and cowberry (Vaccinium vitis idaea), grape seeds and beer.",
+            [
+                "It can be found in leaves and fruit of cowberry Vaccinium vitis-idaea, grape seeds and beer.",
+                "It can be found in grape seeds, in Hibiscus cannabinus (kenaf) root and bark, in apple and in cacao.",
+                "It can be found in many fruits and vegetables, including raspberries, strawberries, cranberries, and pomegranates."
+            ],
+            1,
+            1
+        ],
+        [
+            "124017",
+            "It can be found in grape seeds, in Hibiscus cannabinus (kenaf) root and bark, in apple and in cacao. It has a role as a metabolite.",
+            "Where this molecule can be found?",
+            "It can be found in grape seeds, in Hibiscus cannabinus (kenaf) root and bark, in apple and in cacao.",
+            [
+                "It can be found in leaves and fruit of cowberry Vaccinium vitis-idaea, grape seeds and beer.",
+                "It can be found in acorn, fruit and leaves of blackberry (Rubus fruticosus), raspberry (Rubus idaeus) and cowberry (Vaccinium vitis idaea), grape seeds and beer.",
+                "It can be found in many fruits and vegetables, including raspberries, strawberries, cranberries, and pomegranates."
+            ],
+            1,
+            1
+        ],
+        [
+            "474540",
+            "Procyanidin B6 is isolated from leaves and fruit of cowberry Vaccinium vitis-idaea and other plants. It can also be found in grape seeds and in beer. It has a role as a metabolite.",
+            "Where this molecule can be found?",
+            "It can be found in leaves and fruit of cowberry Vaccinium vitis-idaea, grape seeds and beer.",
+            [
+                "It can be found in acorn, fruit and leaves of blackberry (Rubus fruticosus), raspberry (Rubus idaeus) and cowberry (Vaccinium vitis idaea), grape seeds and beer.",
+                "It can be found in grape seeds, in Hibiscus cannabinus (kenaf) root and bark, in apple and in cacao.",
+                "It can be found in many fruits and vegetables, including raspberries, strawberries, cranberries, and pomegranates."
+            ],
+            1,
+            1
+        ],
+        [
+            "46881231",
+            "Found as a product of (+)-sesamin in rat liver homogenate and also produced from sesamin by an enzyme (SesA) found in Sinomonas species.",
+            "Where this molecule can be found?",
+            "It can be found in rat liver homogenate and produced from sesamin by an enzyme (SesA) found in Sinomonas species.",
+            [
+                "It can be found in grape seeds, in Hibiscus cannabinus (kenaf) root and bark, in apple and in cacao.",
+                "It can be found in leaves and fruit of cowberry Vaccinium vitis-idaea, grape seeds and beer.",
+                "It can be found in acorn, fruit and leaves of blackberry (Rubus fruticosus), raspberry (Rubus idaeus) and cowberry (Vaccinium vitis idaea), grape seeds and beer."
+            ],
+            1,
+            1
+        ],
+        [
+            "64971",
+            "It is found in the bark and other plant parts of several species of plants including Syzygium claviflorum.",
+            "Where this molecule can be found?",
+            "It is found in the bark and other plant parts of several species of plants including Syzygium claviflorum.",
+            [
+                "It can be found in leaves and fruit of cowberry Vaccinium vitis-idaea, grape seeds and beer.",
+                "It can be found in grape seeds, in Hibiscus cannabinus (kenaf) root and bark, in apple and in cacao.",
+                "It can be found in many fruits and vegetables, including raspberries, strawberries, cranberries, and pomegranates."
+            ],
+            1,
+            1
+        ]
+    ],
+    "derives": [
+        [
+            "131801253",
+            "It derives from a cucurbitadienol. It derives from a hydride of a cucurbitane.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a cucurbitadienol and a hydride of a cucurbitane.",
+            [
+                "It derives from a hydride of a cucurbitane.",
+                "It derives from a hydride of a stannane.",
+                "It derives from a hydride of a eudesmane."
+            ],
+            1,
+            1
+        ],
+        [
+            "72551457",
+            "It has a role as a metabolite. It derives from a ferulic acid and a L-tartaric acid.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a ferulic acid and a L-tartaric acid.",
+            [
+                "It derives from a ferulic acid and a D-tartaric acid.",
+                "It derives from a meso-tartaric acid and a cis-caffeic acid.",
+                "It derives from a cis-vaccenic acid and a palmitoleic acid."
+            ],
+            1,
+            1
+        ],
+        [
+            "151023",
+            "It has a role as a human metabolite. It derives from a glutamic acid and a leucine.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a glutamic acid and a leucine.",
+            [
+                "It derives from a glutamic acid and a threonine.",
+                "It derives from a glutaric acid.",
+                "It derives from a fumaric acid."
+            ],
+            1,
+            1
+        ],
+        [
+            "72394",
+            "It has a role as a metabolite. It derives from a paromomycin and a lividomycin B.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a paromomycin and a lividomycin B.",
+            [
+                "It derives from a paromomycin.",
+                "It derives from a viomycin(3+).",
+                "It derives from a protoasukamycin."
+            ],
+            1,
+            1
+        ],
+        [
+            "24778766",
+            "It has a role as a mouse metabolite. It derives from a cis-vaccenic acid and a palmitoleic acid.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a cis-vaccenic acid and a palmitoleic acid.",
+            [
+                "It derives from a pentadecanoic acid and an oleic acid.",
+                "It derives from an oleic acid and a hexadecanoic acid.",
+                "It derives from a hexadecanoic acid and a linoleic acid."
+            ],
+            1,
+            1
+        ],
+        [
+            "72551456",
+            "It has a role as a metabolite. It derives from a L-tartaric acid and a cis-ferulic acid.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a L-tartaric acid and a cis-ferulic acid.",
+            [
+                "It derives from a meso-tartaric acid and a cis-caffeic acid.",
+                "It derives from a cis-vaccenic acid and a hexadecanoic acid.",
+                "It derives from an arachidonic acid and a hexadecanoic acid."
+            ],
+            1,
+            1
+        ],
+        [
+            "440863",
+            "It has a role as a mouse metabolite. It derives from an adenosine 5'-monophosphate and a propionic acid.",
+            "Which molecule does this molecule derive from?",
+            "It derives from an adenosine 5'-monophosphate and a propionic acid.",
+            [
+                "It derives from an adenosine 5'-monophosphate.",
+                "It derives from a 4-hydroxybenzoic acid and an adenosine 5'-monophosphate.",
+                "It derives from an adenosine and a tuberculosinol."
+            ],
+            1,
+            1
+        ],
+        [
+            "24778633",
+            "It has a role as a human xenobiotic metabolite. It derives from an icosanoic acid and a tetradecanoic acid.",
+            "Which molecule does this molecule derive from?",
+            "It derives from an icosanoic acid and a tetradecanoic acid.",
+            [
+                "It derives from an icosanoic acid and a cis-vaccenic acid.",
+                "It derives from an octadecanoic acid and a linoleic acid.",
+                "It derives from a linoleic acid and an octadecanoic acid."
+            ],
+            1,
+            1
+
+        ],
+        [
+            "14375390",
+            "It has a role as a plant metabolite. It derives from a sucrose and a L-arabinopyranose.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a sucrose and a L-arabinopyranose.",
+            [
+                "It derives from a (-)-epitaxifolin and an alpha-D-arabinopyranose.",
+                "It derives from a D-lyxopyranose.",
+                "It derives from a lactose and a D-galactopyranose."
+            ],
+            1,
+            1
+        ],
+        [
+            "86289826",
+            "It derives from an ascr#34 and a (3R,18R)-3,18-dihydroxynonadecanoic acid.",
+            "Which molecule does this molecule derive from?",
+            "It derives from an ascr#34 and a (3R,18R)-3,18-dihydroxynonadecanoic acid.",
+            [
+                "It derives from a bhos#22 and a (3R)-3,13-dihydroxytridecanoic acid.",
+                "It derives from an ascr#28 and a (3R,15R)-3,15-dihydroxypalmitic acid.",
+                "It derives from an ascr#20 and a (3R,11R)-3,11-dihydroxylauric acid."
+            ],
+            1,
+            1
+        ],
+        [
+            "6455477",
+            "It derives from a beta-D-glucose and an isorhamnetin.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a beta-D-glucose and an isorhamnetin.",
+            [
+                "It derives from a glucotropeolin.",
+                "It derives from a glucaric acid.",
+                "It derives from a mellein."
+            ],
+            1,
+            1
+        ],
+        [
+            "9949088",
+            "It has a role as a bacterial metabolite. It derives from a linoleic acid.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a linoleic acid.",
+            [
+                "It derives from a nicotinic acid.",
+                "It derives from a syringic acid.",
+                "It derives from a maleic acid."
+            ],
+            1,
+            1
+        ],
+        [
+            "10090416",
+            "It derives from a coumarin.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a coumarin.",
+            [
+                "It derives from a lutein.",
+                "It derives from a sordarin.",
+                "It derives from a caffeine."
+            ],
+            1,
+            1
+        ],
+        [
+            "17732",
+            "It derives from a hydantoin.",
+            "Which molecule does this molecule derive from?",
+            "It derives from a hydantoin.",
+            [
+                "It derives from a chrysin.",
+                "It derives from a lysine.",
+                "It derives from a (-)-cotinine."
+            ],
+            1,
+            1
+        ]
+    ]
+}

@@ -1,0 +1,343 @@
+{
+    "reagent": [
+        [
+            "24814",
+            "It is used as a reagent for detecting vitamin A and related carotenoids, reacting with the carotenoid to form a blue complex that can be measured by colorimetry (the Carr-Price test).",
+            "Which kind of reagent is this molecule?",
+            "It is a reagent for detecting vitamin A and related carotenoids.",
+            [
+                "It is a reagent used in molecular biology as an oxidizing agent.",
+                "It is a nitrating and chlorinating agent in organic synthesis.",
+                "It is a reagent for the selective cleavage of tryptophanyl peptide bonds."
+            ],
+            1,
+            1
+        ],
+        [
+            "2762682",
+            "It is used as a cell-permeant, cationic, red-orange fluorescent dye that is readily sequestered by active mitochondria. It has a role as a fluorochrome and a reagent.",
+            "Which kind of reagent is this molecule?",
+            "It is a cell-permeant, cationic, red-orange fluorescent dye.",
+            [
+                "It is a chemical intermediate in the synthesis of azo pigments and dyes.",
+                "It is a reagent for the selective cleavage of tryptophanyl peptide bonds.",
+                "It is a reagent used in molecular biology as an oxidizing agent."
+            ],
+            1,
+            1
+        ],
+        [
+            "65093",
+            "It is a reagent used in molecular biology as an oxidizing agent. Also used in peptide synthesis and for detecting thiols. It has a role as an oxidising agent.",
+            "Which kind of reagent is this molecule?",
+            "It is a reagent used in molecular biology as an oxidizing agent.",
+            [
+                "It is a nitrating and chlorinating agent in organic synthesis.",
+                "It is a reagent for detecting vitamin A and related carotenoids.",
+                "It is a reagent for the selective cleavage of tryptophanyl peptide bonds."
+            ],
+            1,
+            1
+        ],
+        [
+            "10637",
+            "Used principally as a reagent in colorimetric determinations. It has a role as a colorimetric reagent.",
+            "Which kind of reagent is this molecule?",
+            "It is a colorimetric reagent.",
+            [
+                "It is a reagent for detecting vitamin A and related carotenoids.",
+                "It is a reagent used in molecular biology as an oxidizing agent.",
+                "It is a nitrating and chlorinating agent in organic synthesis."
+            ],
+            1,
+            1
+        ]
+    ],
+    "antineoplastic agent": [
+        [
+            "121875",
+            "It has a role as an EC 3.5.1.98 (histone deacetylase) inhibitor, an antineoplastic agent and a fungal metabolite.",
+            "Which kind of antineoplastic agent is this molecule?",
+            "It is an EC 3.5.1.98 (histone deacetylase) inhibitor.",
+            [
+                "It is an EC 1.5.1.3 (dihydrofolate reductase) inhibitor.",
+                "It is an EC 2.7.10.1 (receptor protein-tyrosine kinase) inhibitor.",
+                "It is an antimetabolite and an EC 1.5.1.3 (dihydrofolate reductase) inhibitor."
+            ],
+            1,
+            1
+        ],
+        [
+            "5281421",
+            "It has a role as a protein synthesis inhibitor, an antineoplastic agent and a plant metabolite.",
+            "Which kind of antineoplastic agent is this molecule?",
+            "It is a protein synthesis inhibitor.",
+            [
+                "It is a proteasome inhibitor.",
+                "It is a mTOR inhibitor.",
+                "It is a Wnt signalling inhibitor."
+            ],
+            1,
+            1
+        ],
+        [
+            "36314",
+            "It has a role as a microtubule-stabilising agent, a metabolite, a human metabolite and an antineoplastic agent.",
+            "Which kind of antineoplastic agent is this molecule?",
+            "It is a microtubule-stabilising agent.",
+            [
+                "It is an alkylating agent.",
+                "It is a proteasome inhibitor.",
+                "It is a mTOR inhibitor."
+            ],
+            1,
+            1
+        ]
+    ],
+    "modulator": [
+        [
+            "4030",
+            "It has a role as an antinematodal drug, a tubulin modulator and a microtubule-destabilising agent.",
+            "Which kind of modulator is this molecule?",
+            "It is a tubulin modulator.",
+            [
+                "It is a potassium channel modulator.",
+                "It is an estrogen receptor modulator.",
+                "It is a ryanodine receptor modulator."
+            ],
+            1,
+            1
+        ],
+        [
+            "5281718",
+            "It has a role as a metabolite, a potassium channel modulator, an anti-arrhythmia drug, a hepatoprotective agent, an antioxidant and a nephroprotective agent.",
+            "Which kind of modulator is this molecule?",
+            "It is a potassium channel modulator.",
+            [
+                "It is an estrogen receptor modulator.",
+                "It is a tubulin modulator.",
+                "It is a ryanodine receptor modulator."
+            ],
+            1,
+            1
+        ],
+        [
+            "5035",
+            "It has a role as a bone density conservation agent, an estrogen receptor modulator and an estrogen antagonist.",
+            "Which kind of modulator is this molecule?",
+            "It is an estrogen receptor modulator.",
+            [
+                "It is a potassium channel modulator.",
+                "It is a tubulin modulator.",
+                "It is a ryanodine receptor modulator."
+            ],
+            1,
+            1
+        ],
+        [
+            "9568620",
+            "It is a muscle relaxant used for the treatment/prevention of malignant hyperthermia. It has a role as a ryanodine receptor modulator and a muscle relaxant.",
+            "Which kind of modulator is this molecule?",
+            "It is a ryanodine receptor modulator.",
+            [
+                "It is a potassium channel modulator.",
+                "It is an estrogen receptor modulator.",
+                "It is a tubulin modulator."
+            ],
+            1,
+            1
+        ]
+    ],
+    "insecticide": [
+        [
+            "11317883",
+            "It has a role as a ryanodine receptor modulator and a phytogenic insecticide.",
+            "Which kind of insecticide is this molecule?",
+            "It is a phytogenic insecticide.",
+            [
+                "It is a carbamate insecticide.",
+                "It is an organothiophosphate insecticide.",
+                "It is a pyrethroid insecticide."
+            ],
+            1,
+            1
+        ],
+        [
+            "17040",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            "It is a carbamate insecticide.",
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a synthetic pyrethroid insecticide.",
+                "It is a pyrethroid ester insecticide."
+            ],
+            1,
+            1
+        ],
+        [
+            "14322",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide, an acaricide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            "It is a carbamate insecticide.",
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a synthetic pyrethroid insecticide.",
+                "It is a pyrethroid ester insecticide."
+            ],
+            1,
+            1
+        ],
+        [
+            "5368008",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide, an agrochemical and an acaricide.",
+            "Which kind of insecticide is this molecule?",
+            "It is a carbamate insecticide.",
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a synthetic pyrethroid insecticide.",
+                "It is a pyrethroid ester insecticide."
+            ],
+            1,
+            1
+        ]
+    ],
+    "antidote": [
+        [
+            "4456",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor and an antidote to curare poisoning.",
+            "Which kind of antidote is this molecule?",
+            "It is an antidote to curare poisoning.",
+            [
+                "It is an antidote to cyanide poisoning.",
+                "It is an antidote to benzodiazepine poisoning.",
+                "It is an antidote to opioid poisoning."
+            ],
+            1,
+            1
+        ],
+        [
+            "5485201",
+            "it is a mu-opioid receptor antagonist that is used to treat alcohol dependence. It has a role as a mu-opioid receptor antagonist, an antidote to opioid poisoning and a central nervous system depressant.",
+            "Which kind of antidote is this molecule?",
+            "It is an antidote to opioid poisoning.",
+            [
+                "It is an antidote to benzodiazepine poisoning.",
+                "It is an antidote to cyanide poisoning.",
+                "It is an antidote to curare poisoning."
+            ],
+            1,
+            1
+        ],
+        [
+            "135398747",
+            "It has a role as a cholinergic drug, a cholinesterase reactivator, an antidote to organophosphate poisoning and an antidote to sarin poisoning.",
+            "Which kind of antidote is this molecule?",
+            "It is an antidote to organophosphate poisoning and sarin poisoning.",
+            [
+                "It is an antidote to cyanide poisoning.",
+                "It is an experimental antidote for cyanide poisoning.",
+                "It is an antidote to benzodiazepine poisoning."
+            ],
+            1,
+            1
+        ],
+        [
+            "3373",
+            "It is used as an antidote to benzodiazepine overdose. It has a role as a GABA antagonist and an antidote to benzodiazepine poisoning.",
+            "Which kind of antidote is this molecule?",
+            "It is an antidote to benzodiazepine poisoning.",
+            [
+                "It is an antidote to opioid poisoning.",
+                "It is an antidote to cyanide poisoning.",
+                "It is an antidote to curare poisoning."
+            ],
+            1,
+            1
+        ],
+        [
+            "24830990",
+            "Sulfanegen is a prodrug for 3-mercaptopyruvic acid and is an experimental antidote for cyanide poisoning. It has a role as a prodrug and an antidote to cyanide poisoning.",
+            "Which kind of antidote is this molecule?",
+            "It is an experimental antidote for cyanide poisoning.",
+            [
+                "It is an antidote to cyanide poisoning.",
+                "It is an antidote to benzodiazepine poisoning.",
+                "It is an antidote to opioid poisoning."
+            ],
+            1,
+            1
+        ]
+    ],
+    "fungicide": [
+        [
+            "25429",
+            "It is a carbamate ester, a member of benzimidazoles, a benzimidazole fungicide and a benzimidazolylcarbamate fungicide.",
+            "Which kind of fungicide is this molecule?",
+            "It is a benzimidazole fungicide.",
+            [
+                "It is a furanilide fungicide.",
+                "It is a thiadiazole antifungal agent.",
+                "It is an anilide fungicide."
+            ],
+            1,
+            1
+        ],
+        [
+            "86398",
+            "A fungicide seed treatment for control of a range of diseases including Fusarium, Rhizoctonia and Alternaria. It has a role as an androgen antagonist, an estrogen receptor agonist and an antifungal agrochemical.",
+            "Which kind of fungicide is this molecule?",
+            "It is a fungicide seed treatment for control of a range of diseases including Fusarium, Rhizoctonia and Alternaria.",
+            [
+                "It is a fungicide used to control Peronosporales on a range of crops including vines, hops and potatoes.",
+                "It is a foliar fungicide used to control a wide range of Ascomycetes and Fungi Imperfecti in a wide range of crops.",
+                "It is a fungicide for the control of scab on apples and pears and other fungal diseases on a wide range of crops."
+            ],
+            1,
+            1
+        ],
+        [
+            "10403199",
+            "A fungicide effective against Oomycete diseases such as downy mildew and certain leaf spot diseases. It has a role as a mitochondrial cytochrome-bc1 complex inhibitor, an antifungal agrochemical and a quinone outside inhibitor.",
+            "Which kind of fungicide is this molecule?",
+            "It is effective against Oomycete diseases such as downy mildew and certain leaf spot diseases.",
+            [
+                "It is a fungicide used to control grey mould, downy mildew and other fungal pathogens.",
+                "It is a fungicide for use on potatoes to control late blight and downy mildew.",
+                "It is used as a fungicide for the control of powdery mildew in cereal crops as well as in apple and pear orchards."
+            ],
+            1,
+            1
+        ],
+        [
+            "136264487",
+            "It is a fungicide with a wide spectrum of activity and inhibits the enzymatic activity of pyruvate kinase. It has a role as a fungicide and an EC 2.7.1.40 (pyruvate kinase) inhibitor.",
+            "Which kind of fungicide is this molecule?",
+            "It is a fungicide with a wide spectrum of activity and inhibits the enzymatic activity of pyruvate kinase.",
+            [
+                "It is a fungicide used for the control of rice blast.",
+                "It is a fungicide particularly for the control of fungal diseases in rice.",
+                "It is a fungicide developed mainly for the control of rice blast (Magnaporthe grisea)."
+            ],
+            1,
+            1
+        ]
+    ],
+    "antagonist": [
+        [
+            "10237",
+            "A light-sensitive competitive antagonist of GABAA receptors.",
+            "Which kind of antagonist is this molecule?",
+            "It is a light-sensitive competitive antagonist of GABAA receptors.",
+            [
+                "It is a competitive, reversible antagonist of muscarinic receptors.",
+                "It is a weak antagonist of folic acid.",
+                "It is a peptide agonist of guanylate cyclase 2C."
+            ],
+            1,
+            1
+        ]
+    ]
+
+
+}

@@ -1,0 +1,327 @@
+{
+    "effects": [
+        [
+            "25078060",
+            "It exhibits hypotensive and neuroprotective effects, and may be a potential prognostic biomarker for acute ischemic stroke and multiple sclerosis.",
+            "Which kind of effects does this molecule have/exhibit?",
+            "It exhibits hypotensive and neuroprotective effects.",
+            [
+                "It blocks the effects of excessive levels of glutamate that may lead to neuronal dysfunction.",
+                "It can lead to the accumulation of itself and glycine in the brain when its plasma concentrations increase.",
+                "It may inhibit the action of pepsin by subsequent increases in pH."
+            ],
+            1,
+            1
+        ],
+        [
+            "135418328",
+            "Isolated from the fermentation broth of Penicillium minioluteum, it exhibits neurotrophic effect of NGF.",
+            "Which kind of effects does this molecule have/exhibit?",
+            "It exhibits neurotrophic effect of NGF.",
+            [
+                "It exhibits hypotensive and neuroprotective effects.",
+                "Its major side effects are myelosuppression and neurotoxicity.",
+                "It causes harmful health effects and bioaccumulates."
+            ],
+            1,
+            1
+        ],
+        [
+            "5121662",
+            "Isolated from Daphnia pulex, it induces morphological changes of phytoplankton Scenedesmus gutwinskii.",
+            "Which kind of effects does this molecule have/exhibit?",
+            "It can induce morphological changes of phytoplankton Scenedesmus gutwinskii.",
+            [
+                "It causes longstanding nicotinic receptor activation, resulting in spastic paralysis of susceptible nematodes (worms).",
+                "It can cause noncirrhotic portal hypertension due to hepatoportal sclerosis and nodular regenerative hyperplasia with long term therapy.",
+                "It impairs energy-requiring processes, such as recovery from potentially lethal damage induced by radiation treatment and some cytotoxic drugs."
+            ],
+            1,
+            1
+        ],
+        [
+            "5003059",
+            "Isolated from Daphnia pulex, it induces morphological changes of phytoplankton Scenedesmus gutwinskii.",
+            "Which kind of effects does this molecule have/exhibit?",
+            "It can induce morphological changes of phytoplankton Scenedesmus gutwinskii.",
+            [
+                "It may exacerbate underlying chronic hepatitis B or C in coinfected patients.",
+                "It can potentiate the neutralizing action of ATIII on activated Factor X 300-fold.",
+                "It can cause increased amount of this molecule in the blood of premature infants, which is marked by decreased motor activity, lethargy and poor feeding."
+            ],
+            1,
+            1
+        ],
+        [
+            "11969465",
+            "An endogenous Na/K-ATPase inhibitor, it is a vasoconstrictor with effects similar to digitalis. It has a role as an EC 3.6.3.9 (Na(+)/K(+)-transporting ATPase) inhibitor and an epitope.",
+            "Which kind of effects does this molecule have/exhibit?",
+            "It is a vasoconstrictor with effects similar to digitalis.",
+            [
+                "It can be introduced under normobaric or hyperbaric conditions.",
+                "It can result in effects on the CNS, blood, and liver with chronic inhalation exposure.",
+                "Acute inhalation exposure to it can cause irritation of the respiratory tract and eye irritation in humans."
+            ],
+            1,
+            1
+        ]
+    ],
+    "action": [
+        [
+            "443884",
+            "An ergot alkaloid that has a particularly powerful action on the uterus, its maleate (and formerly tartrate) salt is used in the active management of the third stage of labour, and to prevent or treat postpartum of postabortal haemorrhage caused by uterine atony: by maintaining uterine contraction and tone, blood vessels in the uterine wall are compressed and blood flow reduced.",
+            "Which kind of action does this molecule have/exhibit?",
+            "It maintains uterine contraction and tone.",
+            [
+                "It may cause liver failure.",
+                "It suppresses inflammation and stimulates cell-mediated immunity.",
+                "It interacts predominantly with the opioid mu-receptors."
+            ],
+            1,
+            1
+        ],
+        [
+            "53262738",
+            "Isolated from a Formosan soft coral Paraminabea acronocephala, it has been found to inhibit the accumulation of the pro-inflammatory iNOS protein.",
+            "Which kind of action does this molecule have/exhibit?",
+            "It inhibits the accumulation of the pro-inflammatory iNOS protein.",
+            [
+                "It inhibits microbial cellular protein synthesis.",
+                "It inhibits bacterial protein synthesis.",
+                "It inhibits cell membrane ergosterol biosynthesis."
+            ],
+            1,
+            1
+        ],
+        [
+            "5280497",
+            "The molecule is a thromboxane which is produced by activated platelets and has prothrombotic properties: it stimulates activation of new platelets as well as increases platelet aggregation.",
+            "Which kind of action does this molecule have/exhibit?",
+            "It stimulates activation of new platelets and increases platelet aggregation.",
+            [
+                "It mediates smooth muscle relaxation and bronchodilation.",
+                "It mediates a cytotoxic action on colorectal cancer cells by inducing cell arrest and apoptosis.",
+                "It promotes binding to inhibitory gamma-aminobutyric acid subtype receptors and modulates chloride currents through receptor channels."
+            ],
+            1,
+            1
+        ],
+        [
+            "3385",
+            "It is an antineoplastic agent which acts as an antimetabolite - following conversion to the active deoxynucleotide, it inhibits DNA synthesis (by blocking the conversion of deoxyuridylic acid to thymidylic acid by the cellular enzyme thymidylate synthetase) and so slows tumour growth. It has a role as a xenobiotic, an environmental contaminant, a radiosensitizing agent, an antineoplastic agent, an immunosuppressive agent and an antimetabolite.",
+            "Which kind of action does this molecule have/exhibit?",
+            "It inhibits DNA synthesis by blocking the conversion of deoxyuridylic acid to thymidylic acid.",
+            [
+                "It acts by inhibition of cholinesterase activity.",
+                "It inhibits cholinesterase enzyme.",
+                "It inhibits acetylcholinesterase."
+            ],
+            1,
+            1
+        ]
+    ],
+    "antiviral activity": [
+        [
+            "12132943",
+            "Isolated from Cleistocalyx operculatus, it has been shown to exhibit inhibitory effects on the viral neuraminidases from two influenza viral strains, H1N1 and H9N2.",
+            "Which kind of antiviral activity does this molecule have/exhibit?",
+            "It exhibits inhibitory effects on the viral neuraminidases from two influenza viral strains, H1N1 and H9N2.",
+            [
+                "It has potent in vitro antiviral activity against a diverse panel of RNA viruses such as Ebola virus, MERS-CoV and SARS-CoV.",
+                "It is used to treat influenza, herpes infection, viral hepatitis, acute respiratory viral infections, and SARS.",
+                "It is used for the treatment of cytomegalovirus (CMV) retinitis in AIDS patients."
+            ],
+            1,
+            1
+        ],
+        [
+            "3011698",
+            "The molecule is an organic heteropentacyclic guanidine alkaloid isolated from maringe sponge Monanchora sp. It exhibits anti-HIV-1 and anti-HSV-1 activity.",
+            "Which kind of antiviral activity does this molecule have/exhibit?",
+            "It exhibits anti-HIV-1 and anti-HSV-1 activity.",
+            [
+                "It exhibits antiviral activity against influenza A virus.",
+                "It exhibits antiviral activity against influenza virus.",
+                "It exhibits antiviral activity against herpes simplex virus."
+            ],
+            1,
+            1
+        ],
+        [
+            "1884",
+            "It is a potent NMDA glutamate receptor antagonist which antagonizes the strychnine-insensitive glycine site of the NMDA receptor. It also prevents neurodegeneration produced by quinolinic acid.",
+            "Which kind of action does this molecule have/exhibit?",
+            "It antagonizes the strychnine-insensitive glycine site of the NMDA receptor and prevents neurodegeneration produced by quinolinic acid.",
+            [
+                "It exhibits the actions of being a powerful stimulant of gastric secretion, a constrictor of bronchial smooth muscle, a vasodilator, and a centrally acting neurotransmitter.",
+                "It is a vascular endothelial growth factor (VEGF) receptor protein tyrosine kinase 1/2 and platelet derived growth factor (PDGF) receptor inhibitor. It also inhibits the neuronal nitric oxide synthase (NOS) and exhibits neuroprotection against NO-mediated neurotoxicity.",
+                "It has multiple actions, including activating GABA(B) receptors, enhancing NMDA current, blocking AMPA-receptor-mediated transmission, binding to the L-alpha-amino acid transporter, activating ATP-sensitive K(+) channels, activating hyperpolarization-activated cation channels, and modulating Ca(2+) current."
+            ],
+            1,
+            1
+        ]
+    ],
+    "affinity": [
+        [
+            "4054",
+            "A low to moderate affinity uncompetitive (open-channel); NMDA receptor antagonist which binds preferentially to the NMDA receptor-operated cation channels.",
+            "Which kind of affinity does this molecule have/exhibit?",
+            "It exhibits low to moderate affinity uncompetitive (open-channel) NMDA receptor antagonist activity.",
+            [
+                "It has low to moderate-affinity for NMDA receptors.",
+                "It has a higher affinity to AR and no partial agonist activity compared to bicalutamide.",
+                "It has little or no affinity for serotonin (5-HT3), dopamine, and corticosteroid receptors."
+            ],
+            1,
+            1
+        ],
+        [
+            "135564864",
+            "Aprepitant is a selective high-affinity antagonist of human substance P/neurokinin 1 (NK1) receptors. Aprepitant has little or no affinity for serotonin (5-HT3), dopamine, and corticosteroid receptors, the targets of existing therapies for chemotherapy-induced nausea and vomiting and postoperative nausea and vomiting It has a role as a prodrug, an antiemetic and a neurokinin-1 receptor antagonist.",
+            "Which kind of affinity does this molecule have/exhibit?",
+            "It is a selective high-affinity antagonist of human substance P/neurokinin 1 (NK1) receptors.",
+            [
+                "It is an antagonist of corticotropin-releasing factor 1 (CRF-1) receptors with a Ki of 1 nM.",
+                "It has little or no affinity for serotonin (5-HT3), dopamine, and corticosteroid receptors.",
+                "It has a high affinity for the mu-opioid receptor, but lower intrinsic activity compared to other full mu-opioid agonists."
+            ],
+            1,
+            1
+        ],
+        [
+            "135398737",
+            "It also displays strong affinity to several dopaminergic receptors, but shows only weak antagonism at the dopamine D2 receptor, a receptor commonly thought to modulate neuroleptic activity",
+            "Which kind of affinity does this molecule have/exhibit?",
+            "It has strong affinity to several dopaminergic receptors, but weak antagonism at the dopamine D2 receptor.",
+            [
+                "It has little or no affinity for serotonin (5-HT3), dopamine, and corticosteroid receptors.",
+                "It has a high affinity for the mu-opioid receptor, but lower intrinsic activity compared to other full mu-opioid agonists.",
+                "It has moderate affinity for histamine and alpha adrenergic receptors, and no appreciable affinity for cholinergic muscarinic receptors."
+            ],
+            1,
+            1
+        ],
+        [
+            "181458",
+            "A low to moderate affinity uncompetitive (open-channel); NMDA receptor antagonist which binds preferentially to the NMDA receptor-operated cation channels.",
+            "Which kind of affinity does this molecule have/exhibit?",
+            "It exhibits low to moderate affinity uncompetitive (open-channel) NMDA receptor antagonist activity.",
+            [
+                "It has low to moderate-affinity for NMDA receptors.",
+                "It has a higher affinity to AR and no partial agonist activity compared to bicalutamide.",
+                "It has little or no affinity for serotonin (5-HT3), dopamine, and corticosteroid receptors."
+            ],
+            1,
+            1
+        ]
+    ],
+    "receptor activity": [
+        [
+            "11497466",
+            "Potent and selective 5-HT1B/1D receptor antagonist (pKi values are 8.5 for both guinea pig 5-HT1D and rat 5-HT1B receptors). Displays > 100-fold selectivity over 5HT1A, 5-HT2A, 5-HT2C receptors and other receptor types. Centrally active following oral administration.",
+            "Which kind of receptor activity does this molecule have/exhibit?",
+            "It displays potent and selective 5-HT1B/1D receptor antagonist activity.",
+            [
+                "It is a potent and selective 5-HT1A receptor partial agonist.",
+                "It is a highly potent, competitive, preferential dopamine D3 receptor antagonist.",
+                "It is a noncompetitive AMPA glutamate receptor antagonist."
+            ],
+            1,
+            1
+        ],
+        [
+            "107780",
+            "Potent and selective 5-HT1B/1D receptor antagonist (pKi values are 8.5 for both guinea pig 5-HT1D and rat 5-HT1B receptors). Displays > 100-fold selectivity over 5HT1A, 5-HT2A, 5-HT2C receptors and other receptor types. Centrally active following oral administration.",
+            "Which kind of receptor activity does this molecule have/exhibit?",
+            "It displays potent and selective 5-HT1B/1D receptor antagonist activity.",
+            [
+                "It is a potent and selective 5-HT1A receptor partial agonist.",
+                "It is a highly potent, competitive, preferential dopamine D3 receptor antagonist.",
+                "It is a noncompetitive AMPA glutamate receptor antagonist."
+            ],
+            1,
+            1
+        ],
+        [
+            "91273",
+            "It is a potent and selective 5-HT1A receptor partial agonist (Ki = 27 nM).",
+            "Which kind of receptor activity does this molecule have/exhibit?",
+            "It is a potent and selective 5-HT1A receptor partial agonist.",
+            [
+                "It displays potent and selective 5-HT1B/1D receptor antagonist activity.",
+                "It is a highly potent, competitive, preferential dopamine D3 receptor antagonist.",
+                "It is a noncompetitive AMPA glutamate receptor antagonist."
+            ],
+            1,
+            1
+        ],
+        [
+            "3408722",
+            "It is a highly potent, competitive, preferential dopamine D3 receptor antagonist, centrally active upon systemic administration.",
+            "Which kind of receptor activity does this molecule have/exhibit?",
+            "It is a highly potent, competitive, preferential dopamine D3 receptor antagonist.",
+            [
+                "It displays potent and selective 5-HT1B/1D receptor antagonist activity.",
+                "It is a potent and selective 5-HT1A receptor partial agonist.",
+                "It is a noncompetitive AMPA glutamate receptor antagonist."
+            ],
+            1,
+            1
+        ],
+        [
+            "9924495",
+            "This molecule is a noncompetitive AMPA glutamate receptor antagonist",
+            "Which kind of receptor activity does this molecule have/exhibit?",
+            "It is a noncompetitive AMPA glutamate receptor antagonist.",
+            [
+                "It is an NMDA receptor antagonist.",
+                "It is a highly potent, competitive, preferential dopamine D3 receptor antagonist.",
+                "It displays potent and selective 5-HT1B/1D receptor antagonist activity."
+            ],
+            1,
+            1
+        ]
+    ],
+    "antimicrobial activity": [
+        [
+            "21141346",
+            "Isolated from Erythrina stricta and Erythrina zeyheri, it exhibits antibacterial, antimycobacterial, antiplasmodial and cytotoxic activities.",
+            "Which kind of antimicrobial activity does this molecule have/exhibit?",
+            "It exhibits antibacterial, antimycobacterial, antiplasmodial, and cytotoxic activities.",
+            [
+                "It exhibits antimycobacterial and antiplasmodial activities.",
+                "It exhibits strong and specific antimicrobial activities against rapid-growing Mycobacteria including drug-resistant strains.",
+                "It shows moderate antimicrobial activity against Bacillus subtilis."
+            ],
+            1,
+            1
+        ],
+        [
+            "134131607",
+            "It is active against the pathogenic bacteria Agrobacterium tumefaciens, Bacillus subtilis, Pseudomonas lachrymans, Ralstonia solanacearum, Staphylococcus hemolyticus, and Xanthomonas vesicatoria, with MIC values in the range 25-100 mug/mL.",
+            "Which kind of antimicrobial activity does this molecule have/exhibit?",
+            "It is active against Agrobacterium tumefaciens, Bacillus subtilis, Pseudomonas lachrymans, Ralstonia solanacearum, Staphylococcus hemolyticus, and Xanthomonas vesicatoria.",
+            [
+                "It is effective against many coliforms, including Escherichia coli, Klebsiella, Enterobacter, and Proteus, and most strains of Salmonella, Shigella, Hemophilus, Citrobacter, and Arizona species.",
+                "It has activity against Gram-positive cocci and rods, Gram-negative cocci, Legionellae, mycoplasmas, chlamydiae, some types of spirochetes, Toxoplasma gondii, and Cryptosporidium.",
+                "It has excellent activity against most aerobic gram-negative bacilli from the Enterobacteriaceae family, including Nocardia and some Mycobacterium."
+            ],
+            1,
+            1
+        ],
+        [
+            "11755172",
+            "The molecule is a 16-membered macrolide which exhibits strong and specific antimicrobial activities against rapid-growing Mycobacteria including drug-resistant strains.",
+            "Which kind of antimicrobial activity does this molecule have/exhibit?",
+            "It exhibits strong and specific antimicrobial activities against rapid-growing Mycobacteria including drug-resistant strains.",
+            [
+                "It shows moderate antimicrobial activity against Bacillus subtilis.",
+                "It has excellent activity against most aerobic gram-negative bacilli from the Enterobacteriaceae family, including Nocardia and some Mycobacterium.",
+                "It is active against a wide range of micro-organisms including some fungi and viruses, but is only slowly effective against spores."
+            ],
+            1,
+            1
+        ]
+    ]
+
+}    

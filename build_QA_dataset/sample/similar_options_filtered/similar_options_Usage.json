@@ -1,0 +1,5666 @@
+{
+    "reagent": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antineoplastic agent": [
+        [],
+        [],
+        [
+            [
+                "It is an alkylating agent.",
+                "It is an alkylating antineoplastic agent."
+            ]
+        ],
+        [
+            [
+                "It is an alkylating antineoplastic agent.",
+                "It is an alkylating agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an alkylating agent.",
+                "It is an alkylating antineoplastic agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an alkylating agent.",
+                "It is an alkylating antineoplastic agent."
+            ]
+        ],
+        [
+            [
+                "It is an alkylating agent.",
+                "It is an alkylating antineoplastic agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an alkylating antineoplastic agent.",
+                "It is an alkylating agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "modulator": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "prodrug": [
+        [
+            [
+                "It is a prodrug for azilsartan, used for the treatment of hypertension.",
+                "It is a prodrug used for treatment of hypertension."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prodrug for azilsartan, used for the treatment of hypertension.",
+                "It is a prodrug used for treatment of hypertension."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a prodrug for azilsartan, used for the treatment of hypertension.",
+                "It is a prodrug used for treatment of hypertension."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prodrug used for treatment of hypertension.",
+                "It is a prodrug for azilsartan, used for the treatment of hypertension."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prodrug used for treatment of hypertension.",
+                "It is a prodrug for azilsartan, used for the treatment of hypertension."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a prodrug for azilsartan, used for the treatment of hypertension.",
+                "It is a prodrug used for treatment of hypertension."
+            ]
+        ],
+        [
+            [
+                "It is a prodrug used for treatment of hypertension.",
+                "It is a prodrug for azilsartan, used for the treatment of hypertension."
+            ]
+        ],
+        [
+            [
+                "It is a prodrug used for treatment of hypertension.",
+                "It is a prodrug for azilsartan, used for the treatment of hypertension."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "ligand": [
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "insecticide": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a pyrethroid ether insecticide.",
+                "It is a pyrethroid insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a synthetic pyrethroid insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ester insecticide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a pyrethroid ester insecticide.",
+                "It is a pyrethroid insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ether insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a synthetic pyrethroid insecticide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a synthetic pyrethroid insecticide.",
+                "It is a pyrethroid insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ether insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ester insecticide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a synthetic pyrethroid insecticide.",
+                "It is a pyrethroid insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ether insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ester insecticide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a nonsystemic organophosphate insecticide.",
+                "It is an organophosphate insecticide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a synthetic pyrethroid insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ether insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ester insecticide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a synthetic pyrethroid insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ether insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ester insecticide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a synthetic pyrethroid insecticide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a synthetic pyrethroid insecticide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a synthetic pyrethroid insecticide.",
+                "It is a pyrethroid insecticide."
+            ],
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a pyrethroid ether insecticide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antifungal agrochemical": [
+        [
+            [
+                "It is a novel fungicide.",
+                "It is a novel systemic fungicide."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a broad spectrum fungicide.",
+                "It is a broad spectrum agricultural fungicide."
+            ]
+        ],
+        [
+            [
+                "It is a broad spectrum agricultural fungicide.",
+                "It is a broad spectrum fungicide."
+            ]
+        ],
+        [
+            [
+                "It is a broad spectrum fungicide.",
+                "It is a broad spectrum agricultural fungicide."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a broad spectrum fungicide.",
+                "It is a broad spectrum agricultural fungicide."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a broad spectrum fungicide.",
+                "It is a broad spectrum agricultural fungicide."
+            ]
+        ],
+        [
+            [
+                "It is a novel fungicide.",
+                "It is a novel systemic fungicide."
+            ]
+        ],
+        [
+            [
+                "It is a novel fungicide.",
+                "It is a novel systemic fungicide."
+            ]
+        ],
+        [
+            [
+                "It is a broad spectrum fungicide.",
+                "It is a broad spectrum agricultural fungicide."
+            ]
+        ],
+        [
+            [
+                "It is a novel systemic fungicide.",
+                "It is a novel fungicide."
+            ]
+        ]
+    ],
+    "antidote": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antipsychotic": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used as an antipsychotic and an antiemetic.",
+                "It is a phenothiazine used as an antipsychotic agent and as an antiemetic."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "inhibitor": [
+        [],
+        [
+            [
+                "It is a cyclooxygenase 1 inhibitor and a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor and a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a reversible monoamine oxidase inhibitor.",
+                "It is a monoamine oxidase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cysteine protease inhibitor.",
+                "It is a protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is an HIV protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a 3',5'-cyclic-GMP phosphodiesterase inhibitor.",
+                "It is a phosphodiesterase inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a phospholipase A2 inhibitor.",
+                "It is a phospholipase A2 (PLA2) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a cysteine protease inhibitor.",
+                "It is a protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a cysteine protease inhibitor.",
+                "It is a protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is an HIV protease inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is an HIV protease inhibitor.",
+                "It is a protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a phospholipase A2 inhibitor.",
+                "It is a phospholipase A2 (PLA2) inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a mitogen-activated protein kinase inhibitor.",
+                "It is a kinase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cysteine protease inhibitor.",
+                "It is a protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 1 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a cysteine protease inhibitor.",
+                "It is a protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 1 inhibitor and a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor and a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 1 inhibitor and a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor and a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a cysteine protease inhibitor.",
+                "It is a protease inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is an HIV protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 1 inhibitor and a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor and a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a phospholipase A2 inhibitor.",
+                "It is a phospholipase A2 (PLA2) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cysteine protease inhibitor.",
+                "It is a protease inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a mitogen-activated protein kinase inhibitor.",
+                "It is a kinase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a reversible monoamine oxidase inhibitor.",
+                "It is a monoamine oxidase inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor and a cyclooxygenase 1 inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor and a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a reversible monoamine oxidase inhibitor.",
+                "It is a monoamine oxidase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a sodium-glucose cotransporter 2 inhibitor.",
+                "It is a sodium-glucose cotransporter 2 (SGLT2) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a cyclooxygenase 1 inhibitor and a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor and a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor and a cyclooxygenase 1 inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor and a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a monoamine oxidase inhibitor.",
+                "It is a reversible monoamine oxidase inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an Aurora kinase inhibitor.",
+                "It is a kinase inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a 3',5'-cyclic-GMP phosphodiesterase inhibitor.",
+                "It is a phosphodiesterase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a xanthine oxidase inhibitor.",
+                "It is a nonpurine xanthine oxidase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a COX-2 inhibitor.",
+                "It is a selective COX-2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a phosphodiesterase IV inhibitor.",
+                "It is a phosphodiesterase inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a 3C-like protease inhibitor.",
+                "It is a protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is a cysteine protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a phosphodiesterase IV inhibitor.",
+                "It is a phosphodiesterase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a 3',5'-cyclic-GMP phosphodiesterase inhibitor.",
+                "It is a phosphodiesterase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a phosphodiesterase inhibitor.",
+                "It is a phosphodiesterase IV inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a HIV-1 reverse transcriptase inhibitor.",
+                "It is a reverse transcriptase inhibitor."
+            ],
+            [
+                "It is a reverse transcriptase inhibitor.",
+                "It is a nucleoside reverse transcriptase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is an HIV protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a serine protease inhibitor.",
+                "It is a protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a phospholipase A2 (PLA2) inhibitor.",
+                "It is a phospholipase A2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a nucleoside reverse transcriptase inhibitor.",
+                "It is a reverse transcriptase inhibitor."
+            ],
+            [
+                "It is a nucleoside analogue and reverse transcriptase inhibitor.",
+                "It is a first generation nucleoside analogue and reverse transcriptase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a monoamine oxidase inhibitor.",
+                "It is a reversible monoamine oxidase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a phospholipase A2 (PLA2) inhibitor.",
+                "It is a phospholipase A2 inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a phospholipase A2 inhibitor.",
+                "It is a phospholipase A2 (PLA2) inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a phosphodiesterase IV inhibitor.",
+                "It is a phosphodiesterase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a mitogen-activated protein kinase inhibitor.",
+                "It is a kinase inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a mitogen-activated protein kinase inhibitor.",
+                "It is a kinase inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is an Aurora kinase inhibitor.",
+                "It is a kinase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a reverse transcriptase inhibitor.",
+                "It is a HIV-1 reverse transcriptase inhibitor."
+            ],
+            [
+                "It is a reverse transcriptase inhibitor.",
+                "It is a nucleoside reverse transcriptase inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a nucleoside analogue and reverse transcriptase inhibitor.",
+                "It is a first generation nucleoside analogue and reverse transcriptase inhibitor."
+            ],
+            [
+                "It is a reverse transcriptase inhibitor.",
+                "It is a HIV-1 reverse transcriptase inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a multi-specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a multi-specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a selective tyrosine kinase receptor inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a selective tyrosine kinase receptor inhibitor.",
+                "It is a tyrosine kinase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a specific tyrosine kinase receptor inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a multi-specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a selective COX-2 inhibitor.",
+                "It is a COX-2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a nucleoside analogue and reverse transcriptase inhibitor.",
+                "It is a first generation nucleoside analogue and reverse transcriptase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a selective tyrosine kinase receptor inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a multi-specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a nucleoside analogue and reverse transcriptase inhibitor.",
+                "It is a first generation nucleoside analogue and reverse transcriptase inhibitor."
+            ],
+            [
+                "It is a nucleoside reverse transcriptase inhibitor.",
+                "It is a reverse transcriptase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a sodium-glucose cotransporter 2 inhibitor.",
+                "It is a sodium-glucose cotransporter 2 (SGLT2) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a tyrosine kinase inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a nonpurine xanthine oxidase inhibitor.",
+                "It is a xanthine oxidase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a first generation nucleoside analogue and reverse transcriptase inhibitor.",
+                "It is a nucleoside analogue and reverse transcriptase inhibitor."
+            ],
+            [
+                "It is a nucleoside reverse transcriptase inhibitor.",
+                "It is a reverse transcriptase inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a multi-specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a reversible monoamine oxidase inhibitor.",
+                "It is a monoamine oxidase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a nucleoside analogue and reverse transcriptase inhibitor.",
+                "It is a first generation nucleoside analogue and reverse transcriptase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a nucleoside reverse transcriptase inhibitor.",
+                "It is a reverse transcriptase inhibitor."
+            ],
+            [
+                "It is a reverse transcriptase inhibitor.",
+                "It is a HIV-1 reverse transcriptase inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a xanthine oxidase inhibitor.",
+                "It is a nonpurine xanthine oxidase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 2 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 1 inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a Janus kinase inhibitor.",
+                "It is a kinase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a selective tyrosine kinase receptor inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a multi-specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a multi-kinase inhibitor.",
+                "It is a multi-kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a selective tyrosine kinase receptor inhibitor.",
+                "It is a tyrosine kinase inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a reverse transcriptase inhibitor.",
+                "It is a HIV-1 reverse transcriptase inhibitor."
+            ],
+            [
+                "It is a reverse transcriptase inhibitor.",
+                "It is a nucleoside reverse transcriptase inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a multi-kinase inhibitor.",
+                "It is a multi-kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a cyclooxygenase 1 inhibitor.",
+                "It is a cyclooxygenase inhibitor."
+            ],
+            [
+                "It is a cyclooxygenase inhibitor.",
+                "It is a cyclooxygenase 2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is an HIV protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a multi-kinase receptor inhibitor.",
+                "It is a multi-kinase inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a multi-kinase inhibitor.",
+                "It is a multi-kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase (AChE) inhibitor.",
+                "It is an acetylcholinesterase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an irreversible organophosphate acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase inhibitor."
+            ],
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase (AChE) inhibitor.",
+                "It is an acetylcholinesterase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a protease inhibitor.",
+                "It is a HIV-1 protease inhibitor."
+            ],
+            [
+                "It is a protease inhibitor.",
+                "It is an HIV protease inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a multi-specific tyrosine kinase receptor inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a selective tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a mitogen-activated protein kinase inhibitor.",
+                "It is a kinase inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a nucleoside analogue and reverse transcriptase inhibitor.",
+                "It is a first generation nucleoside analogue and reverse transcriptase inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an acetylcholinesterase inhibitor.",
+                "It is an acetylcholinesterase (AChE) inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a sodium-glucose cotransporter 2 (SGLT2) inhibitor.",
+                "It is a sodium-glucose cotransporter 2 inhibitor."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a selective tyrosine kinase receptor inhibitor.",
+                "It is a tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a specific tyrosine kinase receptor inhibitor."
+            ],
+            [
+                "It is a tyrosine kinase receptor inhibitor.",
+                "It is a multi-specific tyrosine kinase receptor inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a reversible monoamine oxidase inhibitor.",
+                "It is a monoamine oxidase inhibitor."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a nucleoside analogue and reverse transcriptase inhibitor.",
+                "It is a first generation nucleoside analogue and reverse transcriptase inhibitor."
+            ]
+        ],
+        [
+            [
+                "It is a selective COX-2 inhibitor.",
+                "It is a COX-2 inhibitor."
+            ]
+        ]
+    ],
+    "fungicide": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antagonist": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a dopamine antagonist.",
+                "It is a dopamine receptor D2 antagonist."
+            ]
+        ],
+        [
+            [
+                "It is a dopamine antagonist.",
+                "It is a dopamine receptor D2 antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an estrogen antagonist.",
+                "It is an estrogen receptor antagonist."
+            ]
+        ],
+        [
+            [
+                "It is an estrogen receptor antagonist.",
+                "It is an estrogen antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an angiotensin receptor antagonist.",
+                "It is an angiotensin II receptor antagonist."
+            ]
+        ],
+        [
+            [
+                "It is a dopamine antagonist.",
+                "It is a dopamine receptor D2 antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an NMDA glutamate receptor antagonist.",
+                "It is a NMDA receptor antagonist."
+            ],
+            [
+                "It is an NMDA glutamate receptor antagonist.",
+                "It is a glutamate receptor antagonist."
+            ],
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is a metabotropic glutamate receptor antagonist."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a dopamine receptor D2 antagonist.",
+                "It is a dopamine antagonist."
+            ]
+        ],
+        [
+            [
+                "It is an estrogen antagonist.",
+                "It is an estrogen receptor antagonist."
+            ]
+        ],
+        [
+            [
+                "It is an angiotensin receptor antagonist.",
+                "It is an angiotensin II receptor antagonist."
+            ]
+        ],
+        [
+            [
+                "It is an estrogen antagonist.",
+                "It is an estrogen receptor antagonist."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is a metabotropic glutamate receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an angiotensin receptor antagonist.",
+                "It is an angiotensin II receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is a metabotropic glutamate receptor antagonist."
+            ],
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is an NMDA glutamate receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an angiotensin II receptor antagonist.",
+                "It is an angiotensin receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an estrogen antagonist.",
+                "It is an estrogen receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a NMDA receptor antagonist.",
+                "It is an NMDA glutamate receptor antagonist."
+            ],
+            [
+                "It is an NMDA glutamate receptor antagonist.",
+                "It is a glutamate receptor antagonist."
+            ],
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is a metabotropic glutamate receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a NMDA receptor antagonist.",
+                "It is an NMDA glutamate receptor antagonist."
+            ],
+            [
+                "It is an NMDA glutamate receptor antagonist.",
+                "It is a glutamate receptor antagonist."
+            ],
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is a metabotropic glutamate receptor antagonist."
+            ]
+        ],
+        [
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is a metabotropic glutamate receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an angiotensin receptor antagonist.",
+                "It is an angiotensin II receptor antagonist."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a histamine antagonist.",
+                "It is a histamine H1 antagonist."
+            ],
+            [
+                "It is a histamine antagonist.",
+                "It is a H1 histamine receptor antagonist."
+            ],
+            [
+                "It is a histamine antagonist.",
+                "It is a second-generation histamine H1 antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a metabotropic glutamate receptor antagonist.",
+                "It is a glutamate receptor antagonist."
+            ],
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is an NMDA glutamate receptor antagonist."
+            ],
+            [
+                "It is an NMDA glutamate receptor antagonist.",
+                "It is a NMDA receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a histamine antagonist.",
+                "It is a histamine H1 antagonist."
+            ],
+            [
+                "It is a histamine antagonist.",
+                "It is a H1 histamine receptor antagonist."
+            ],
+            [
+                "It is a histamine antagonist.",
+                "It is a second-generation histamine H1 antagonist."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a dopamine antagonist.",
+                "It is a dopamine receptor D2 antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a NMDA receptor antagonist.",
+                "It is an NMDA glutamate receptor antagonist."
+            ],
+            [
+                "It is an NMDA glutamate receptor antagonist.",
+                "It is a glutamate receptor antagonist."
+            ],
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is a metabotropic glutamate receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a histamine antagonist.",
+                "It is a histamine H1 antagonist."
+            ],
+            [
+                "It is a histamine antagonist.",
+                "It is a H1 histamine receptor antagonist."
+            ],
+            [
+                "It is a histamine antagonist.",
+                "It is a second-generation histamine H1 antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an estrogen antagonist.",
+                "It is an estrogen receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a dopamine receptor D2 antagonist.",
+                "It is a dopamine antagonist."
+            ]
+        ],
+        [
+            [
+                "It is a parenterally administered folate antagonist and antineoplastic agent.",
+                "It is a folate antagonist and antineoplastic agent."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is an NMDA glutamate receptor antagonist."
+            ],
+            [
+                "It is a glutamate receptor antagonist.",
+                "It is a metabotropic glutamate receptor antagonist."
+            ],
+            [
+                "It is an NMDA glutamate receptor antagonist.",
+                "It is a NMDA receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an angiotensin II receptor antagonist.",
+                "It is an angiotensin receptor antagonist."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a slowly hydrolyzed muscarinic agonist.",
+                "It is a muscarinic agonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a second-generation histamine H1 antagonist."
+            ],
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a H1 histamine receptor antagonist."
+            ]
+        ],
+        [
+            [
+                "It is a dopamine receptor D2 antagonist.",
+                "It is a dopamine antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a dopamine receptor D2 antagonist.",
+                "It is a dopamine antagonist."
+            ]
+        ],
+        [
+            [
+                "It is an angiotensin receptor antagonist.",
+                "It is an angiotensin II receptor antagonist."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a H1 histamine receptor antagonist.",
+                "It is a histamine H1 antagonist."
+            ],
+            [
+                "It is a H1 histamine receptor antagonist.",
+                "It is a histamine antagonist."
+            ],
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a second-generation histamine H1 antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an angiotensin receptor antagonist.",
+                "It is an angiotensin II receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a second-generation histamine H1 antagonist."
+            ],
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a H1 histamine receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a muscarinic agonist.",
+                "It is a slowly hydrolyzed muscarinic agonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an angiotensin receptor antagonist.",
+                "It is an angiotensin II receptor antagonist."
+            ]
+        ],
+        [
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a second-generation histamine H1 antagonist."
+            ],
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a H1 histamine receptor antagonist."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an angiotensin II receptor antagonist.",
+                "It is an angiotensin receptor antagonist."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a second-generation histamine H1 antagonist.",
+                "It is a histamine H1 antagonist."
+            ],
+            [
+                "It is a second-generation histamine H1 antagonist.",
+                "It is a histamine antagonist."
+            ],
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a H1 histamine receptor antagonist."
+            ]
+        ],
+        [
+            [
+                "It is a folate antagonist and antineoplastic agent.",
+                "It is a parenterally administered folate antagonist and antineoplastic agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an estrogen receptor antagonist.",
+                "It is an estrogen antagonist."
+            ]
+        ],
+        [
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a second-generation histamine H1 antagonist."
+            ],
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a H1 histamine receptor antagonist."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a dopamine antagonist.",
+                "It is a dopamine receptor D2 antagonist."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a dopamine antagonist.",
+                "It is a dopamine receptor D2 antagonist."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a muscarinic agonist.",
+                "It is a slowly hydrolyzed muscarinic agonist."
+            ]
+        ],
+        [
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a second-generation histamine H1 antagonist."
+            ],
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a H1 histamine receptor antagonist."
+            ],
+            [
+                "It is a histamine H1 antagonist.",
+                "It is a histamine antagonist."
+            ]
+        ]
+    ],
+    "local anaesthetic": [
+        [
+            [
+                "It is used as a local anaesthetic.",
+                "It is used as a local amide-type anaesthetic."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used as a local amide-type anaesthetic.",
+                "It is used as a local anaesthetic."
+            ]
+        ],
+        [
+            [
+                "It is used as a local amide-type anaesthetic.",
+                "It is used as a local anaesthetic."
+            ]
+        ],
+        []
+    ],
+    "herbicide": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used for the control of post-emergence control of broad-leaved weeds in soybeans.",
+                "It is used as a herbicide for the control of post-emergence control of broad-leaved weeds in soybeans."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used as a herbicide for the control of post-emergence control of broad-leaved weeds in soybeans.",
+                "It is used for the control of post-emergence control of broad-leaved weeds in soybeans."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used as a herbicide for the control of post-emergence control of broad-leaved weeds in soybeans.",
+                "It is used for the control of post-emergence control of broad-leaved weeds in soybeans."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used as a herbicide for the control of post-emergence control of broad-leaved weeds in soybeans.",
+                "It is used for the control of post-emergence control of broad-leaved weeds in soybeans."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used mainly for killing bracken.",
+                "It is used as a herbicide mainly for killing bracken."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is used for the control of post-emergence control of broad-leaved weeds in soybeans.",
+                "It is used as a herbicide for the control of post-emergence control of broad-leaved weeds in soybeans."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used as a herbicide for the control of post-emergence control of broad-leaved weeds in soybeans.",
+                "It is used for the control of post-emergence control of broad-leaved weeds in soybeans."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used as a herbicide for the control of post-emergence control of broad-leaved weeds in soybeans.",
+                "It is used for the control of post-emergence control of broad-leaved weeds in soybeans."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used as an herbicide.",
+                "It is a chemical used as an herbicide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a widely used herbicide.",
+                "It is widely used as a herbicide."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a widely used herbicide.",
+                "It is widely used as a herbicide."
+            ]
+        ],
+        [
+            [
+                "It is a chemical used as an herbicide.",
+                "It is used as an herbicide."
+            ],
+            [
+                "It is used as an herbicide.",
+                "It is used as a selective herbicide."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is used as an herbicide.",
+                "It is a chemical used as an herbicide."
+            ],
+            [
+                "It is used as an herbicide.",
+                "It is used as a selective herbicide."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is used as an herbicide.",
+                "It is a chemical used as an herbicide."
+            ],
+            [
+                "It is used as an herbicide.",
+                "It is widely used as a herbicide."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is used as an herbicide.",
+                "It is a chemical used as an herbicide."
+            ],
+            [
+                "It is used as an herbicide.",
+                "It is used as a selective herbicide."
+            ]
+        ],
+        [
+            [
+                "It is a widely used herbicide.",
+                "It is widely used as a herbicide."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is used as an herbicide.",
+                "It is a chemical used as an herbicide."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a widely used herbicide.",
+                "It is widely used as a herbicide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is widely used as a herbicide.",
+                "It is a widely used herbicide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is widely used as a herbicide.",
+                "It is a widely used herbicide."
+            ]
+        ],
+        [
+            [
+                "It is a widely used herbicide.",
+                "It is widely used as a herbicide."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is widely used as a herbicide.",
+                "It is a widely used herbicide."
+            ]
+        ],
+        [
+            [
+                "It is a chemical used as an herbicide.",
+                "It is used as an herbicide."
+            ]
+        ],
+        [
+            [
+                "It is a widely used herbicide.",
+                "It is widely used as a herbicide."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is a widely used herbicide.",
+                "It is widely used as a herbicide."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is used as an herbicide.",
+                "It is a chemical used as an herbicide."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a widely used herbicide.",
+                "It is widely used as a herbicide."
+            ]
+        ],
+        [
+            [
+                "It is a chemical used as an herbicide.",
+                "It is used as an herbicide."
+            ],
+            [
+                "It is used as an herbicide.",
+                "It is used as a selective herbicide."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a widely used herbicide.",
+                "It is widely used as a herbicide."
+            ]
+        ]
+    ],
+    "antihistamine": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "orphan drug": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antihypertensive agent": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antibiotic": [
+        [],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antibacterial agent and an antimicrobial agent.",
+                "It is an antimicrobial agent and an antibacterial agent."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [
+            [
+                "It is an antimicrobial agent and an antibacterial agent.",
+                "It is an antibacterial agent and an antimicrobial agent."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an aminoglycoside antibiotic.",
+                "It is a bactericidal aminoglycoside antibiotic."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an aminoglycoside antibiotic.",
+                "It is a bactericidal aminoglycoside antibiotic."
+            ]
+        ],
+        [
+            [
+                "It is a macrolide glycopeptide antibiotic.",
+                "It is a glycopeptide antibiotic."
+            ]
+        ],
+        [
+            [
+                "It is a glycopeptide antibiotic.",
+                "It is a macrolide glycopeptide antibiotic."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a bactericidal aminoglycoside antibiotic.",
+                "It is an aminoglycoside antibiotic."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a glycopeptide antibiotic.",
+                "It is a macrolide glycopeptide antibiotic."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an aminoglycoside antibiotic.",
+                "It is a bactericidal aminoglycoside antibiotic."
+            ]
+        ]
+    ],
+    "antifungal drug": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antibacterial drug": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "disease control": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "treatment": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It can be used for the treatment of major depression.",
+                "It can be used for the treatment of treatment-resistant major depression."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It can be used for the treatment of treatment-resistant major depression.",
+                "It can be used for the treatment of major depression."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is used for the treatment of migraine headaches.",
+                "It can be used for the treatment of migraine headaches."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It can be used for the treatment of major depression.",
+                "It can be used for the treatment of treatment-resistant major depression."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It can be used for the treatment of treatment-resistant major depression.",
+                "It can be used for the treatment of major depression."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used for the treatment of migraine headaches.",
+                "It can be used for the treatment of migraine headaches."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It can be used for the treatment of migraine headaches.",
+                "It is used for the treatment of migraine headaches."
+            ]
+        ],
+        [],
+        [
+            [
+                "It can be used for the treatment of major depression.",
+                "It can be used for the treatment of treatment-resistant major depression."
+            ]
+        ],
+        [
+            [
+                "It can be used for the treatment of migraine headaches.",
+                "It is used for the treatment of migraine headaches."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It can be used for the treatment of treatment-resistant major depression.",
+                "It can be used for the treatment of major depression."
+            ]
+        ],
+        [],
+        [
+            [
+                "It can be used for the treatment of major depression.",
+                "It can be used for the treatment of treatment-resistant major depression."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It can be used for the treatment of treatment-resistant major depression.",
+                "It can be used for the treatment of major depression."
+            ]
+        ],
+        []
+    ],
+    "administration": [
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is administered orally as the hydrochloride salt as an antidepressant for the treatment of depression, obsessive-compulsive disorder, panic disorder and post-traumatic stress disorder.",
+                "It is administered orally as an antidepressant for the treatment of depression, obsessive-compulsive disorder, panic disorder and post-traumatic stress disorder."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is administered orally as an antidepressant for the treatment of depression, obsessive-compulsive disorder, panic disorder and post-traumatic stress disorder.",
+                "It is administered orally as the hydrochloride salt as an antidepressant for the treatment of depression, obsessive-compulsive disorder, panic disorder and post-traumatic stress disorder."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "clinical development": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "withdrawn from market": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "approval": [
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children."
+            ]
+        ],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It was FDA approved on May 29, 2013.",
+                "It was approved on May 29, 2013."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children."
+            ]
+        ],
+        [],
+        [
+            [
+                "It was initially approved by the FDA in April 2016.",
+                "It was initially approved by the FDA in 2016."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children."
+            ]
+        ],
+        [
+            [
+                "It was FDA approved on May 29, 2013.",
+                "It was approved on May 29, 2013."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It was initially approved by the FDA in April 2016.",
+                "It was initially approved by the FDA in 2016."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It was approved on May 29, 2013.",
+                "It was FDA approved on May 29, 2013."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It was approved on May 29, 2013.",
+                "It was FDA approved on May 29, 2013."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and children.",
+                "It is a prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of HIV infection in adults and in children."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It was initially approved by the FDA in 2016.",
+                "It was initially approved by the FDA in April 2016."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "production": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "agonist": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antiseptic": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "agent": [
+        [],
+        [
+            [
+                "It is an anticholinergic and antispasmodic agent used to treat urinary incontinence and overactive bladder syndrome.",
+                "It is an antispasmodic and anticholinergic agent used to treat urinary incontinence and overactive bladder syndrome."
+            ]
+        ],
+        [
+            [
+                "It is an antispasmodic and anticholinergic agent used to treat urinary incontinence and overactive bladder syndrome.",
+                "It is an anticholinergic and antispasmodic agent used to treat urinary incontinence and overactive bladder syndrome."
+            ]
+        ],
+        [
+            [
+                "It is an anticholinergic and antispasmodic agent used to treat urinary incontinence and overactive bladder syndrome.",
+                "It is an antispasmodic and anticholinergic agent used to treat urinary incontinence and overactive bladder syndrome."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is an antispasmodic and anticholinergic agent used to treat urinary incontinence and overactive bladder syndrome.",
+                "It is an anticholinergic and antispasmodic agent used to treat urinary incontinence and overactive bladder syndrome."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an antispasmodic and anticholinergic agent used to treat urinary incontinence and overactive bladder syndrome.",
+                "It is an anticholinergic and antispasmodic agent used to treat urinary incontinence and overactive bladder syndrome."
+            ]
+        ],
+        [
+            [
+                "It is an antispasmodic and anticholinergic agent used to treat urinary incontinence and overactive bladder syndrome.",
+                "It is an anticholinergic and antispasmodic agent used to treat urinary incontinence and overactive bladder syndrome."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is an antispasmodic and anticholinergic agent used to treat urinary incontinence and overactive bladder syndrome.",
+                "It is an anticholinergic and antispasmodic agent used to treat urinary incontinence and overactive bladder syndrome."
+            ]
+        ],
+        [
+            [
+                "It is an antispasmodic and anticholinergic agent used to treat urinary incontinence and overactive bladder syndrome.",
+                "It is an anticholinergic and antispasmodic agent used to treat urinary incontinence and overactive bladder syndrome."
+            ]
+        ],
+        [
+            [
+                "It is an anticholinergic and antispasmodic agent used to treat urinary incontinence and overactive bladder syndrome.",
+                "It is an antispasmodic and anticholinergic agent used to treat urinary incontinence and overactive bladder syndrome."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is an anticholinergic and antispasmodic agent used to treat urinary incontinence and overactive bladder syndrome.",
+                "It is an antispasmodic and anticholinergic agent used to treat urinary incontinence and overactive bladder syndrome."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "pesticide": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "agricultural chemical": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "therapeutic use": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used in the treatment of acute pain and chronic arthritis.",
+                "It can be used in the treatment of acute pain and chronic arthritis."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used in the treatment of acute pain and chronic arthritis.",
+                "It can be used in the treatment of acute pain and chronic arthritis."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is used in the treatment of acute pain and chronic arthritis.",
+                "It can be used in the treatment of acute pain and chronic arthritis."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used in the treatment of acute pain and chronic arthritis.",
+                "It can be used in the treatment of acute pain and chronic arthritis."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used in the treatment of acute pain and chronic arthritis.",
+                "It can be used in the treatment of acute pain and chronic arthritis."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used in the treatment of acute pain and chronic arthritis.",
+                "It can be used in the treatment of acute pain and chronic arthritis."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It can be used in the treatment of acute pain and chronic arthritis.",
+                "It is used in the treatment of acute pain and chronic arthritis."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antidepressant": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "efficacy": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "potential therapeutic use": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "intermediate": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "anticonvulsant": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antiemetic": [
+        [],
+        [
+            [
+                "It is used to prevent cancer chemotherapy related nausea and vomiting.",
+                "It is used to prevent postoperative or cancer chemotherapy related nausea and vomiting."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is used as an antipsychotic and an antiemetic.",
+                "It is used as an antipsychotic agent and as an antiemetic."
+            ]
+        ],
+        [
+            [
+                "It is used to prevent cancer chemotherapy related nausea and vomiting.",
+                "It is used to prevent postoperative or cancer chemotherapy related nausea and vomiting."
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "It is used as an antipsychotic and an antiemetic.",
+                "It is used as an antipsychotic agent and as an antiemetic."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is used to prevent cancer chemotherapy related nausea and vomiting.",
+                "It is used to prevent postoperative or cancer chemotherapy related nausea and vomiting."
+            ]
+        ],
+        [
+            [
+                "It is used as an antipsychotic agent and as an antiemetic.",
+                "It is used as an antipsychotic and an antiemetic."
+            ]
+        ],
+        [
+            [
+                "It is used to prevent postoperative or cancer chemotherapy related nausea and vomiting.",
+                "It is used to prevent cancer chemotherapy related nausea and vomiting."
+            ]
+        ]
+    ],
+    "withdrawal": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antimicrobial": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "manufacture": [
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is primarily used in the manufacture of dyes.",
+                "It is used in the manufacture of dyes."
+            ]
+        ],
+        [],
+        [
+            [
+                "It is used in the manufacture of dyes.",
+                "It is primarily used in the manufacture of dyes."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is primarily used in the manufacture of dyes.",
+                "It is used in the manufacture of dyes."
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "It is primarily used in the manufacture of dyes.",
+                "It is used in the manufacture of dyes."
+            ]
+        ]
+    ],
+    "safety concern": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "dosage": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antiviral drug": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "antioxidant": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "analgesic": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "research": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "immunosuppressive agent": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "preservative": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "experiment": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "testing": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ]
+}

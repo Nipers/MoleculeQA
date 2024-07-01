@@ -1,0 +1,494 @@
+{
+    "antibiotic": [
+        [
+            "54675783",
+            "This molecule is a tetracycline antibiotic with excellent absorption and tissue penetration that is used for several bacterial infections as well as treatment of acne",
+            "Which kind of antibiotic is this molecule?",
+            "Tetracycline antibiotic",
+            "It is a tetracycline antibiotic used for several bacterial infections as well as treatment of acne."
+        ],
+        [
+            "6604200",
+            "This molecule is a nitrofuran antibiotic used to treat uncomplicated urinary tract infections",
+            "Which kind of antibiotic is this molecule?",
+            "Nitrofuran antibiotic",
+            "It is a nitrofuran antibiotic used to treat uncomplicated urinary tract infections."
+        ],
+        [
+            "8982",
+            "This molecule is a parenteral, second generation penicillinase-resistant penicillin antibiotic used largely to treat moderate to severe staphylococcal infections",
+            "Which kind of antibiotic is this molecule?",
+            "Parenteral, second generation penicillinase-resistant penicillin",
+            "It is a parenteral, second generation penicillinase-resistant penicillin antibiotic used largely to treat moderate to severe staphylococcal infections."
+        ],
+        [
+            "6032",
+            "This molecule is an aminoglycoside bacteriocidal antibiotic, available in oral, intravenous, and intramuscular forms, and used to treat a wide variety of infections",
+            "Which kind of antibiotic is this molecule?",
+            "Aminoglycoside bacteriocidal antibiotic",
+            "It is an aminoglycoside bacteriocidal antibiotic used to treat a wide variety of infections."
+        ],
+        [
+            "5959",
+            "This molecule is a broad spectrum antibiotic introduced into clinical practice in 1948, but which was subsequently shown to cause serious and fatal aplastic anemia and is now used rarely and reserved for severe, life-threatening infections for which other antibiotics are not available",
+            "Which kind of antibiotic is this molecule?",
+            "Broad spectrum antibiotic",
+            "It is a broad spectrum antibiotic that was shown to cause serious and fatal aplastic anemia and is now used rarely and reserved for severe, life-threatening infections for which other antibiotics are not available."
+        ],
+        [
+            "135398671",
+            "This molecule is a tuberactinomycin antibiotic that was used to treat Mycobacterium tuberculosis until it was replaced by the less toxic capreomycin",
+            "Which kind of antibiotic is this molecule?",
+            "Tuberactinomycin",
+            "It is a tuberactinomycin antibiotic that was used to treat Mycobacterium tuberculosis until it was replaced by the less toxic capreomycin."
+        ],
+        [
+            "5481173",
+            "Ceftazidime is a third-generation cephalosporin with broad-spectrum antibacterial activity, including against some treatment-resistant bacteria such as Pseudomonas aeruginosa",
+            "Which kind of antibiotic is this molecule?",
+            "Third-generation cephalosporin",
+            "It is a third-generation cephalosporin antibiotic with broad-spectrum antibacterial activity, including against some treatment-resistant bacteria such as Pseudomonas aeruginosa."
+        ],
+        [
+            "71141",
+            "This molecule is a second generation cephalosporin antibiotic",
+            "Which kind of antibiotic is this molecule?",
+            "Second generation cephalosporin",
+            "It is a second generation cephalosporin antibiotic."
+        ],
+        [
+            "5280440",
+            "This molecule is a bacteriostatic macrolide antibiotic and feed additive used in veterinary medicine",
+            "Which kind of antibiotic is this molecule?",
+            "Bacteriostatic macrolide antibiotic",
+            "It is a bacteriostatic macrolide antibiotic and feed additive used in veterinary medicine."
+        ],
+        [
+            "4806",
+            "This molecule is a broad spectrum antibiotic which is part of the drug class, sulfonamides",
+            "Which kind of antibiotic is this molecule?",
+            "Broad spectrum antibiotic",
+            "It is a broad spectrum antibiotic that is part of the drug class, sulfonamides."
+        ],
+        [
+            "3374",
+            "This molecule is a synthetic chemotherapeutic antibiotic of the fluoroquinolone drug class used to treat bacterial infections.",
+            "Which kind of antibiotic is this molecule?",
+            "Synthetic chemotherapeutic antibiotic of the fluoroquinolone drug class",
+            "It is a synthetic chemotherapeutic antibiotic of the fluoroquinolone drug class used to treat bacterial infections."
+        ],
+        [
+            "5742673",
+            "This molecule is a third-generation cephalosporin antibiotic",
+            "Which kind of antibiotic is this molecule?",
+            "Third-generation cephalosporin",
+            "It is a third-generation cephalosporin antibiotic."
+        ],
+        [
+            "44187",
+            "It is a third-generation antiobiotic agent and it is used in the treatment of various bacterial infections caused by susceptible organisms in the body, including respiratory tract infections, peritonitis, skin infections, endometritis, and bacterial septicemia",
+            "Which kind of antibiotic is this molecule?",
+            "Third-generation antibiotic agent",
+            "It is a third-generation antibiotic agent used in the treatment of various bacterial infections caused by susceptible organisms in the body, including respiratory tract infections, peritonitis, skin infections, endometritis, and bacterial septicemia."
+        ],
+        [
+            "30323",
+            "This molecule is an anthracycline antibiotic that has antineoplastic activity and is used in the therapy of acute leukemia and AIDS related Kaposi sarcoma",
+            "Which kind of antibiotic is this molecule?",
+            "Anthracycline antibiotic",
+            "It is an anthracycline antibiotic that has antineoplastic activity and is used in the therapy of acute leukemia and AIDS related Kaposi sarcoma."
+        ],
+        [
+            "19649",
+            "This molecule is a broad spectrum aminoglycoside antibiotic typically used for treatment of active tuberculosis, always in combination with other antituberculosis agents",
+            "Which kind of antibiotic is this molecule?",
+            "Broad spectrum aminoglycoside antibiotic",
+            "It is a broad spectrum aminoglycoside antibiotic typically used for treatment of active tuberculosis, always in combination with other antituberculosis agents."
+        ],
+        [
+            "3948",
+            "This molecule is a fluoroquinolone antibiotic, used to treat bacterial infections including bronchitis and urinary tract infections (UTIs)",
+            "Which kind of antibiotic is this molecule?",
+            "Fluoroquinolone antibiotic",
+            "It is a fluoroquinolone antibiotic used to treat bacterial infections including bronchitis and urinary tract infections (UTIs)."
+        ],
+        [
+            "62959",
+            "This molecule is a broad spectrum antibiotic that has been commonly marketed under the brand name Trovan by Pfizer",
+            "Which kind of antibiotic is this molecule?",
+            "Broad spectrum antibiotic",
+            "It is a broad spectrum antibiotic that has been commonly marketed under the brand name Trovan by Pfizer."
+        ],
+        [
+            "5329",
+            "This molecule is a bacteriostatic sulfonamide antibiotic that interferes with folic acid synthesis in susceptible bacteria",
+            "Which kind of antibiotic is this molecule?",
+            "Bacteriostatic sulfonamide",
+            "It is a bacteriostatic sulfonamide antibiotic that interferes with folic acid synthesis in susceptible bacteria."
+        ],
+        [
+            "9568614",
+            "pylori infections along with other antibiotics including [DB01060], [DB01211], and [DB00916], for example",
+            "Which kind of antibiotic is this molecule?",
+            "Treatment of Helicobacter pylori infections",
+            "Not specified."
+        ],
+        [
+            "30699",
+            "This molecule is a first-generation cephalosporin antibiotic that is available in injectable formulations",
+            "Which kind of antibiotic is this molecule?",
+            "First-generation cephalosporin",
+            "It is a first-generation cephalosporin antibiotic that is available in injectable formulations."
+        ],
+        [
+            "18381",
+            "This molecule is an oral, second generation penicillin antibiotic that is used to treat bacterial infections caused by penicillinase-resistant staphylococci",
+            "Which kind of antibiotic is this molecule?",
+            "Oral, second generation penicillin antibiotic",
+            "It is an oral, second generation penicillin antibiotic used to treat bacterial infections caused by penicillinase-resistant staphylococci."
+        ],
+        [
+            "6335986",
+            "This molecule is an oral third generation cephalosporin antibiotic with effectiveness against most Gram positive and Gram negative bacteria",
+            "Which kind of antibiotic is this molecule?",
+            "Oral third generation cephalosporin",
+            "It is an oral third generation cephalosporin antibiotic with effectiveness against most Gram positive and Gram negative bacteria."
+        ],
+        [
+            "54680675",
+            "This molecule is a tetracycline used to treat bacterial infections.",
+            "Which kind of antibiotic is this molecule?",
+            "Tetracycline",
+            "It is a tetracycline used to treat bacterial infections."
+        ],
+        [
+            "15541",
+            "This molecule is active against gram-negative bacteria and used for the treatment of gonorrhea.",
+            "Which kind of antibiotic is this molecule?",
+            "Active against gram-negative bacteria",
+            "It is active against gram-negative bacteria and used for the treatment of gonorrhea."
+        ],
+        [
+            "54671203",
+            "This molecule is a semisynthetic, tetracycline related bacteriostatic antibiotic that has been linked to rare instances of acute cholestatic liver injury.",
+            "Which kind of antibiotic is this molecule?",
+            "Tetracycline related bacteriostatic antibiotic",
+            "It is a semisynthetic, tetracycline related bacteriostatic antibiotic."
+        ],
+        [
+            "36294",
+            "This molecule is a parenterally administered, broad spectrum aminoglycoside antibiotic that is widely used in the treatment of moderate to severe bacterial infections due to sensitive organisms",
+            "Which kind of antibiotic is this molecule?",
+            "Aminoglycoside",
+            "It is a parenterally administered, broad spectrum aminoglycoside antibiotic used in the treatment of moderate to severe bacterial infections due to sensitive organisms."
+        ],
+        [
+            "54707177",
+            "This molecule is a broad-spectrum second-generation tetracycline antibiotic used for the treatment of acne and other susceptible bacterial infections",
+            "Which kind of antibiotic is this molecule?",
+            "Broad-spectrum second-generation tetracycline antibiotic",
+            "It is a broad-spectrum second-generation tetracycline antibiotic used for the treatment of acne and other susceptible bacterial infections."
+        ],
+        [
+            "4173",
+            "This molecule is a commonly used antibiotic, belonging to the nitroimidazole class of antibiotics",
+            "Which kind of antibiotic is this molecule?",
+            "Commonly used antibiotic",
+            "It is a commonly used antibiotic, belonging to the nitroimidazole class of antibiotics."
+        ],
+        [
+            "9852981",
+            "This molecule is a cephalosporin antibacterial indicated for the treatment of the following infections caused by designated susceptible bacteria: Acute bacterial skin and skin structure infections",
+            "Which kind of antibiotic is this molecule?",
+            "Cephalosporin antibacterial",
+            "It is a cephalosporin antibacterial indicated for the treatment of acute bacterial skin and skin structure infections."
+        ],
+        [
+            "441401",
+            "It is a synthetic antibiotic, the first of the oxazolidinone class, used for the treatment of infections caused by multi-resistant bacteria including streptococcus and methicillin-resistant Staphylococcus aureus (MRSA)",
+            "Which kind of antibiotic is this molecule?",
+            "Synthetic antibiotic",
+            "It is a synthetic antibiotic, the first of the oxazolidinone class, used for the treatment of infections caused by multi-resistant bacteria including streptococcus and methicillin-resistant Staphylococcus aureus (MRSA)."
+        ],
+        [
+            "135413542",
+            "This molecule is a cephalosporin antibiotic with activity against methicillin-resistant Staphylococcus aureus",
+            "Which kind of antibiotic is this molecule?",
+            "Cephalosporin antibiotic",
+            "It is a cephalosporin antibiotic with activity against methicillin-resistant Staphylococcus aureus."
+        ],
+        [
+            "2764",
+            "This molecule is a second generation fluoroquinolone antibiotic that is widely used in the therapy of mild-to-moderate urinary and respiratory tract infections caused by susceptible organisms",
+            "Which kind of antibiotic is this molecule?",
+            "Second generation fluoroquinolone",
+            "It is a second generation fluoroquinolone antibiotic used in the therapy of mild-to-moderate urinary and respiratory tract infections caused by susceptible organisms."
+        ],
+        [
+            "4696",
+            "This molecule is also an antibiotic",
+            "Which kind of antibiotic is this molecule?",
+            "Yes",
+            "It is an antibiotic."
+        ],
+        [
+            "5281006",
+            "This molecule is a cephalosporin antibiotic that is commonly employed to treat a variety of bacterial infections, including those of the ear and skin, bronchitis, and others.",
+            "Which kind of antibiotic is this molecule?",
+            "Cephalosporin antibiotic",
+            "It is a cephalosporin antibiotic commonly employed to treat a variety of bacterial infections, including those of the ear and skin, bronchitis, and others."
+        ],
+        [
+            "135398735",
+            "This molecule is a macrocyclic antibiotic with major activity against mycobacteria, commonly used in combination with other agents as therapy of tuberculosis",
+            "Which kind of antibiotic is this molecule?",
+            "Macrocyclic antibiotic",
+            "It is a macrocyclic antibiotic with major activity against mycobacteria, commonly used in combination with other agents as therapy of tuberculosis."
+        ],
+        [
+            "5144",
+            "This molecule has been shown to exhibit antibiotic and anti-angiogenic functions (A3314, A3315, A3316).",
+            "Which kind of antibiotic is this molecule?",
+            "Exhibits antibiotic functions",
+            "It exhibits antibiotic and anti-angiogenic functions."
+        ],
+        [
+            "447043",
+            "This molecule is a semisynthetic macrolide antibiotic which is commonly used for a wide variety of mild-to-moderate bacterial infections",
+            "Which kind of antibiotic is this molecule?",
+            "Semisynthetic macrolide antibiotic",
+            "It is a semisynthetic macrolide antibiotic commonly used for a wide variety of mild-to-moderate bacterial infections."
+        ],
+        [
+            "11567473",
+            "This molecule is a fluoroquinolone antibiotic indicated in the treatment of acute otitis externa (swimmer's ear) caused by the bacteria Pseudomonas aeruginosa and Staphylococcus aureus",
+            "Which kind of antibiotic is this molecule?",
+            "Fluoroquinolone antibiotic",
+            "It is a fluoroquinolone antibiotic indicated in the treatment of acute otitis externa (swimmer's ear) caused by the bacteria Pseudomonas aeruginosa and Staphylococcus aureus."
+        ],
+        [
+            "54680690",
+            "This molecule is a semisynthetic tetracycline derived from Streptococcus aureofaciens that is used as an antibiotic, but perhaps more frequently as an inhibitor of arginine vasopressin in the therapy of hyponatremia and the syndrome of inappropriate secretion of antidiuretic hormone (SIADH)",
+            "Which kind of antibiotic is this molecule?",
+            "Used as an antibiotic",
+            "It is a semisynthetic tetracycline derived from Streptococcus aureofaciens used as an antibiotic and an inhibitor of arginine vasopressin in the therapy of hyponatremia and the syndrome of inappropriate secretion of antidiuretic hormone (SIADH)."
+        ],
+        [
+            "441130",
+            "This molecule is a carbapenem antibiotic with broad spectrum of activity that is administered intravenously and used for severe bacterial infections due to sensitive agents",
+            "Which kind of antibiotic is this molecule?",
+            "Carbapenem antibiotic",
+            "It is a carbapenem antibiotic with broad spectrum of activity administered intravenously and used for severe bacterial infections due to sensitive agents."
+        ],
+        [
+            "54686187",
+            "In the classification of the active ingredients included on this list, the classification document states that tetracycline class antibiotics are of medium importance, and are used in humans.",
+            "Which kind of antibiotic is this molecule?",
+            "Tetracycline class antibiotics",
+            "It is a tetracycline class antibiotic used in humans."
+        ],
+        [
+            "37768",
+            "This molecule is a parenterally administered, broad spectrum aminoglycoside antibiotic typically used for severe gram negative infections",
+            "Which kind of antibiotic is this molecule?",
+            "Broad spectrum aminoglycoside",
+            "It is a broad spectrum aminoglycoside antibiotic."
+        ],
+        [
+            "6473883",
+            "This molecule is a macrolide glycopeptide antibiotic used to treat many different types of bacterial infections, such as bronchitis, pneumonia, tonsillitis, and even skin infections.",
+            "Which kind of antibiotic is this molecule?",
+            "Macrolide glycopeptide antibiotic",
+            "It is a macrolide glycopeptide antibiotic."
+        ],
+        [
+            "16136912",
+            "This molecule is a glycopeptide antibiotic used for the treatment of skin infections",
+            "Which kind of antibiotic is this molecule?",
+            "Glycopeptide antibiotic",
+            "It is a glycopeptide antibiotic."
+        ],
+        [
+            "5904",
+            "This molecule is narrow spectrum antibiotic used to treat infections caused by susceptible bacteria",
+            "Which kind of antibiotic is this molecule?",
+            "Narrow spectrum antibiotic",
+            "It is a narrow spectrum antibiotic."
+        ],
+        [
+            "4679",
+            "pylori infections along with other antibiotics including [amoxicillin], [clarithromycin], and [metronidazole], for example",
+            "Which kind of antibiotic is this molecule?",
+            "Used to treat Helicobacter pylori infections along with other antibiotics including amoxicillin, clarithromycin, and metronidazole.",
+            "It is used to treat H. pylori infections along with other antibiotics."
+        ],
+        [
+            "29029",
+            "This molecule is a semi-synthetic lincosamide antibiotic used in the treatment of a variety of serious infections due to susceptible microorganisms as well as topically for acne vulgaris",
+            "Which kind of antibiotic is this molecule?",
+            "Semi-synthetic lincosamide antibiotic",
+            "It is a lincosamide antibiotic used for serious infections and topically for acne vulgaris."
+        ],
+        [
+            "150610",
+            "This molecule is a broad spectrum carbapenem antibiotic used primarily for the treatment of aerobic gram-negative bacterial infections",
+            "Which kind of antibiotic is this molecule?",
+            "Broad spectrum carbapenem antibiotic",
+            "It is a broad spectrum carbapenem antibiotic."
+        ],
+        [
+            "36921",
+            "This molecule is an extended-spectrum carboxypenicillin antibiotic and is used to treat moderate-to-severe infections due to susceptible organisms",
+            "Which kind of antibiotic is this molecule?",
+            "Extended-spectrum carboxypenicillin",
+            "It is an extended-spectrum carboxypenicillin antibiotic."
+        ],
+        [
+            "446987",
+            "This molecule is an orally available, broad spectrum antibiotic used largely for treatment of uncomplicated urinary tract infections",
+            "Which kind of antibiotic is this molecule?",
+            "Broad spectrum antibiotic",
+            "It is a broad spectrum antibiotic used for uncomplicated urinary tract infections."
+        ],
+        [
+            "9571107",
+            "This molecule is a fourth generation, oral fluoroquinolone antibiotic used in the therapy of mild-to-moderate respiratory tract infections caused by susceptible organisms",
+            "Which kind of antibiotic is this molecule?",
+            "Fourth generation, oral fluoroquinolone antibiotic",
+            "It is a fourth generation fluoroquinolone antibiotic used for respiratory tract infections."
+        ],
+        [
+            "998",
+            "It is also responsible for the antibiotic activity of maggot therapy and it is also a compound that is added to cigarettes to improve their aroma.",
+            "Which kind of antibiotic is this molecule?",
+            "Responsible for the antibiotic activity of maggot therapy",
+            "It is an antibiotic used in maggot therapy and added to cigarettes for aroma."
+        ],
+        [
+            "6234",
+            "This molecule is a broad spectrum antibiotic used as a second line agent for treatment of drug resistant tuberculosis, always in combination with other antituberculosis agents",
+            "Which kind of antibiotic is this molecule?",
+            "Broad spectrum antibiotic",
+            "It is a broad spectrum antibiotic used as a second line agent for drug resistant tuberculosis."
+        ],
+        [
+            "6196",
+            "This molecule is a parenteral, second generation penicillin antibiotic that is used to treat moderate-to-severe, penicillinase-resistant staphylococcal infections",
+            "Which kind of antibiotic is this molecule?",
+            "Penicillin",
+            "It is a second generation penicillin antibiotic used for penicillinase-resistant staphylococcal infections."
+        ],
+        [
+            "439530",
+            "This molecule is an antibiotic that prevents bacterial protein translation",
+            "Which kind of antibiotic is this molecule?",
+            "Prevents bacterial protein translation",
+            "It is an antibiotic that prevents bacterial protein translation."
+        ],
+        [
+            "287180",
+            "This molecule is a quinolone derivative antibiotic for the treatment of bacterial infection of respiratory tract, urinary tract, GI, CNS and immuno compromised patients",
+            "Which kind of antibiotic is this molecule?",
+            "Quinolone derivative antibiotic",
+            "It is a quinolone derivative antibiotic used for various bacterial infections."
+        ],
+        [
+            "54686904",
+            "This molecule is a parenteral glycycline antibiotic used for treatment of serious infections due to susceptible organisms",
+            "Which kind of antibiotic is this molecule?",
+            "Parenteral glycycline antibiotic",
+            "It is a glycycline antibiotic used for serious infections."
+        ],
+        [
+            "8378",
+            "Neomycin is a bactericidal aminoglycoside antibiotic that binds to the 30S ribosome of susceptible organisms",
+            "Which kind of antibiotic is this molecule?",
+            "Bactericidal aminoglycoside",
+            "It is a bactericidal aminoglycoside antibiotic."
+        ],
+        [
+            "43672",
+            "This molecule is also used in combination with other antibiotics.",
+            "Which kind of antibiotic is this molecule?",
+            "Used in combination with other antibiotics",
+            "It is used in combination with other antibiotics."
+        ],
+        [
+            "5282242",
+            "This molecule is a third-generation cephalosporin antibiotic",
+            "Which kind of antibiotic is this molecule?",
+            "Third-generation cephalosporin",
+            "It is a third-generation cephalosporin antibiotic."
+        ],
+        [
+            "71188",
+            "This molecule is an antibiotic agent from the fluoroquinolone family produced by the Bayer Corporation",
+            "Which kind of antibiotic is this molecule?",
+            "Antibiotic agent from the fluoroquinolone family",
+            "It is an antibiotic agent from the fluoroquinolone family."
+        ],
+        [
+            "5284616",
+            "This molecule is macrocyclic antibiotic with potent immunosuppressive activity that is used alone or in combination with calcineurin inhibitors and corticosteroids to prevent cellular rejection after renal transplantation",
+            "Which kind of antibiotic is this molecule?",
+            "Macrocyclic antibiotic",
+            "It is a macrocyclic antibiotic."
+        ],
+        [
+            "9570757",
+            "This molecule is a novel broad-spectrum and third-generation cephalosporin antibiotic that is typically used in the treatment of female gynecologic and obstetric infections",
+            "Which kind of antibiotic is this molecule?",
+            "Novel broad-spectrum and third-generation cephalosporin antibiotic",
+            "It is a novel broad-spectrum and third-generation cephalosporin antibiotic."
+        ],
+        [
+            "135403821",
+            "This molecule is a rifamycin antibiotic that is similar in structure and activity to rifampin and rifabutin and that is used in combination with other agents as therapy of tuberculosis, particularly in once or twice weekly regimens",
+            "Which kind of antibiotic is this molecule?",
+            "Rifamycin antibiotic",
+            "It is a rifamycin antibiotic."
+        ],
+        [
+            "84029",
+            "This molecule is a semisynthetic macrolide antibiotic used for a wide variety of mild-to-moderate bacterial infections",
+            "Which kind of antibiotic is this molecule?",
+            "Semisynthetic macrolide antibiotic",
+            "It is a semisynthetic macrolide antibiotic."
+        ],
+        [
+            "5479530",
+            "It is a broad-spectrum cephalosporin antibiotic with a very long half-life and high penetrability to meninges, eyes and inner ears",
+            "Which kind of antibiotic is this molecule?",
+            "Broad-spectrum cephalosporin",
+            "It is a broad-spectrum cephalosporin antibiotic."
+        ],
+        [
+            "656958",
+            "This molecule is a pleuromutilin antibiotic drug that is used in veterinary medicine particularly for pigs and poultry.",
+            "Which kind of antibiotic is this molecule?",
+            "Pleuromutilin antibiotic drug",
+            "It is a pleuromutilin antibiotic drug."
+        ],
+        [
+            "3485",
+            "This molecule has been shown to exhibit antibiotic function (A7907)",
+            "Which kind of antibiotic is this molecule?",
+            "Exhibits antibiotic function",
+            "It exhibits antibiotic function."
+        ],
+        [
+            "272833",
+            "This molecule is a penicillin antibiotic which is approved for use internationally.",
+            "Which kind of antibiotic is this molecule?",
+            "Penicillin antibiotic",
+            "It is a penicillin antibiotic."
+        ],
+        [
+            "470999",
+            "This molecule is an aminoglycoside antibiotic marketed in Japan.",
+            "Which kind of antibiotic is this molecule?",
+            "Aminoglycoside antibiotic",
+            "It is an aminoglycoside antibiotic."
+        ]
+    ]
+}

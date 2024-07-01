@@ -1,0 +1,127 @@
+{    
+    "antineoplastic agent": [
+        "It is an antineoplastic agent.",
+        "It exhibits antineoplastic activity.",
+        "It is used as an antineoplastic.",
+        "It is used as an antineoplastic agent.",
+        "It exhibits antineoplastic activities.",
+        "It has a role as an antineoplastic agent.",
+        "It exhibits antineoplastic activity."
+    ],
+    "prodrug": [
+        "It is a prodrug."
+    ],
+    "insecticide": [
+        "It is an insecticide."
+    ],
+    "antifungal agrochemical":[
+        "It is a fungicide."
+    ],
+    "antipsychotic": [
+        "It is a antipsychotic agent."
+    ],
+    "inhibitor": [
+        "It is an inhibitor."
+    ],
+    "fungicide": [
+        "It is a fungicide.",
+        "It is commonly used as a fungicide."
+    ],
+    "herbicide": [
+        "It is a herbicide.",
+        "It is used as a herbicide."
+    ],
+    "antibiotic": [
+        "It acts as an antibiotic."        
+    ],
+    "antifungal drug": [
+        "It is an antifungal drug.",
+        "It is an antifungal agent."
+    ],
+    "antibacterial drug": [
+        "It is an antibacterial drug.",
+        "It is an antibacterial agent.",
+        "It is an antibacterial."
+    ],
+    "pesticide": [
+        "It is used as a pesticide.",
+        "It is a pesticide."
+
+    ],
+    "agricultural chemical": [
+        "It is used as an agricultural chemical."
+    ],
+    "anticonvulsant": [
+        "It has anticonvulsant properties.",
+        "It has anticonvulsant actions."
+    ],
+    "antiemetic": [
+        "It is used as an antiemetic."
+    ],
+    "antioxidant": [
+        "It has antioxidant properties.",
+        "It is used as an antioxidant.",
+        "It exhibits antioxidant activity."
+    ],
+    "antiviral activity": [
+        "It has antiviral properties."
+    ],
+    "antibacterial activity": [
+        "It has a role as an antibacterial drug.",
+        "It has antibacterial activity.",
+        "It has antibacterial properties."
+    ],
+    "toxicity": [
+        "It is toxic.",
+        "It has a role as a poison.",
+        "It is corrosive.",
+        "It exhibits toxicity.",
+        "It is a poison.",
+        "It exhibits toxic effects."
+    ],
+    "antineoplastic activity": [
+        "It has antineoplastic activity."
+    ],
+    "antifungal activity": [
+        "It has fungicidal activity.",
+        "It exhibits anti-fungal activity.",
+        "It exhibits antifungal activity."
+    ],
+    "carcinogenicity": [
+        "Carcinogenic",
+        "It is a carcinogen.",
+        "It is carcinogenic."
+    ],
+    "corrosiveness": [
+        "It is corrosive."
+    ],
+    "antioxidant activity": [
+        "It has antioxidant activity."
+    ],
+    "carboxy group": [
+        "It is acetic acid.",
+        "It is a carboxy group.",
+        "It has a carboxy group.",
+        "It is the carboxy group.",
+        "It is oleic acid.",
+        "It is erucic acid.",
+        "It has the carboxy group.",
+        "It has carboxy group.",
+        "It is trans-sinapic acid.",
+        "It is flufenamic acid.",
+        "It has one carboxy group.",
+        "It is fluoroacetic acid."
+    ],
+    "alkaloid": [
+        "It is an alkaloid."
+    ],
+    "methyl ester": [
+        "It is a methyl ester."
+    ],
+    "carboxylic ester": [
+        "It is a carboxylic ester."
+    ],
+    "amide": [
+        "It is an amide."
+    ]
+}

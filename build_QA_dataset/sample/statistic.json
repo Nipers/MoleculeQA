@@ -1,0 +1,34 @@
+{
+    "Structure": {
+        "Molecular Structure and Configuration": 33317,
+        "Functional Groups and Chemical Entities": 3736,
+        "Biochemical and Biological Terms": 285,
+        "Chemical Species and States": 251,
+        "Chemical Compounds and Classes": 848,
+        "Chemical Bonding and Interactions": 166
+    },
+    "Source": {
+        "isolated from": 1670,
+        "found in": 36,
+        "metabolite": 4800,
+        "derives from": 7124
+    },
+    "Usage": {
+        "Chemical Applications and Techniques": 66,
+        "Therapeutic Use": 579,
+        "Pharmacodynamics and Pharmacokinetics": 1266,
+        "Agricultural Chemicals": 292,
+        "Biological Agents": 482,
+        "Research and Development": 26,
+        "Regulatory Status and Approval": 363
+    },
+    "Property": {
+        "Biological and Pharmacological Activities": 2059,
+        "Chemical Interaction and Mechanism": 1094,
+        "Chemical Properties": 169,
+        "Medical and Therapeutic Efficacy": 341,
+        "Physical and Sensory Properties": 1966,
+        "Types of Reactions": 131,
+        "Environmental and Safety Concerns": 507
+    }
+}

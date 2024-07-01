@@ -1,0 +1,1500 @@
+{
+    "insecticide": [
+        [
+            "11317883",
+            "It has a role as a ryanodine receptor modulator and a phytogenic insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a phytogenic insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a non-specific insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "C",
+                "A",
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "17040",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "D",
+                "C",
+                "A",
+                "B"
+            ]
+        ],
+        [
+            "14322",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide, an acaricide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "C",
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "5368008",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide, an agrochemical and an acaricide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "B",
+                "D",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "31099",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide, an acaricide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "A",
+                "D",
+                "B",
+                "C"
+            ]
+        ],
+        [
+            "5392",
+            "It is an organic thiophosphate, an organothiophosphate insecticide and an organic sulfide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organothiophosphate insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests."
+            ],
+            [
+                "B",
+                "A",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "16126809",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide, an agrochemical and a molluscicide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "A",
+                "C",
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "92430",
+            "It is an insecticide used to control soil-borne insects. It has a role as a pyrethroid ether insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a pyrethroid ether insecticide.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide.",
+                "It is an insecticide that does not occur naturally.",
+                "It is used as an insecticide in some horticultural applications."
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "C"
+            ]
+        ],
+        [
+            "5364932",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide, an EC 3.1.1.8 (cholinesterase) inhibitor, an acaricide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "A",
+                "B",
+                "D",
+                "C"
+            ]
+        ],
+        [
+            "31070",
+            "The molecule is a phosphoramidate ester, an organophosphate insecticide and an organophosphate nematicide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests.",
+                "It is an organothiophosphate insecticide."
+            ],
+            [
+                "D",
+                "B",
+                "A",
+                "C"
+            ]
+        ],
+        [
+            "2314",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "A",
+                "D",
+                "C",
+                "B"
+            ]
+        ],
+        [
+            "17517",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "C",
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "12901",
+            "The molecule is an organic thiophosphate, an organothiophosphate insecticide and a member of phthalimides.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organothiophosphate insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests."
+            ],
+            [
+                "B",
+                "D",
+                "A",
+                "C"
+            ]
+        ],
+        [
+            "1982",
+            "It is a mixed diacylamine, a phosphoramide, an organic thiophosphate and an organothiophosphate insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organothiophosphate insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests."
+            ],
+            [
+                "D",
+                "C",
+                "A",
+                "B"
+            ]
+        ],
+        [
+            "4944",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide, an acaricide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "A",
+                "D",
+                "C",
+                "B"
+            ]
+        ],
+        [
+            "135779804",
+            "It has a role as a nicotinic acetylcholine receptor agonist, a neonicotinoid insectide, an environmental contaminant and a xenobiotic.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a neonicotinoid insecticide.",
+                "It is a fumigant insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide."
+            ],
+            [
+                "D",
+                "A",
+                "B",
+                "C"
+            ]
+        ],
+        [
+            "522251",
+            "It is an insecticide used in the the control of poultry ectoparasites. It has a role as a carbamate insecticide, an EC 3.1.1.7 (acetylcholinesterase) inhibitor and an acaricide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "B",
+                "A",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "13059873",
+            "A nicotinic acetylcholine receptor agonist used as a broad-spectrum insecticide. Not approved for use within the European Union. It has a role as an agrochemical, an insecticide and a nicotinic acetylcholine receptor agonist.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a nicotinic acetylcholine receptor agonist insecticide.",
+                "It is a potent acetylcholinesterase-inhibiting insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor used as an insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor insecticide (nematicide) used to control a wide variety of nematode (round worm) pests."
+            ],
+            [
+                "D",
+                "B",
+                "A",
+                "C"
+            ]
+        ],
+        [
+            "6564",
+            "It is used as a fumigant to control nematodes in soil and insects in stored grain. It has a role as a fumigant insecticide, an agrochemical, a carcinogenic agent and a polar aprotic solvent.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a fumigant insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "C",
+                "D",
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "35969",
+            "A nicotinic acetylcholine receptor agonist, it was used as a broad-spectrum insecticide. It is not approved for use within the European Union. It has a role as an agrochemical, a nicotinic acetylcholine receptor agonist and an insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a nicotinic acetylcholine receptor agonist insecticide.",
+                "It is a potent acetylcholinesterase-inhibiting insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor used as an insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor insecticide (nematicide) used to control a wide variety of nematode (round worm) pests."
+            ],
+            [
+                "D",
+                "A",
+                "C",
+                "B"
+            ]
+        ],
+        [
+            "90284302",
+            "It is an insecticide with rapid knock-down activity. It has a role as a pyrethroid ester insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a pyrethroid ester insecticide.",
+                "It has broad spectrum insecticide and pesticide activity.",
+                "It is an organophosphate insecticide that has been used since 1959 to control insects on rice, cereals, fruits, vegetables, stored grains, cotton, to control insects in forests and for fly, mosquito, and cockroach control in public health programs.",
+                "It is an insecticide, nematocide, and mosquito larvicide."
+            ],
+            [
+                "C",
+                "A",
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "6423",
+            "Formerly stockpiled as a chemical warfare agent, it has been widely used in the US as a soil fumigant, particularly for strawberry crops. It is not approved for use within the European Union. It has a role as a fumigant insecticide, a nematicide and an antifungal agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a fumigant insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "B",
+                "A",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "16752772",
+            "A nicotinic acetylcholine receptor (AChR) agonist, it is used as an insecticide to control sucking pests in a variety of crops. It has a role as a nicotinic acetylcholine receptor agonist and an insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a nicotinic acetylcholine receptor agonist insecticide.",
+                "It is a potent acetylcholinesterase-inhibiting insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor used as an insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor insecticide (nematicide) used to control a wide variety of nematode (round worm) pests."
+            ],
+            [
+                "C",
+                "A",
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "16421",
+            "The molecule is an organic phosphonate, a phosphonic ester and an organothiophosphate insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organothiophosphate insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests."
+            ],
+            [
+                "D",
+                "A",
+                "B",
+                "C"
+            ]
+        ],
+        [
+            "17435",
+            "It is an organic thiophosphate, an organothiophosphate insecticide and an ethyl ester.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organothiophosphate insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests."
+            ],
+            [
+                "A",
+                "D",
+                "B",
+                "C"
+            ]
+        ],
+        [
+            "17434",
+            "It is an organic thiophosphate, an organothiophosphate insecticide and a carbamate ester.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organothiophosphate insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests."
+            ],
+            [
+                "D",
+                "C",
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "91768",
+            "A synthetic pyrethroid insecticide, it is used to control varroa mites in honey bee colonies. It has a role as a pyrethroid ester insecticide and a pyrethroid ester acaricide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a synthetic pyrethroid insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is a neonicotinoid insecticide.",
+                "It is a pyrethroid insecticide with many uses, including control of the adult mosquito population."
+            ],
+            [
+                "A",
+                "C",
+                "D",
+                "B"
+            ]
+        ],
+        [
+            "91758",
+            "The molecule is a phosphonic ester, an organic phosphonate and an organothiophosphate insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organothiophosphate insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests."
+            ],
+            [
+                "C",
+                "D",
+                "A",
+                "B"
+            ]
+        ],
+        [
+            "91754",
+            "The molecule is a pyridazinone, an organochlorine insecticide and an organochlorine acaricide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organochlorine insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphate insecticide used to control various pests."
+            ],
+            [
+                "C",
+                "A",
+                "D",
+                "B"
+            ]
+        ],
+        [
+            "47759",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "C"
+            ]
+        ],
+        [
+            "9571009",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "A",
+                "D",
+                "C",
+                "B"
+            ]
+        ],
+        [
+            "54886",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide and an agrochemical.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "A",
+                "D",
+                "C",
+                "B"
+            ]
+        ],
+        [
+            "41384",
+            "It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide, an acaricide, an agrochemical and a nematicide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a carbamate insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "A",
+                "C",
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "5281873",
+            "This molecule is a synthetic pyrethroid (type 2), used as an insecticide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a synthetic pyrethroid insecticide.",
+                "It is a pyrethroid insecticide with many uses, including control of the adult mosquito population.",
+                "It is a contact and systemic organophosphate insecticide effective against a broad range of insects and mites when applied on a wide range of crops.",
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets."
+            ],
+            [
+                "B",
+                "A",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "4793",
+            "This molecule is an organophosphate chemical commonly used as an insecticide and acaricide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests.",
+                "It is an organothiophosphate insecticide."
+            ],
+            [
+                "D",
+                "C",
+                "A",
+                "B"
+            ]
+        ],
+        [
+            "12901",
+            "It is a non-specific insecticide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a non-specific insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "C",
+                "A",
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "4004",
+            "This molecule is an insecticide that does not occur naturally",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide that does not occur naturally.",
+                "It is an insecticide that does not occur naturally in the environment.",
+                "It is an insecticide used on a variety of crops.",
+                "It is an insecticide and acaricide."
+            ],
+            [
+                "B",
+                "D",
+                "A",
+                "C"
+            ]
+        ],
+        [
+            "637511",
+            "To a lesser extent, this molecule is an effective insecticide, and its scent is also known to repel animals like cats and dogs",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an effective insecticide and also repels animals like cats and dogs.",
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets.",
+                "It is an insecticide used on a variety of crops.",
+                "It is an agricultural insecticide, particularly for rice and tea."
+            ],
+            [
+                "A",
+                "D",
+                "B",
+                "C"
+            ]
+        ],
+        [
+            "5371562",
+            "Used as a fast acting insecticide with both systemic and contact action against a wide range of pests on cotton, sugar cane, tobacco, potatoes, peanuts, tomatoes, and ornamentals",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a fast-acting insecticide with both systemic and contact action.",
+                "It is a contact and systemic insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a non-specific insecticide."
+            ],
+            [
+                "B",
+                "C",
+                "D",
+                "A"
+            ]
+        ],
+        [
+            "51605",
+            "Selective insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a non-specific insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "C",
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "25960",
+            "Used as an insecticide in some horticultural applications",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is used as an insecticide in some horticultural applications.",
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets.",
+                "It is an effective insecticide and also repels animals like cats and dogs.",
+                "It is an insecticide used on a variety of crops."
+            ],
+            [
+                "A",
+                "D",
+                "C",
+                "B"
+            ]
+        ],
+        [
+            "1982",
+            "Used as a contact and systemic insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a contact and systemic insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a non-specific insecticide."
+            ],
+            [
+                "C",
+                "A",
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "71482",
+            "This molecule is an organophosphorus insecticide that acts by inhibition of cholinesterase activity",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphate insecticide used to control various pests.",
+                "It is an organothiophosphate insecticide."
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "9395",
+            "This molecule is one of the most potent acetylcholinesterase-inhibiting insecticides available, around 70% as potent as the nerve agent sarin, and so is now rarely used as an insecticide due to the risk of poisoning to humans and other animals",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a potent acetylcholinesterase-inhibiting insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor used as an insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor insecticide (nematicide) used to control a wide variety of nematode (round worm) pests.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide."
+            ],
+            [
+                "D",
+                "B",
+                "A",
+                "C"
+            ]
+        ],
+        [
+            "4130",
+            "This molecule is an insecticide that does not occur naturally in the environment",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide that does not occur naturally in the environment.",
+                "It is an insecticide that does not occur naturally.",
+                "It is an insecticide used on a variety of crops.",
+                "It is an insecticide and acaricide."
+            ],
+            [
+                "B",
+                "D",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "115224",
+            "This molecule is a neonicotinoid insecticide, which is a class of neuro-active insecticides modeled after nicotine",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a neonicotinoid insecticide.",
+                "It is a fumigant insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide."
+            ],
+            [
+                "A",
+                "C",
+                "D",
+                "B"
+            ]
+        ],
+        [
+            "14322",
+            "This molecule is an insecticide for the control of rice leafhoppers, planthoppers, codling moth, citrus mealybug, onion thrips, fruit flies, bollworms and aphids",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide for the control of rice leafhoppers, planthoppers, codling moth, citrus mealybug, onion thrips, fruit flies, bollworms, and aphids.",
+                "It is an organophosphate, household and public health insecticide designed to control cockroaches, flies, ants, ticks, moths, fleas and mosquitoes on contact.",
+                "It is an organophosphate insecticide that has been used since 1959 to control insects on rice, cereals, fruits, vegetables, stored grains, cotton, to control insects in forests and for fly, mosquito, and cockroach control in public health programs.",
+                "It is an alpha-cyano-3-phenoxyphenyl pyrethroid insecticide used in the control of ectoparasites on cattle, sheep, goats, horses, and dogs."
+            ],
+            [
+                "C",
+                "D",
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "17563",
+            "This molecule is an Agricultural insecticide, particularly for rice and tea",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an agricultural insecticide, particularly for rice and tea.",
+                "It is an agricultural insecticide used on rice, cocoa, sugar cane, vegetables and other crops.",
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets.",
+                "It is an insecticide used on a variety of crops."
+            ],
+            [
+                "B",
+                "A",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "3034287",
+            "This molecule is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets.",
+                "It is an effective insecticide and also repels animals like cats and dogs.",
+                "It is an insecticide used on a variety of crops.",
+                "It is an agricultural insecticide, particularly for rice and tea."
+            ],
+            [
+                "C",
+                "D",
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "91754",
+            "This molecule is an insecticide and acaricide that is effective against thrips, mites, aphids and leafhoppers",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide and acaricide effective against thrips, mites, aphids, and leafhoppers.",
+                "It is an insecticide used to control cockroaches, flies, mosquitoes, and lawn and turf insects.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide.",
+                "It is used as an insecticide and acaricide on vegetables, alfalfa, deciduous fruits and nuts."
+            ],
+            [
+                "C",
+                "D",
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "13754",
+            "Diazinon is a nonsystemic organophosphate insecticide (or \u201cpro-insecticide\u201d formerly used to control cockroaches, silverfish, ants, and fleas in residential, non-food buildings",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a nonsystemic organophosphate insecticide.",
+                "It is an organophosphate insecticide used to control various pests.",
+                "It is an organophosphorus insecticide.",
+                "It is a selective insecticide."
+            ],
+            [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "3346",
+            "This molecule is an organothiophosphate drug used as an insecticide, avicide, and acaricide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organothiophosphate insecticide.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests."
+            ],
+            [
+                "A",
+                "C",
+                "D",
+                "B"
+            ]
+        ],
+        [
+            "3039",
+            "This molecule is a drug of the organophosphate class, frequently used as an insecticide for the control of indoor pests and for the protection of stored products from insect infestations",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests.",
+                "It is an organothiophosphate insecticide."
+            ],
+            [
+                "D",
+                "C",
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "8292",
+            "Used as an insecticide, nematocide and mosquito larvicide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide, nematocide, and mosquito larvicide.",
+                "It is an insecticide used to control cockroaches, flies, mosquitoes, and lawn and turf insects.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide.",
+                "It is used as an insecticide and acaricide on vegetables, alfalfa, deciduous fruits and nuts."
+            ],
+            [
+                "A",
+                "D",
+                "C",
+                "B"
+            ]
+        ],
+        [
+            "4790",
+            "Used as an insecticide and acaricide; it is applied to plants and soil",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide and acaricide.",
+                "It is an insecticide used on a variety of crops.",
+                "It is an insecticide that acts as a molting hormone.",
+                "It is primarily used as an insecticide for corn."
+            ],
+            [
+                "C",
+                "D",
+                "A",
+                "B"
+            ]
+        ],
+        [
+            "6758",
+            "It has broad spectrum insecticide and pesticide activity and is also toxic to fish.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It has broad spectrum insecticide and pesticide activity.",
+                "It is an agricultural insecticide, particularly for rice and tea.",
+                "It is an effective insecticide and also repels animals like cats and dogs.",
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets."
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "48132",
+            "This molecule is a pyrethroid insecticide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a pyrethroid insecticide.",
+                "It is a phytogenic insecticide.",
+                "It has broad spectrum insecticide and pesticide activity.",
+                "It is an organophosphate, household and public health insecticide designed to control cockroaches, flies, ants, ticks, moths, fleas and mosquitoes on contact."
+            ],
+            [
+                "B",
+                "D",
+                "A",
+                "C"
+            ]
+        ],
+        [
+            "3589",
+            "This molecule was used as an insecticide; however, nearly all registered uses of this moleculehave been canceled",
+            "Which kind of insecticide is this molecule?",
+            [
+                "Nearly all registered uses of it have been canceled.",
+                "It is a fast-acting insecticide with both systemic and contact action.",
+                "It is used as a non-systemic insecticide with good ovicidal properties and long persistence.",
+                "It is used as an insecticide in some horticultural applications."
+            ],
+            [
+                "A",
+                "B",
+                "D",
+                "C"
+            ]
+        ],
+        [
+            "4944",
+            "This molecule is an insecticide used to control cockroaches, flies, mosquitoes, and lawn and turf insects",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide used to control cockroaches, flies, mosquitoes, and lawn and turf insects.",
+                "It is an insecticide and acaricide effective against thrips, mites, aphids, and leafhoppers.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide.",
+                "It is used as an insecticide and acaricide on vegetables, alfalfa, deciduous fruits and nuts."
+            ],
+            [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "13709",
+            "This molecule is an organophosphate insecticide; its use is banned in the European Community.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organophosphate insecticide used to control various pests.",
+                "It is an organothiophosphate insecticide."
+            ],
+            [
+                "A",
+                "D",
+                "B",
+                "C"
+            ]
+        ],
+        [
+            "299",
+            "This molecule is a manufactured insecticide also known as Kepone",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a manufactured insecticide also known as Kepone.",
+                "It is used as a selective insecticide.",
+                "It is a fumigant insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "C",
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "38779",
+            "This molecule is an insecticide used on a wide variety of crops to control many pests but mainly Lepidoptera and mites",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide used to control many pests, mainly Lepidoptera and mites.",
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets.",
+                "It is an insecticide used to control cockroaches, flies, mosquitoes, and lawn and turf insects.",
+                "It is used as an insecticide for the fumigation of grains, animal feed, and leaf-stored tobacco."
+            ],
+            [
+                "D",
+                "C",
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "36324",
+            "This molecule is a non-systemic acaricide and insecticide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a non-systemic acaricide and insecticide.",
+                "It is an insecticide and acaricide.",
+                "It is a non-specific insecticide.",
+                "It is used as a selective insecticide."
+            ],
+            [
+                "C",
+                "A",
+                "D",
+                "B"
+            ]
+        ],
+        [
+            "91768",
+            "This molecule is a pyrethroid insecticide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a pyrethroid insecticide.",
+                "It is an insecticide used to control many pests, mainly Lepidoptera and mites.",
+                "It is a non-specific insecticide.",
+                "It is a nicotinic acetylcholine receptor agonist insecticide."
+            ],
+            [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "5853",
+            "This molecule is an organophosphate insecticide used to control cockroaches, crickets, silverfish, bedbugs, fleas, cattle grubs, flies, ticks, leafminers and leaf-hoppers",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate insecticide used to control various pests.",
+                "It is an organophosphate insecticide.",
+                "It is an organophosphorus insecticide.",
+                "It is an organothiophosphate insecticide."
+            ],
+            [
+                "A",
+                "C",
+                "D",
+                "B"
+            ]
+        ],
+        [
+            "24404",
+            "This molecule is used as an insecticide for the fumigation of grains, animal feed, and leaf-stored tobacco",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is used as an insecticide for the fumigation of grains, animal feed, and leaf-stored tobacco.",
+                "It is used as an insecticide and acaricide on vegetables, alfalfa, deciduous fruits and nuts.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide.",
+                "It is an insecticide used to control cockroaches, flies, mosquitoes, and lawn and turf insects."
+            ],
+            [
+                "A",
+                "B",
+                "D",
+                "C"
+            ]
+        ],
+        [
+            "91773",
+            "This molecule is an insecticide that acts as a molting hormone",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide that acts as a molting hormone.",
+                "It is an insecticide and acaricide.",
+                "It is an insecticide used on a variety of crops.",
+                "It is primarily used as an insecticide for corn."
+            ],
+            [
+                "A",
+                "D",
+                "B",
+                "C"
+            ]
+        ],
+        [
+            "6033664",
+            "This molecule is an alpha-cyano-3-phenoxyphenyl pyrethroid insecticide used in the control of ectoparasites on cattle, sheep, goats, horses, and dogs",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an alpha-cyano-3-phenoxyphenyl pyrethroid insecticide used in the control of ectoparasites on cattle, sheep, goats, horses, and dogs.",
+                "It is an insecticide for the control of rice leafhoppers, planthoppers, codling moth, citrus mealybug, onion thrips, fruit flies, bollworms, and aphids.",
+                "It is an organophosphate, household and public health insecticide designed to control cockroaches, flies, ants, ticks, moths, fleas and mosquitoes on contact.",
+                "It is an organophosphate insecticide that has been used since 1959 to control insects on rice, cereals, fruits, vegetables, stored grains, cotton, to control insects in forests and for fly, mosquito, and cockroach control in public health programs."
+            ],
+            [
+                "B",
+                "D",
+                "A",
+                "C"
+            ]
+        ],
+        [
+            "6129",
+            "This molecule is an insecticide used on a variety of crops",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an insecticide used on a variety of crops.",
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets.",
+                "It is an effective insecticide and also repels animals like cats and dogs.",
+                "It is an agricultural insecticide, particularly for rice and tea."
+            ],
+            [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "40326",
+            "It is a pyrethroid insecticide commonly used in the treatment of lice infestations and scabies",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a pyrethroid insecticide commonly used in the treatment of lice infestations and scabies.",
+                "It is a pyrethroid insecticide with many uses, including control of the adult mosquito population.",
+                "It is a pyrethroid insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "D",
+                "A",
+                "C",
+                "B"
+            ]
+        ],
+        [
+            "5355863",
+            "Used as an insecticide and acaricide on vegetables, alfalfa, deciduous fruits and nuts",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is used as an insecticide and acaricide on vegetables, alfalfa, deciduous fruits and nuts.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide.",
+                "It is an insecticide used to control cockroaches, flies, mosquitoes, and lawn and turf insects.",
+                "It is an insecticide and acaricide effective against thrips, mites, aphids, and leafhoppers."
+            ],
+            [
+                "C",
+                "D",
+                "A",
+                "B"
+            ]
+        ],
+        [
+            "16248",
+            "Used as an insecticide and immobilizing agent for birds, acaricide and molluscicide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide.",
+                "It is used as an insecticide and acaricide on vegetables, alfalfa, deciduous fruits and nuts.",
+                "It is an insecticide used to control cockroaches, flies, mosquitoes, and lawn and turf insects.",
+                "It is an insecticide and acaricide effective against thrips, mites, aphids, and leafhoppers."
+            ],
+            [
+                "A",
+                "C",
+                "D",
+                "B"
+            ]
+        ],
+        [
+            "213021",
+            "This molecule is a neonicotinoid insecticide, which is a class of neuro-active insecticides modeled after nicotine",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a neonicotinoid insecticide.",
+                "It is a fumigant insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide."
+            ],
+            [
+                "D",
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "3289",
+            "This molecule is an organophosphate acetylcholinesterase inhibitor used as an insecticide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate acetylcholinesterase inhibitor used as an insecticide.",
+                "It is a potent acetylcholinesterase-inhibiting insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor insecticide (nematicide) used to control a wide variety of nematode (round worm) pests.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide."
+            ],
+            [
+                "C",
+                "A",
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "17531",
+            "Used as a non-systemic insecticide with good ovicidal properties and long persistence",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is used as a non-systemic insecticide with good ovicidal properties and long persistence.",
+                "It is used as an insecticide in some horticultural applications.",
+                "It is used as an insecticide for the fumigation of grains, animal feed, and leaf-stored tobacco.",
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets."
+            ],
+            [
+                "C",
+                "D",
+                "A",
+                "B"
+            ]
+        ],
+        [
+            "2181",
+            "A piperidine botanical insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a piperidine botanical insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a non-specific insecticide."
+            ],
+            [
+                "C",
+                "A",
+                "D",
+                "B"
+            ]
+        ],
+        [
+            "37123",
+            "Used as a selective insecticide.",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is used as a selective insecticide.",
+                "It is a phytogenic insecticide.",
+                "It is a non-specific insecticide.",
+                "It is a contact and systemic insecticide."
+            ],
+            [
+                "C",
+                "D",
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "6423",
+            "This molecule is a chemical compound currently used as a broad-spectrum antimicrobial, fungicide, herbicide, insecticide, and nematicide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a chemical compound currently used as a broad-spectrum antimicrobial, fungicide, herbicide, insecticide, and nematicide.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide.",
+                "It is used as an insecticide and acaricide on vegetables, alfalfa, deciduous fruits and nuts.",
+                "It is an insecticide used to control cockroaches, flies, mosquitoes, and lawn and turf insects."
+            ],
+            [
+                "B",
+                "A",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "5371560",
+            "This molecule is an organophosphate acetylcholinesterase inhibitor used as an insecticide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate acetylcholinesterase inhibitor used as an insecticide.",
+                "It is a potent acetylcholinesterase-inhibiting insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor insecticide (nematicide) used to control a wide variety of nematode (round worm) pests.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide."
+            ],
+            [
+                "C",
+                "D",
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "5053",
+            "This molecule is a pyrethroid insecticide with many uses, including control of the adult mosquito population",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a pyrethroid insecticide with many uses, including control of the adult mosquito population.",
+                "It is a pyrethroid insecticide commonly used in the treatment of lice infestations and scabies.",
+                "It is a pyrethroid insecticide.",
+                "It is an insecticide that does not occur naturally in the environment."
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "5372405",
+            "This molecule is an organophosphate, household and public health insecticide designed to control cockroaches, flies, ants, ticks, moths, fleas and mosquitoes on contact",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate, household and public health insecticide designed to control cockroaches, flies, ants, ticks, moths, fleas and mosquitoes on contact.",
+                "It is an insecticide for the control of rice leafhoppers, planthoppers, codling moth, citrus mealybug, onion thrips, fruit flies, bollworms, and aphids.",
+                "It is an organophosphate insecticide that has been used since 1959 to control insects on rice, cereals, fruits, vegetables, stored grains, cotton, to control insects in forests and for fly, mosquito, and cockroach control in public health programs.",
+                "It is an alpha-cyano-3-phenoxyphenyl pyrethroid insecticide used in the control of ectoparasites on cattle, sheep, goats, horses, and dogs."
+            ],
+            [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "31070",
+            "This molecule is an organophosphate acetylcholinesterase inhibitor insecticide (nematicide) used to control a wide variety of nematode (round worm) pests",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate acetylcholinesterase inhibitor insecticide (nematicide) used to control a wide variety of nematode (round worm) pests.",
+                "It is an organophosphate, household and public health insecticide designed to control cockroaches, flies, ants, ticks, moths, fleas and mosquitoes on contact.",
+                "It is an insecticide for the control of rice leafhoppers, planthoppers, codling moth, citrus mealybug, onion thrips, fruit flies, bollworms, and aphids.",
+                "It is an organophosphate insecticide that has been used since 1959 to control insects on rice, cereals, fruits, vegetables, stored grains, cotton, to control insects in forests and for fly, mosquito, and cockroach control in public health programs."
+            ],
+            [
+                "D",
+                "C",
+                "A",
+                "B"
+            ]
+        ],
+        [
+            "31200",
+            "This molecule is an organophospahate insecticide that has been used since 1959 to control insects on rice, cereals, fruits, vegetables, stored grains, cotton, to control insects in forests and for fly, mosquito, and cockroach control in public health programs",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate insecticide that has been used since 1959 to control insects on rice, cereals, fruits, vegetables, stored grains, cotton, to control insects in forests and for fly, mosquito, and cockroach control in public health programs.",
+                "It is an organophosphate, household and public health insecticide designed to control cockroaches, flies, ants, ticks, moths, fleas and mosquitoes on contact.",
+                "It is an insecticide for the control of rice leafhoppers, planthoppers, codling moth, citrus mealybug, onion thrips, fruit flies, bollworms, and aphids.",
+                "It is an alpha-cyano-3-phenoxyphenyl pyrethroid insecticide used in the control of ectoparasites on cattle, sheep, goats, horses, and dogs."
+            ],
+            [
+                "B",
+                "D",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "2912",
+            "This molecule is a synthetic pyrethroid primarily used as an insecticide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a synthetic pyrethroid primarily used as an insecticide.",
+                "It is a pyrethroid insecticide.",
+                "It is used as a selective insecticide.",
+                "It is a neonicotinoid insecticide."
+            ],
+            [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "3082",
+            "This material is a contact and systemic organophosphate insecticide effective against a broad range of insects and mites when applied on a wide range of crops",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is a contact and systemic organophosphate insecticide effective against a broad range of insects and mites when applied on a wide range of crops.",
+                "It is an insecticide and acaricide effective against thrips, mites, aphids, and leafhoppers.",
+                "It is an insecticide used to control cockroaches, flies, mosquitoes, and lawn and turf insects.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide."
+            ],
+            [
+                "C",
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "91655",
+            "This molecule is an organophosphate acetylcholinesterase inhibitor used as an insecticide",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an organophosphate acetylcholinesterase inhibitor used as an insecticide.",
+                "It is a potent acetylcholinesterase-inhibiting insecticide.",
+                "It is an organophosphate acetylcholinesterase inhibitor insecticide (nematicide) used to control a wide variety of nematode (round worm) pests.",
+                "It is used as an insecticide and immobilizing agent for birds, acaricide and molluscicide."
+            ],
+            [
+                "B",
+                "C",
+                "D",
+                "A"
+            ]
+        ],
+        [
+            "17517",
+            "This molecule is an agricultural insecticide used on rice, cocoa, sugar cane, vegetables and other crops",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is an agricultural insecticide used on rice, cocoa, sugar cane, vegetables and other crops.",
+                "It is an agricultural insecticide, particularly for rice and tea.",
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets.",
+                "It is an insecticide used on a variety of crops."
+            ],
+            [
+                "A",
+                "D",
+                "C",
+                "B"
+            ]
+        ],
+        [
+            "13676",
+            "Used primarily as an insecticide for corn",
+            "Which kind of insecticide is this molecule?",
+            [
+                "It is primarily used as an insecticide for corn.",
+                "It is an insecticide used on a variety of crops.",
+                "It is an insecticide used in agriculture and veterinary medicine to kill external parasites of pets.",
+                "It is an agricultural insecticide, particularly for rice and tea."
+            ],
+            [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        ]
+    ]
+}

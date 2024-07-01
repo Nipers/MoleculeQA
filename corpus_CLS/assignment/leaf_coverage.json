@@ -1,0 +1,1511 @@
+{
+    "active metabolite": [
+        "active metabolite"
+    ],
+    "enzyme": [
+        "enzyme",
+        "enzyme"
+    ],
+    "epitope": [
+        "epitope"
+    ],
+    "immunodominant epitope": [
+        "immunodominant epitope"
+    ],
+    "complementary base pairs": [
+        "complementary base pairs"
+    ],
+    "modified nucleobase": [
+        "modified nucleobase"
+    ],
+    "nucleobase": [
+        "nucleobase"
+    ],
+    "glucoside": [
+        "glucoside"
+    ],
+    "glycoside": [
+        "glycoside"
+    ],
+    "oligosaccharide": [
+        "oligosaccharide"
+    ],
+    "sugar": [
+        "sugar"
+    ],
+    "amino sugar": [
+        "amino sugar"
+    ],
+    "hapten": [
+        "hapten",
+        "hapten"
+    ],
+    "heptapeptide": [
+        "heptapeptide"
+    ],
+    "non-proteinogenic": [
+        "non-proteinogenic"
+    ],
+    "alkaloid": [
+        "alkaloid"
+    ],
+    "coenzyme a": [
+        "coenzyme a"
+    ],
+    "fatty acyl coa": [
+        "fatty acyl coa"
+    ],
+    "non-reducing end": [
+        "non-reducing end"
+    ],
+    "reducing end": [
+        "reducing end"
+    ],
+    "sphingoid": [
+        "sphingoid"
+    ],
+    "sphingoid base": [
+        "sphingoid base"
+    ],
+    "substrate": [
+        "substrate"
+    ],
+    "complex": [
+        "complex"
+    ],
+    "glycosidic bond": [
+        "glycosidic bond"
+    ],
+    "disulfide bonds": [
+        "disulfide bonds"
+    ],
+    "double bond": [
+        "double bond"
+    ],
+    "exocyclic double bond": [
+        "exocyclic double bond"
+    ],
+    "peptide bond": [
+        "peptide bond"
+    ],
+    "c=c double bond": [
+        "c=c double bond"
+    ],
+    "bond": [
+        "bond"
+    ],
+    "connection": [
+        "connection"
+    ],
+    "attachment": [
+        "attachment"
+    ],
+    "acid": [
+        "acid"
+    ],
+    "acid anion": [
+        "acid anion"
+    ],
+    "amino acid type": [
+        "amino acid type"
+    ],
+    "alcohol": [
+        "alcohol"
+    ],
+    "amine": [
+        "amine"
+    ],
+    "amino compound": [
+        "amino compound"
+    ],
+    "c-nitro compound": [
+        "c-nitro compound"
+    ],
+    "compound": [
+        "compound"
+    ],
+    "cyclic ether": [
+        "cyclic ether"
+    ],
+    "dimer": [
+        "dimer"
+    ],
+    "dimethoxybenzene": [
+        "dimethoxybenzene"
+    ],
+    "enamide": [
+        "enamide"
+    ],
+    "lactam": [
+        "lactam"
+    ],
+    "lactone": [
+        "lactone"
+    ],
+    "organobromine compound": [
+        "organobromine compound"
+    ],
+    "organochlorine compound": [
+        "organochlorine compound"
+    ],
+    "polyphenol": [
+        "polyphenol"
+    ],
+    "fatty acid type": [
+        "fatty acid type"
+    ],
+    "fatty acyl": [
+        "fatty acyl"
+    ],
+    "flavone": [
+        "flavone"
+    ],
+    "steroid classes": [
+        "steroid classes"
+    ],
+    "ceramide phosphoethanolamine": [
+        "ceramide phosphoethanolamine"
+    ],
+    "fatty acyl-coa": [
+        "fatty acyl-coa"
+    ],
+    "meromycolic chain": [
+        "meromycolic chain"
+    ],
+    "salt": [
+        "salt",
+        "salt"
+    ],
+    "phosphate": [
+        "phosphate"
+    ],
+    "hydrochloride": [
+        "hydrochloride"
+    ],
+    "sulfate": [
+        "sulfate"
+    ],
+    "sodium salt": [
+        "sodium salt",
+        "sodium salt"
+    ],
+    "anion": [
+        "anion",
+        "anion"
+    ],
+    "anionic group": [
+        "anionic group"
+    ],
+    "cation": [
+        "cation"
+    ],
+    "cationic groups": [
+        "cationic groups"
+    ],
+    "counter-anion": [
+        "counter-anion"
+    ],
+    "counterion": [
+        "counterion",
+        "counterion"
+    ],
+    "fatty acid anion": [
+        "fatty acid anion"
+    ],
+    "icosanoid anion": [
+        "icosanoid anion"
+    ],
+    "ion": [
+        "ion"
+    ],
+    "oxoanion": [
+        "oxoanion"
+    ],
+    "zwitterion": [
+        "zwitterion"
+    ],
+    "anhydrous form": [
+        "anhydrous form"
+    ],
+    "heptahydrate form": [
+        "heptahydrate form"
+    ],
+    "oxidation state": [
+        "oxidation state"
+    ],
+    "hydrate": [
+        "hydrate"
+    ],
+    "major microspecies": [
+        "major microspecies",
+        "major microspecies"
+    ],
+    "deoxygenated": [
+        "deoxygenated"
+    ],
+    "major species": [
+        "major species"
+    ],
+    "microspecies": [
+        "microspecies",
+        "microspecies"
+    ],
+    "coordination entity": [
+        "coordination entity"
+    ],
+    "glycosyl moiety": [
+        "glycosyl moiety"
+    ],
+    "acyl": [
+        "acyl"
+    ],
+    "acyl group": [
+        "acyl group"
+    ],
+    "acyl substituent": [
+        "acyl substituent"
+    ],
+    "alcohol group": [
+        "alcohol group"
+    ],
+    "alcoholic hydroxy group": [
+        "alcoholic hydroxy group"
+    ],
+    "alkenyl group": [
+        "alkenyl group"
+    ],
+    "alkyl group": [
+        "alkyl group"
+    ],
+    "allylic hydroxy group": [
+        "allylic hydroxy group"
+    ],
+    "amino substituent": [
+        "amino substituent"
+    ],
+    "anilino group": [
+        "anilino group"
+    ],
+    "aromatic amino group": [
+        "aromatic amino group"
+    ],
+    "attached moiety": [
+        "attached moiety"
+    ],
+    "carbamoyl group": [
+        "carbamoyl group"
+    ],
+    "carboxy group": [
+        "carboxy group"
+    ],
+    "carboxyalkyl chain": [
+        "carboxyalkyl chain"
+    ],
+    "carboxylic acid group": [
+        "carboxylic acid group"
+    ],
+    "carboxylic acid moiety": [
+        "carboxylic acid moiety"
+    ],
+    "ceramide n-acyl group": [
+        "ceramide n-acyl group"
+    ],
+    "chloro group": [
+        "chloro group"
+    ],
+    "enol moiety": [
+        "enol moiety"
+    ],
+    "epoxy group": [
+        "epoxy group"
+    ],
+    "ester group": [
+        "ester group"
+    ],
+    "fatty acyl group": [
+        "fatty acyl group"
+    ],
+    "fatty acyl substituent": [
+        "fatty acyl substituent"
+    ],
+    "functional group": [
+        "functional group"
+    ],
+    "hexacosanoyl group": [
+        "hexacosanoyl group"
+    ],
+    "hydrazino group": [
+        "hydrazino group"
+    ],
+    "hydroperoxy group": [
+        "hydroperoxy group"
+    ],
+    "hydroxy group": [
+        "hydroxy group"
+    ],
+    "hydroxy substituent": [
+        "hydroxy substituent"
+    ],
+    "isopropyl substituent": [
+        "isopropyl substituent"
+    ],
+    "keto group": [
+        "keto group"
+    ],
+    "methoxy group": [
+        "methoxy group"
+    ],
+    "methyl group": [
+        "methyl group"
+    ],
+    "moiety": [
+        "moiety"
+    ],
+    "n-acyl group": [
+        "n-acyl group"
+    ],
+    "o-acyl group": [
+        "o-acyl group"
+    ],
+    "oxo group": [
+        "oxo group"
+    ],
+    "pentyl group": [
+        "pentyl group"
+    ],
+    "phenolic hydroxy group": [
+        "phenolic hydroxy group"
+    ],
+    "protonated group": [
+        "protonated group"
+    ],
+    "phenyl group": [
+        "phenyl group"
+    ],
+    "phenyl substituent": [
+        "phenyl substituent"
+    ],
+    "phosphate group": [
+        "phosphate group"
+    ],
+    "phosphatidyl acyl group": [
+        "phosphatidyl acyl group"
+    ],
+    "polyprenyl substituent": [
+        "polyprenyl substituent"
+    ],
+    "primary hydroxy group": [
+        "primary hydroxy group"
+    ],
+    "s-acyl component": [
+        "s-acyl component"
+    ],
+    "secondary amino group": [
+        "secondary amino group"
+    ],
+    "s-methyl group": [
+        "s-methyl group"
+    ],
+    "s-substituent": [
+        "s-substituent"
+    ],
+    "sulfo group": [
+        "sulfo group"
+    ],
+    "terminal hydroxy group": [
+        "terminal hydroxy group"
+    ],
+    "terminal methyl group": [
+        "terminal methyl group"
+    ],
+    "tetracosanoyl group": [
+        "tetracosanoyl group"
+    ],
+    "acetyl group": [
+        "acetyl group"
+    ],
+    "glycosyl group": [
+        "glycosyl group"
+    ],
+    "oligosaccharide moiety": [
+        "oligosaccharide moiety"
+    ],
+    "acid group": [
+        "acid group"
+    ],
+    "acid carboxy group": [
+        "acid carboxy group"
+    ],
+    "thiol group": [
+        "thiol group"
+    ],
+    "variable n-acyl group": [
+        "variable n-acyl group"
+    ],
+    "acetic acid": [
+        "acetic acid"
+    ],
+    "aromatic ether": [
+        "aromatic ether"
+    ],
+    "carboxylic ester": [
+        "carboxylic ester"
+    ],
+    "ester": [
+        "ester"
+    ],
+    "secondary alpha-hydroxy ketone": [
+        "secondary alpha-hydroxy ketone"
+    ],
+    "ether": [
+        "ether"
+    ],
+    "ethyl ester": [
+        "ethyl ester"
+    ],
+    "enone": [
+        "enone"
+    ],
+    "epoxide": [
+        "epoxide"
+    ],
+    "glycosyl component": [
+        "glycosyl component"
+    ],
+    "isopropyl ester": [
+        "isopropyl ester"
+    ],
+    "methyl ester": [
+        "methyl ester"
+    ],
+    "ketone": [
+        "ketone"
+    ],
+    "amino": [
+        "amino"
+    ],
+    "amino group substituent": [
+        "amino group substituent"
+    ],
+    "carboxamide": [
+        "carboxamide"
+    ],
+    "amide": [
+        "amide"
+    ],
+    "alpha-hydroxy ketone": [
+        "alpha-hydroxy ketone"
+    ],
+    "anomeric hydroxy": [
+        "anomeric hydroxy"
+    ],
+    "steroid component": [
+        "steroid component"
+    ],
+    "sterol component": [
+        "sterol component"
+    ],
+    "aglycone species": [
+        "aglycone species"
+    ],
+    "amino acid": [
+        "amino acid"
+    ],
+    "carboxylic acid": [
+        "carboxylic acid"
+    ],
+    "cationic component": [
+        "cationic component"
+    ],
+    "cationic counterpart": [
+        "cationic counterpart"
+    ],
+    "dicarboxylic acid": [
+        "dicarboxylic acid"
+    ],
+    "ethanol": [
+        "ethanol"
+    ],
+    "fatty acid": [
+        "fatty acid"
+    ],
+    "fatty acid chain": [
+        "fatty acid chain"
+    ],
+    "monocarboxylic acid": [
+        "monocarboxylic acid"
+    ],
+    "organic sulfide": [
+        "organic sulfide"
+    ],
+    "polyprenyl component": [
+        "polyprenyl component"
+    ],
+    "amino hydrogen": [
+        "amino hydrogen"
+    ],
+    "amino nitrogen": [
+        "amino nitrogen"
+    ],
+    "amino proton": [
+        "amino proton"
+    ],
+    "anomeric hydroxy hydrogen": [
+        "anomeric hydroxy hydrogen"
+    ],
+    "anomeric oxygen": [
+        "anomeric oxygen"
+    ],
+    "atom": [
+        "atom"
+    ],
+    "carbon atoms": [
+        "carbon atoms"
+    ],
+    "central atom": [
+        "central atom"
+    ],
+    "exocyclic amino hydrogen": [
+        "exocyclic amino hydrogen"
+    ],
+    "hydrogen": [
+        "hydrogen"
+    ],
+    "hydroxy hydrogen": [
+        "hydroxy hydrogen"
+    ],
+    "metal": [
+        "metal"
+    ],
+    "isotope": [
+        "isotope"
+    ],
+    "methyl hydrogen": [
+        "methyl hydrogen"
+    ],
+    "nitrogen": [
+        "nitrogen"
+    ],
+    "nitrogen atom": [
+        "nitrogen atom"
+    ],
+    "non-sulfonated nitrogen": [
+        "non-sulfonated nitrogen"
+    ],
+    "anomeric substituent": [
+        "anomeric substituent"
+    ],
+    "oxygen atom": [
+        "oxygen atom"
+    ],
+    "phenolic hydrogen": [
+        "phenolic hydrogen"
+    ],
+    "pro-r hydrogen": [
+        "pro-r hydrogen"
+    ],
+    "sulfur atom": [
+        "sulfur atom"
+    ],
+    "aglycone": [
+        "aglycone"
+    ],
+    "sulfur hydrogen": [
+        "sulfur hydrogen"
+    ],
+    "anomeric sulfur": [
+        "anomeric sulfur"
+    ],
+    "thiol hydrogen": [
+        "thiol hydrogen"
+    ],
+    "addition": [
+        "addition"
+    ],
+    "additional group": [
+        "additional group"
+    ],
+    "alpha-branch": [
+        "alpha-branch"
+    ],
+    "attached group": [
+        "attached group"
+    ],
+    "bridging group": [
+        "bridging group"
+    ],
+    "linked group": [
+        "linked group"
+    ],
+    "molecular formula": [
+        "molecular formula"
+    ],
+    "n-substituent": [
+        "n-substituent"
+    ],
+    "oh groups": [
+        "oh groups"
+    ],
+    "omega-hydroxy": [
+        "omega-hydroxy"
+    ],
+    "prenyl units": [
+        "prenyl units"
+    ],
+    "r-configuration": [
+        "r-configuration"
+    ],
+    "terminal": [
+        "terminal"
+    ],
+    "terminal group": [
+        "terminal group"
+    ],
+    "glycosyl fragment": [
+        "glycosyl fragment"
+    ],
+    "alpha-carbon": [
+        "alpha-carbon"
+    ],
+    "alpha-hydrogen": [
+        "alpha-hydrogen"
+    ],
+    "amino acid residues": [
+        "amino acid residues"
+    ],
+    "deoxygenated positions": [
+        "deoxygenated positions"
+    ],
+    "double bond configuration": [
+        "double bond configuration"
+    ],
+    "position": [
+        "position"
+    ],
+    "repeating unit": [
+        "repeating unit"
+    ],
+    "residue": [
+        "residue"
+    ],
+    "s configuration": [
+        "s configuration"
+    ],
+    "sequence": [
+        "sequence"
+    ],
+    "subcomponents": [
+        "subcomponents"
+    ],
+    "chemical formula": [
+        "chemical formula"
+    ],
+    "composition": [
+        "composition",
+        "composition"
+    ],
+    "configuration": [
+        "configuration",
+        "configuration"
+    ],
+    "amino acid sequence": [
+        "amino acid sequence"
+    ],
+    "backbone": [
+        "backbone"
+    ],
+    "base": [
+        "base"
+    ],
+    "branch": [
+        "branch"
+    ],
+    "bridge": [
+        "bridge"
+    ],
+    "chain type": [
+        "chain type"
+    ],
+    "core": [
+        "core"
+    ],
+    "fragment": [
+        "fragment"
+    ],
+    "framework": [
+        "framework"
+    ],
+    "long-chain": [
+        "long-chain"
+    ],
+    "side chain": [
+        "side chain"
+    ],
+    "side-group": [
+        "side-group"
+    ],
+    "skeleton": [
+        "skeleton"
+    ],
+    "substructure": [
+        "substructure"
+    ],
+    "chain length": [
+        "chain length"
+    ],
+    "nucleus": [
+        "nucleus"
+    ],
+    "subunit": [
+        "subunit"
+    ],
+    "sugar component": [
+        "sugar component"
+    ],
+    "sugar fragment": [
+        "sugar fragment"
+    ],
+    "tetrasaccharide repeat": [
+        "tetrasaccharide repeat"
+    ],
+    "unit": [
+        "unit"
+    ],
+    "fused rings": [
+        "fused rings"
+    ],
+    "heterobicyclic": [
+        "heterobicyclic"
+    ],
+    "macrocycle": [
+        "macrocycle"
+    ],
+    "ring": [
+        "ring"
+    ],
+    "ring assembly": [
+        "ring assembly"
+    ],
+    "ring cleavage": [
+        "ring cleavage"
+    ],
+    "ring system": [
+        "ring system"
+    ],
+    "analogue": [
+        "analogue"
+    ],
+    "base derivative": [
+        "base derivative"
+    ],
+    "equimolar amounts": [
+        "equimolar amounts"
+    ],
+    "ester of": [
+        "ester of"
+    ],
+    "intermediate": [
+        "intermediate",
+        "intermediate"
+    ],
+    "nitrogen substitution": [
+        "nitrogen substitution"
+    ],
+    "substitute": [
+        "substitute"
+    ],
+    "oxygen replacement": [
+        "oxygen replacement"
+    ],
+    "precursor": [
+        "precursor"
+    ],
+    "replaced by": [
+        "replaced by"
+    ],
+    "replaced group": [
+        "replaced group"
+    ],
+    "replacement": [
+        "replacement"
+    ],
+    "substitution": [
+        "substitution"
+    ],
+    "anomeric carbon": [
+        "anomeric carbon"
+    ],
+    "anomeric carbon configuration": [
+        "anomeric carbon configuration"
+    ],
+    "anomeric centre": [
+        "anomeric centre"
+    ],
+    "anomeric configuration": [
+        "anomeric configuration"
+    ],
+    "anomeric position": [
+        "anomeric position"
+    ],
+    "anti-positions": [
+        "anti-positions"
+    ],
+    "chiral centre": [
+        "chiral centre"
+    ],
+    "chirality": [
+        "chirality"
+    ],
+    "diastereomer": [
+        "diastereomer"
+    ],
+    "enantiomer": [
+        "enantiomer"
+    ],
+    "epimer": [
+        "epimer"
+    ],
+    "isomer": [
+        "isomer"
+    ],
+    "stereochemistry": [
+        "stereochemistry"
+    ],
+    "stereoisomer": [
+        "stereoisomer"
+    ],
+    "tautomer": [
+        "tautomer"
+    ],
+    "link": [
+        "link"
+    ],
+    "linker": [
+        "linker"
+    ],
+    "spacer": [
+        "spacer"
+    ],
+    "conjugate": [
+        "conjugate"
+    ],
+    "conjugate acid": [
+        "conjugate acid"
+    ],
+    "conjugate base": [
+        "conjugate base",
+        "conjugate base"
+    ],
+    "antibacterial activity": [
+        "antibacterial activity"
+    ],
+    "antifungal activity": [
+        "antifungal activity",
+        "antifungal activity"
+    ],
+    "antimicrobial activity": [
+        "antimicrobial activity"
+    ],
+    "antineoplastic activity": [
+        "antineoplastic activity"
+    ],
+    "antioxidant activity": [
+        "antioxidant activity"
+    ],
+    "antiviral activity": [
+        "antiviral activity"
+    ],
+    "cytotoxic activity": [
+        "cytotoxic activity"
+    ],
+    "enzyme inhibition": [
+        "enzyme inhibition"
+    ],
+    "ion channel activities": [
+        "ion channel activities"
+    ],
+    "effects": [
+        "effects",
+        "effects"
+    ],
+    "apoptosis inducer": [
+        "apoptosis inducer",
+        "apoptosis inducer"
+    ],
+    "immunosuppressive activity": [
+        "immunosuppressive activity"
+    ],
+    "inhibitory activity": [
+        "inhibitory activity"
+    ],
+    "irritant": [
+        "irritant"
+    ],
+    "mutagen": [
+        "mutagen"
+    ],
+    "neurotransmitter systems": [
+        "neurotransmitter systems"
+    ],
+    "radical scavenging activity": [
+        "radical scavenging activity"
+    ],
+    "receptor activity": [
+        "receptor activity"
+    ],
+    "specificity": [
+        "specificity"
+    ],
+    "toxicity": [
+        "toxicity",
+        "toxicity"
+    ],
+    "acetylation": [
+        "acetylation"
+    ],
+    "acid-alcohol condensation": [
+        "acid-alcohol condensation"
+    ],
+    "acid-base condensation": [
+        "acid-base condensation"
+    ],
+    "acid-base reaction": [
+        "acid-base reaction"
+    ],
+    "acylation": [
+        "acylation"
+    ],
+    "adduct": [
+        "adduct"
+    ],
+    "cleavage": [
+        "cleavage"
+    ],
+    "condensation": [
+        "condensation"
+    ],
+    "coordination": [
+        "coordination"
+    ],
+    "coupling": [
+        "coupling"
+    ],
+    "cyclisation": [
+        "cyclisation"
+    ],
+    "dehydrogenation": [
+        "dehydrogenation"
+    ],
+    "epoxidation": [
+        "epoxidation"
+    ],
+    "esterification": [
+        "esterification"
+    ],
+    "formal condensation": [
+        "formal condensation"
+    ],
+    "fusion": [
+        "fusion"
+    ],
+    "glycosylation": [
+        "glycosylation"
+    ],
+    "hydrolysis": [
+        "hydrolysis"
+    ],
+    "hydroxylation": [
+        "hydroxylation"
+    ],
+    "loss of protons": [
+        "loss of protons"
+    ],
+    "methylation": [
+        "methylation"
+    ],
+    "migration": [
+        "migration"
+    ],
+    "modification": [
+        "modification"
+    ],
+    "oxidation": [
+        "oxidation"
+    ],
+    "oxidative dimerisation": [
+        "oxidative dimerisation"
+    ],
+    "phosphorylation": [
+        "phosphorylation"
+    ],
+    "proton removal": [
+        "proton removal"
+    ],
+    "proton transfer": [
+        "proton transfer"
+    ],
+    "protonation": [
+        "protonation"
+    ],
+    "ratio": [
+        "ratio"
+    ],
+    "reactant": [
+        "reactant"
+    ],
+    "reaction": [
+        "reaction"
+    ],
+    "reduction": [
+        "reduction"
+    ],
+    "removal": [
+        "removal"
+    ],
+    "ring fusion": [
+        "ring fusion"
+    ],
+    "tautomerisation": [
+        "tautomerisation"
+    ],
+    "transfer": [
+        "transfer"
+    ],
+    "action": [
+        "action",
+        "action",
+        "action"
+    ],
+    "affinity": [
+        "affinity"
+    ],
+    "agonist activity": [
+        "agonist activity"
+    ],
+    "binding": [
+        "binding"
+    ],
+    "conversion": [
+        "conversion",
+        "conversion"
+    ],
+    "decomposition": [
+        "decomposition"
+    ],
+    "deprotonation": [
+        "deprotonation",
+        "deprotonation"
+    ],
+    "duration of action": [
+        "duration of action",
+        "duration of action"
+    ],
+    "formation": [
+        "formation",
+        "formation"
+    ],
+    "mechanism": [
+        "mechanism"
+    ],
+    "reaction/binding with other molecules": [
+        "reaction/binding with other molecules"
+    ],
+    "receptor affinity": [
+        "receptor affinity"
+    ],
+    "receptor antagonist": [
+        "receptor antagonist",
+        "receptor antagonist"
+    ],
+    "selectivity": [
+        "selectivity"
+    ],
+    "chemical nature": [
+        "chemical nature"
+    ],
+    "sensitivity": [
+        "sensitivity"
+    ],
+    "ph value": [
+        "ph value"
+    ],
+    "stability": [
+        "stability"
+    ],
+    "valence": [
+        "valence"
+    ],
+    "reactivity": [
+        "reactivity"
+    ],
+    "bioaccumulation": [
+        "bioaccumulation"
+    ],
+    "xenobiotic": [
+        "xenobiotic",
+        "xenobiotic"
+    ],
+    "cell permeability": [
+        "cell permeability"
+    ],
+    "teratogenic agent": [
+        "teratogenic agent"
+    ],
+    "environmental contaminant": [
+        "environmental contaminant",
+        "environmental contaminant"
+    ],
+    "resistance": [
+        "resistance"
+    ],
+    "safety concerns": [
+        "safety concerns"
+    ],
+    "analgesic activity": [
+        "analgesic activity"
+    ],
+    "anti-inflammatory activity": [
+        "anti-inflammatory activity"
+    ],
+    "antimalarial activity": [
+        "antimalarial activity"
+    ],
+    "antimycobacterial": [
+        "antimycobacterial"
+    ],
+    "carcinogenicity": [
+        "carcinogenicity"
+    ],
+    "medical effects": [
+        "medical effects"
+    ],
+    "potency": [
+        "potency"
+    ],
+    "therapeutic effects": [
+        "therapeutic effects"
+    ],
+    "abundance": [
+        "abundance"
+    ],
+    "atomic abundance": [
+        "atomic abundance"
+    ],
+    "atomic mass": [
+        "atomic mass"
+    ],
+    "boiling point": [
+        "boiling point"
+    ],
+    "color": [
+        "color"
+    ],
+    "half-life": [
+        "half-life"
+    ],
+    "ic50": [
+        "ic50"
+    ],
+    "melting point": [
+        "melting point"
+    ],
+    "nuclear spin": [
+        "nuclear spin"
+    ],
+    "spectrum": [
+        "spectrum"
+    ],
+    "odor": [
+        "odor"
+    ],
+    "optical activity": [
+        "optical activity"
+    ],
+    "physical state": [
+        "physical state"
+    ],
+    "smell": [
+        "smell"
+    ],
+    "solubility": [
+        "solubility"
+    ],
+    "taste": [
+        "taste"
+    ],
+    "volatileness": [
+        "volatileness"
+    ],
+    "fungicide": [
+        "fungicide"
+    ],
+    "herbicide": [
+        "herbicide"
+    ],
+    "insecticide": [
+        "insecticide",
+        "insecticide"
+    ],
+    "disease control": [
+        "disease control"
+    ],
+    "herbicide safener": [
+        "herbicide safener"
+    ],
+    "plant growth regulator": [
+        "plant growth regulator"
+    ],
+    "synthetic auxin": [
+        "synthetic auxin"
+    ],
+    "phytoestrogen": [
+        "phytoestrogen"
+    ],
+    "chemical hybridisation agent": [
+        "chemical hybridisation agent"
+    ],
+    "antifungal agrochemical": [
+        "antifungal agrochemical"
+    ],
+    "antibiotic": [
+        "antibiotic",
+        "antibiotic",
+        "antibiotic"
+    ],
+    "antifungal drug": [
+        "antifungal drug"
+    ],
+    "antibacterial drug": [
+        "antibacterial drug"
+    ],
+    "antiprotozoal": [
+        "antiprotozoal"
+    ],
+    "antiviral drug": [
+        "antiviral drug"
+    ],
+    "nematicide": [
+        "nematicide"
+    ],
+    "acaricide": [
+        "acaricide"
+    ],
+    "antiseptic": [
+        "antiseptic"
+    ],
+    "reagent": [
+        "reagent",
+        "reagent"
+    ],
+    "indicator": [
+        "indicator"
+    ],
+    "detection": [
+        "detection"
+    ],
+    "derivatisation agent": [
+        "derivatisation agent"
+    ],
+    "fluorescent dye": [
+        "fluorescent dye"
+    ],
+    "production": [
+        "production",
+        "production"
+    ],
+    "chromatographic reagent": [
+        "chromatographic reagent"
+    ],
+    "tracer": [
+        "tracer"
+    ],
+    "solvent": [
+        "solvent",
+        "solvent"
+    ],
+    "inhibitor": [
+        "inhibitor",
+        "inhibitor",
+        "inhibitor"
+    ],
+    "antagonist": [
+        "antagonist",
+        "antagonist",
+        "antagonist"
+    ],
+    "prodrug": [
+        "prodrug",
+        "prodrug",
+        "prodrug"
+    ],
+    "modulator": [
+        "modulator"
+    ],
+    "sympathomimetic agent": [
+        "sympathomimetic agent"
+    ],
+    "allergen": [
+        "allergen",
+        "allergen",
+        "allergen"
+    ],
+    "sodium channel blocker": [
+        "sodium channel blocker"
+    ],
+    "ligand": [
+        "ligand",
+        "ligand"
+    ],
+    "agonist": [
+        "agonist",
+        "agonist"
+    ],
+    "approval": [
+        "approval"
+    ],
+    "withdrawn from market": [
+        "withdrawn from market"
+    ],
+    "registered in": [
+        "registered in"
+    ],
+    "experimental": [
+        "experimental"
+    ],
+    "biomarker": [
+        "biomarker"
+    ],
+    "counterstain": [
+        "counterstain"
+    ],
+    "clinical development": [
+        "clinical development"
+    ],
+    "testing": [
+        "testing"
+    ],
+    "treatment": [
+        "treatment",
+        "treatment"
+    ],
+    "antineoplastic agent": [
+        "antineoplastic agent"
+    ],
+    "administration": [
+        "administration",
+        "administration"
+    ],
+    "antimalarial": [
+        "antimalarial"
+    ],
+    "antiemetic": [
+        "antiemetic"
+    ],
+    "antipsychotic": [
+        "antipsychotic"
+    ],
+    "antidote": [
+        "antidote"
+    ],
+    "anti-allergic agent": [
+        "anti-allergic agent"
+    ],
+    "anticonvulsant": [
+        "anticonvulsant"
+    ],
+    "analgesic": [
+        "analgesic",
+        "analgesic"
+    ],
+    "antidepressant": [
+        "antidepressant"
+    ],
+    "local anaesthetic": [
+        "local anaesthetic"
+    ],
+    "anti-inflammatory agent": [
+        "anti-inflammatory agent"
+    ],
+    "antioxidant": [
+        "antioxidant",
+        "antioxidant"
+    ],
+    "antiinfective agent": [
+        "antiinfective agent"
+    ],
+    "antitussive": [
+        "antitussive"
+    ],
+    "antihistamine": [
+        "antihistamine"
+    ],
+    "anti-ulcer drug": [
+        "anti-ulcer drug"
+    ],
+    "vasodilation": [
+        "vasodilation"
+    ],
+    "antihypertensive": [
+        "antihypertensive",
+        "antihypertensive"
+    ],
+    "anti-hiv agent": [
+        "anti-hiv agent"
+    ],
+    "drug allergen": [
+        "drug allergen"
+    ],
+    "anticoronaviral agent": [
+        "anticoronaviral agent"
+    ],
+    "protective agent": [
+        "protective agent"
+    ],
+    "anticholesteremic drug": [
+        "anticholesteremic drug"
+    ],
+    "sedative": [
+        "sedative"
+    ],
+    "appetite depressant": [
+        "appetite depressant"
+    ],
+    "anticancerous efficacy": [
+        "anticancerous efficacy"
+    ],
+    "immunosuppressive agent": [
+        "immunosuppressive agent"
+    ],
+    "orphan drug": [
+        "orphan drug"
+    ],
+    "anticoagulant": [
+        "anticoagulant",
+        "anticoagulant"
+    ],
+    "antihypertensive agent": [
+        "antihypertensive agent"
+    ],
+    "recreational drug": [
+        "recreational drug"
+    ],
+    "antispasmodic": [
+        "antispasmodic"
+    ],
+    "anticholinergic": [
+        "anticholinergic"
+    ],
+    "anti-asthmatic drug": [
+        "anti-asthmatic drug"
+    ],
+    "anticancer": [
+        "anticancer"
+    ],
+    "anti-arrhythmia drug": [
+        "anti-arrhythmia drug"
+    ],
+    "vasodilator": [
+        "vasodilator",
+        "vasodilator"
+    ]
+}
